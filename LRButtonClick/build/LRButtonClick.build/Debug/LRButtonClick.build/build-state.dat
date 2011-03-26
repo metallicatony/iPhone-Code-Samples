@@ -1,0 +1,56 @@
+TLRButtonClick
+v7
+r1
+cCheck dependencies
+
+N/Users/metallicatony/My_Programs/iPhone/LRButtonClick/LRButtonClickViewController.xib
+c000000004D005EC500000000000057C9
+t1291869893
+s22473
+
+N/Users/metallicatony/My_Programs/iPhone/LRButtonClick/MainWindow.xib
+c000000004D0060B40000000000005389
+t1291870388
+s21385
+
+N/Users/metallicatony/My_Programs/iPhone/LRButtonClick/build/Debug/LRButtonClick.app
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/LRButtonClick/build/Debug/LRButtonClick.app/Contents/Info.plist
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/LRButtonClick/build/Debug/LRButtonClick.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/LRButtonClick/build/Debug/LRButtonClick.app/Contents/Resources/LRButtonClickViewController.nib
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/LRButtonClick/build/Debug/LRButtonClick.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+NLRButtonClick-Info.plist
+c000000004D00583B000000000000038D
+t1291868219
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies322824524#322824524#0(66"[BEROR]error: There is no SDK with the name or path 'iphoneos4.0'1(4@58"error: There is no SDK with the name or path 'iphoneos4.0'322824524#18446744073709551615#0#0(1@0"0(0#1#0"32651513917735028#0"0#
+
+CCompileXIB /Users/metallicatony/My_Programs/iPhone/LRButtonClick/LRButtonClickViewController.xib
+r0
+
+CCompileXIB /Users/metallicatony/My_Programs/iPhone/LRButtonClick/MainWindow.xib
+r0
+
+CProcessInfoPlistFile /Users/metallicatony/My_Programs/iPhone/LRButtonClick/build/Debug/LRButtonClick.app/Contents/Info.plist LRButtonClick-Info.plist
+r0
+
+CTouch /Users/metallicatony/My_Programs/iPhone/LRButtonClick/build/Debug/LRButtonClick.app
+r0
+

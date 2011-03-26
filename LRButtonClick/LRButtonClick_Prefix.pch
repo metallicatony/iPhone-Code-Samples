@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'LRButtonClick' target in the 'LRButtonClick' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif

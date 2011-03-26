@@ -1,0 +1,304 @@
+TLRButtonClick
+v7
+r0
+t322824693.804049
+cCheck dependencies
+cProcessInfoPlistFile /Users/metallicatony/My_Programs/iPhone/LRButtonClick/build/Debug-iphonesimulator/LRButtonClick.app/Info.plist LRButtonClick-Info.plist
+cCompileXIB /Users/metallicatony/My_Programs/iPhone/LRButtonClick/MainWindow.xib
+cCompileXIB /Users/metallicatony/My_Programs/iPhone/LRButtonClick/LRButtonClickViewController.xib
+cProcessPCH /var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LRButtonClick_Prefix-fpemasfzberkrockddubntgrkton/LRButtonClick_Prefix.pch.gch LRButtonClick_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LRButtonClick.build/Debug-iphonesimulator/LRButtonClick.build/Objects-normal/i386/main.o /Users/metallicatony/My_Programs/iPhone/LRButtonClick/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LRButtonClick.build/Debug-iphonesimulator/LRButtonClick.build/Objects-normal/i386/LRButtonClickAppDelegate.o /Users/metallicatony/My_Programs/iPhone/LRButtonClick/Classes/LRButtonClickAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LRButtonClick.build/Debug-iphonesimulator/LRButtonClick.build/Objects-normal/i386/LRButtonClickViewController.o /Users/metallicatony/My_Programs/iPhone/LRButtonClick/Classes/LRButtonClickViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/metallicatony/My_Programs/iPhone/LRButtonClick/build/Debug-iphonesimulator/LRButtonClick.app/LRButtonClick normal i386
+cGenerateDSYMFile /Users/metallicatony/My_Programs/iPhone/LRButtonClick/build/Debug-iphonesimulator/LRButtonClick.app.dSYM /Users/metallicatony/My_Programs/iPhone/LRButtonClick/build/Debug-iphonesimulator/LRButtonClick.app/LRButtonClick
+cTouch /Users/metallicatony/My_Programs/iPhone/LRButtonClick/build/Debug-iphonesimulator/LRButtonClick.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C3569260000000000000132
+t1278568742
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Users/metallicatony/My_Programs/iPhone/LRButtonClick/Classes/LRButtonClickAppDelegate.h
+c000000004D00583B0000000000000205
+t1291868219
+s517
+i<UIKit/UIKit.h>
+
+N/Users/metallicatony/My_Programs/iPhone/LRButtonClick/Classes/LRButtonClickAppDelegate.m
+c000000004D00583B0000000000000AAB
+t1291868219
+s2731
+i"LRButtonClickAppDelegate.h"
+i"LRButtonClickViewController.h"
+
+N/Users/metallicatony/My_Programs/iPhone/LRButtonClick/Classes/LRButtonClickViewController.h
+c000000004D0058DE000000000000017C
+t1291868382
+s380
+i<UIKit/UIKit.h>
+
+N/Users/metallicatony/My_Programs/iPhone/LRButtonClick/Classes/LRButtonClickViewController.m
+c000000004D0060040000000000000765
+t1291870212
+s1893
+i"LRButtonClickViewController.h"
+
+N/Users/metallicatony/My_Programs/iPhone/LRButtonClick/LRButtonClickViewController.xib
+c000000004D005EC500000000000057C9
+t1291869893
+s22473
+
+N/Users/metallicatony/My_Programs/iPhone/LRButtonClick/LRButtonClick_Prefix.pch
+c000000004D00583B00000000000000C3
+t1291868219
+s195
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/metallicatony/My_Programs/iPhone/LRButtonClick/MainWindow.xib
+c000000004D0060B40000000000005389
+t1291870388
+s21385
+
+N/Users/metallicatony/My_Programs/iPhone/LRButtonClick/build/Debug-iphonesimulator/LRButtonClick.app
+t1301131860
+s238
+
+N/Users/metallicatony/My_Programs/iPhone/LRButtonClick/build/Debug-iphonesimulator/LRButtonClick.app.dSYM
+t1301131860
+s102
+
+N/Users/metallicatony/My_Programs/iPhone/LRButtonClick/build/Debug-iphonesimulator/LRButtonClick.app/Info.plist
+t1301131850
+s615
+
+N/Users/metallicatony/My_Programs/iPhone/LRButtonClick/build/Debug-iphonesimulator/LRButtonClick.app/LRButtonClick
+t1301131860
+s18392
+
+N/Users/metallicatony/My_Programs/iPhone/LRButtonClick/build/Debug-iphonesimulator/LRButtonClick.app/LRButtonClickViewController.nib
+t1301131854
+s3730
+
+N/Users/metallicatony/My_Programs/iPhone/LRButtonClick/build/Debug-iphonesimulator/LRButtonClick.app/MainWindow.nib
+t1301131854
+s1693
+
+N/Users/metallicatony/My_Programs/iPhone/LRButtonClick/build/Debug-iphonesimulator/LRButtonClick.app/PkgInfo
+t1301131850
+s8
+
+N/Users/metallicatony/My_Programs/iPhone/LRButtonClick/build/LRButtonClick.build/Debug-iphonesimulator/LRButtonClick.build/Objects-normal/i386/LRButtonClick.LinkFileList
+c000000004D005AEB00000000000001EA
+t1291868907
+s490
+
+N/Users/metallicatony/My_Programs/iPhone/LRButtonClick/build/LRButtonClick.build/Debug-iphonesimulator/LRButtonClick.build/Objects-normal/i386/LRButtonClickAppDelegate.o
+t1301131859
+s51728
+
+N/Users/metallicatony/My_Programs/iPhone/LRButtonClick/build/LRButtonClick.build/Debug-iphonesimulator/LRButtonClick.build/Objects-normal/i386/LRButtonClickViewController.o
+t1301131859
+s42792
+
+N/Users/metallicatony/My_Programs/iPhone/LRButtonClick/build/LRButtonClick.build/Debug-iphonesimulator/LRButtonClick.build/Objects-normal/i386/main.o
+t1301131859
+s6340
+
+N/Users/metallicatony/My_Programs/iPhone/LRButtonClick/main.m
+c000000004D00583B0000000000000171
+t1291868219
+s369
+i<UIKit/UIKit.h>
+
+N/var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LRButtonClick_Prefix-dxqxuqjbcbaovmdvmrkzhlruupdw/LRButtonClick_Prefix.pch.gch
+t1291868909
+s15232016
+
+N/var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LRButtonClick_Prefix-fpemasfzberkrockddubntgrkton/LRButtonClick_Prefix.pch.gch
+t1301131858
+s15814064
+
+NLRButtonClick-Info.plist
+c000000004D00583B000000000000038D
+t1291868219
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies322824693#322824693#0(0"0(0#1#0"8605897536#0"0#
+
+CCompileC build/LRButtonClick.build/Debug-iphonesimulator/LRButtonClick.build/Objects-normal/i386/LRButtonClickAppDelegate.o /Users/metallicatony/My_Programs/iPhone/LRButtonClick/Classes/LRButtonClickAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322824658.919679
+e322824659.987207
+r1
+xCompileC
+xbuild/LRButtonClick.build/Debug-iphonesimulator/LRButtonClick.build/Objects-normal/i386/LRButtonClickAppDelegate.o
+x/Users/metallicatony/My_Programs/iPhone/LRButtonClick/Classes/LRButtonClickAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@96"Compile /Users/metallicatony/My_Programs/iPhone/LRButtonClick/Classes/LRButtonClickAppDelegate.m322824658#322824659#0(0"0(0#0#88"/Users/metallicatony/My_Programs/iPhone/LRButtonClick/Classes/LRButtonClickAppDelegate.m8603420608#2247"    cd /Users/metallicatony/My_Programs/iPhone/LRButtonClick    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/metallicatony/My_Programs/iPhone/LRButtonClick/build/LRButtonClick.build/Debug-iphonesimulator/LRButtonClick.build/LRButtonClick-generated-files.hmap -I/Users/metallicatony/My_Programs/iPhone/LRButtonClick/build/LRButtonClick.build/Debug-iphonesimulator/LRButtonClick.build/LRButtonClick-own-target-headers.hmap -I/Users/metallicatony/My_Programs/iPhone/LRButtonClick/build/LRButtonClick.build/Debug-iphonesimulator/LRButtonClick.build/LRButtonClick-all-target-headers.hmap -iquote /Users/metallicatony/My_Programs/iPhone/LRButtonClick/build/LRButtonClick.build/Debug-iphonesimulator/LRButtonClick.build/LRButtonClick-project-headers.hmap -F/Users/metallicatony/My_Programs/iPhone/LRButtonClick/build/Debug-iphonesimulator -I/Users/metallicatony/My_Programs/iPhone/LRButtonClick/build/Debug-iphonesimulator/include -I/Users/metallicatony/My_Programs/iPhone/LRButtonClick/build/LRButtonClick.build/Debug-iphonesimulator/LRButtonClick.build/DerivedSources/i386 -I/Users/metallicatony/My_Programs/iPhone/LRButtonClick/build/LRButtonClick.build/Debug-iphonesimulator/LRButtonClick.build/DerivedSources -include /var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LRButtonClick_Prefix-fpemasfzberkrockddubntgrkton/LRButtonClick_Prefix.pch -c /Users/metallicatony/My_Programs/iPhone/LRButtonClick/Classes/LRButtonClickAppDelegate.m -o /Users/metallicatony/My_Programs/iPhone/LRButtonClick/build/LRButtonClick.build/Debug-iphonesimulator/LRButtonClick.build/Objects-normal/i386/LRButtonClickAppDelegate.o0#
+
+CCompileC build/LRButtonClick.build/Debug-iphonesimulator/LRButtonClick.build/Objects-normal/i386/LRButtonClickViewController.o /Users/metallicatony/My_Programs/iPhone/LRButtonClick/Classes/LRButtonClickViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322824658.932474
+e322824659.953395
+r1
+xCompileC
+xbuild/LRButtonClick.build/Debug-iphonesimulator/LRButtonClick.build/Objects-normal/i386/LRButtonClickViewController.o
+x/Users/metallicatony/My_Programs/iPhone/LRButtonClick/Classes/LRButtonClickViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@99"Compile /Users/metallicatony/My_Programs/iPhone/LRButtonClick/Classes/LRButtonClickViewController.m322824658#322824659#0(0"0(0#0#91"/Users/metallicatony/My_Programs/iPhone/LRButtonClick/Classes/LRButtonClickViewController.m8602625184#2253"    cd /Users/metallicatony/My_Programs/iPhone/LRButtonClick    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/metallicatony/My_Programs/iPhone/LRButtonClick/build/LRButtonClick.build/Debug-iphonesimulator/LRButtonClick.build/LRButtonClick-generated-files.hmap -I/Users/metallicatony/My_Programs/iPhone/LRButtonClick/build/LRButtonClick.build/Debug-iphonesimulator/LRButtonClick.build/LRButtonClick-own-target-headers.hmap -I/Users/metallicatony/My_Programs/iPhone/LRButtonClick/build/LRButtonClick.build/Debug-iphonesimulator/LRButtonClick.build/LRButtonClick-all-target-headers.hmap -iquote /Users/metallicatony/My_Programs/iPhone/LRButtonClick/build/LRButtonClick.build/Debug-iphonesimulator/LRButtonClick.build/LRButtonClick-project-headers.hmap -F/Users/metallicatony/My_Programs/iPhone/LRButtonClick/build/Debug-iphonesimulator -I/Users/metallicatony/My_Programs/iPhone/LRButtonClick/build/Debug-iphonesimulator/include -I/Users/metallicatony/My_Programs/iPhone/LRButtonClick/build/LRButtonClick.build/Debug-iphonesimulator/LRButtonClick.build/DerivedSources/i386 -I/Users/metallicatony/My_Programs/iPhone/LRButtonClick/build/LRButtonClick.build/Debug-iphonesimulator/LRButtonClick.build/DerivedSources -include /var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LRButtonClick_Prefix-fpemasfzberkrockddubntgrkton/LRButtonClick_Prefix.pch -c /Users/metallicatony/My_Programs/iPhone/LRButtonClick/Classes/LRButtonClickViewController.m -o /Users/metallicatony/My_Programs/iPhone/LRButtonClick/build/LRButtonClick.build/Debug-iphonesimulator/LRButtonClick.build/Objects-normal/i386/LRButtonClickViewController.o0#
+
+CCompileC build/LRButtonClick.build/Debug-iphonesimulator/LRButtonClick.build/Objects-normal/i386/main.o /Users/metallicatony/My_Programs/iPhone/LRButtonClick/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322824658.918307
+e322824659.942717
+r1
+xCompileC
+xbuild/LRButtonClick.build/Debug-iphonesimulator/LRButtonClick.build/Objects-normal/i386/main.o
+x/Users/metallicatony/My_Programs/iPhone/LRButtonClick/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/metallicatony/My_Programs/iPhone/LRButtonClick/main.m322824658#322824659#0(0"0(0#0#60"/Users/metallicatony/My_Programs/iPhone/LRButtonClick/main.m8605623808#2199"    cd /Users/metallicatony/My_Programs/iPhone/LRButtonClick    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/metallicatony/My_Programs/iPhone/LRButtonClick/build/LRButtonClick.build/Debug-iphonesimulator/LRButtonClick.build/LRButtonClick-generated-files.hmap -I/Users/metallicatony/My_Programs/iPhone/LRButtonClick/build/LRButtonClick.build/Debug-iphonesimulator/LRButtonClick.build/LRButtonClick-own-target-headers.hmap -I/Users/metallicatony/My_Programs/iPhone/LRButtonClick/build/LRButtonClick.build/Debug-iphonesimulator/LRButtonClick.build/LRButtonClick-all-target-headers.hmap -iquote /Users/metallicatony/My_Programs/iPhone/LRButtonClick/build/LRButtonClick.build/Debug-iphonesimulator/LRButtonClick.build/LRButtonClick-project-headers.hmap -F/Users/metallicatony/My_Programs/iPhone/LRButtonClick/build/Debug-iphonesimulator -I/Users/metallicatony/My_Programs/iPhone/LRButtonClick/build/Debug-iphonesimulator/include -I/Users/metallicatony/My_Programs/iPhone/LRButtonClick/build/LRButtonClick.build/Debug-iphonesimulator/LRButtonClick.build/DerivedSources/i386 -I/Users/metallicatony/My_Programs/iPhone/LRButtonClick/build/LRButtonClick.build/Debug-iphonesimulator/LRButtonClick.build/DerivedSources -include /var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LRButtonClick_Prefix-fpemasfzberkrockddubntgrkton/LRButtonClick_Prefix.pch -c /Users/metallicatony/My_Programs/iPhone/LRButtonClick/main.m -o /Users/metallicatony/My_Programs/iPhone/LRButtonClick/build/LRButtonClick.build/Debug-iphonesimulator/LRButtonClick.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/metallicatony/My_Programs/iPhone/LRButtonClick/LRButtonClickViewController.xib
+s322824650.825843
+e322824654.581503
+r1
+xCompileXIB
+x/Users/metallicatony/My_Programs/iPhone/LRButtonClick/LRButtonClickViewController.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@42"CompileXIB LRButtonClickViewController.xib322824650#322824654#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#85"/Users/metallicatony/My_Programs/iPhone/LRButtonClick/LRButtonClickViewController.xib8605737728#655"    cd /Users/metallicatony/My_Programs/iPhone/LRButtonClick    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/metallicatony/My_Programs/iPhone/LRButtonClick/build/Debug-iphonesimulator/LRButtonClick.app/LRButtonClickViewController.nib /Users/metallicatony/My_Programs/iPhone/LRButtonClick/LRButtonClickViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/metallicatony/My_Programs/iPhone/LRButtonClick/MainWindow.xib
+s322824650.794404
+e322824654.581124
+r1
+xCompileXIB
+x/Users/metallicatony/My_Programs/iPhone/LRButtonClick/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib322824650#322824654#0(0"0(0#0#68"/Users/metallicatony/My_Programs/iPhone/LRButtonClick/MainWindow.xib8605777952#621"    cd /Users/metallicatony/My_Programs/iPhone/LRButtonClick    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/metallicatony/My_Programs/iPhone/LRButtonClick/build/Debug-iphonesimulator/LRButtonClick.app/MainWindow.nib /Users/metallicatony/My_Programs/iPhone/LRButtonClick/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CGenerateDSYMFile /Users/metallicatony/My_Programs/iPhone/LRButtonClick/build/Debug-iphonesimulator/LRButtonClick.app.dSYM /Users/metallicatony/My_Programs/iPhone/LRButtonClick/build/Debug-iphonesimulator/LRButtonClick.app/LRButtonClick
+s322824660.535040
+e322824660.614759
+r1
+xGenerateDSYMFile
+x/Users/metallicatony/My_Programs/iPhone/LRButtonClick/build/Debug-iphonesimulator/LRButtonClick.app.dSYM
+x/Users/metallicatony/My_Programs/iPhone/LRButtonClick/build/Debug-iphonesimulator/LRButtonClick.app/LRButtonClick
+lSLF07#2@127"GenerateDSYMFile build/Debug-iphonesimulator/LRButtonClick.app.dSYM build/Debug-iphonesimulator/LRButtonClick.app/LRButtonClick322824660#322824660#0(0"0(0#0#113"/Users/metallicatony/My_Programs/iPhone/LRButtonClick/build/Debug-iphonesimulator/LRButtonClick.app/LRButtonClick8605553280#446"    cd /Users/metallicatony/My_Programs/iPhone/LRButtonClick    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/metallicatony/My_Programs/iPhone/LRButtonClick/build/Debug-iphonesimulator/LRButtonClick.app/LRButtonClick -o /Users/metallicatony/My_Programs/iPhone/LRButtonClick/build/Debug-iphonesimulator/LRButtonClick.app.dSYM0#
+
+CLd /Users/metallicatony/My_Programs/iPhone/LRButtonClick/build/Debug-iphonesimulator/LRButtonClick.app/LRButtonClick normal i386
+s322824659.987299
+e322824660.534832
+r1
+xLd
+x/Users/metallicatony/My_Programs/iPhone/LRButtonClick/build/Debug-iphonesimulator/LRButtonClick.app/LRButtonClick
+xnormal
+xi386
+lSLF07#2@118"Link /Users/metallicatony/My_Programs/iPhone/LRButtonClick/build/Debug-iphonesimulator/LRButtonClick.app/LRButtonClick322824659#322824660#0(0"0(0#0#0"8590618272#1005"    cd /Users/metallicatony/My_Programs/iPhone/LRButtonClick    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/metallicatony/My_Programs/iPhone/LRButtonClick/build/Debug-iphonesimulator -F/Users/metallicatony/My_Programs/iPhone/LRButtonClick/build/Debug-iphonesimulator -filelist /Users/metallicatony/My_Programs/iPhone/LRButtonClick/build/LRButtonClick.build/Debug-iphonesimulator/LRButtonClick.build/Objects-normal/i386/LRButtonClick.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/metallicatony/My_Programs/iPhone/LRButtonClick/build/Debug-iphonesimulator/LRButtonClick.app/LRButtonClick0#
+
+CProcessInfoPlistFile /Users/metallicatony/My_Programs/iPhone/LRButtonClick/build/Debug-iphonesimulator/LRButtonClick.app/Info.plist LRButtonClick-Info.plist
+s322824650.758604
+e322824650.794279
+r1
+xProcessInfoPlistFile
+x/Users/metallicatony/My_Programs/iPhone/LRButtonClick/build/Debug-iphonesimulator/LRButtonClick.app/Info.plist
+xLRButtonClick-Info.plist
+lSLF07#2@32"Process LRButtonClick-Info.plist322824650#322824650#0(0"0(0#0#78"/Users/metallicatony/My_Programs/iPhone/LRButtonClick/LRButtonClick-Info.plist30118247716683884#542"    cd /Users/metallicatony/My_Programs/iPhone/LRButtonClick    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility LRButtonClick-Info.plist -genpkginfo /Users/metallicatony/My_Programs/iPhone/LRButtonClick/build/Debug-iphonesimulator/LRButtonClick.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/metallicatony/My_Programs/iPhone/LRButtonClick/build/Debug-iphonesimulator/LRButtonClick.app/Info.plist0#
+
+CProcessPCH /var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LRButtonClick_Prefix-dxqxuqjbcbaovmdvmrkzhlruupdw/LRButtonClick_Prefix.pch.gch LRButtonClick_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s313561708.401192
+e313561709.435114
+r1
+xProcessPCH
+x/var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LRButtonClick_Prefix-dxqxuqjbcbaovmdvmrkzhlruupdw/LRButtonClick_Prefix.pch.gch
+xLRButtonClick_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile LRButtonClick_Prefix.pch313561708#313561709#0(0"0(0#0#78"/Users/metallicatony/My_Programs/iPhone/LRButtonClick/LRButtonClick_Prefix.pch8611647808#2057"    cd /Users/metallicatony/My_Programs/iPhone/LRButtonClick    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/metallicatony/My_Programs/iPhone/LRButtonClick/build/LRButtonClick.build/Debug-iphonesimulator/LRButtonClick.build/LRButtonClick-generated-files.hmap -I/Users/metallicatony/My_Programs/iPhone/LRButtonClick/build/LRButtonClick.build/Debug-iphonesimulator/LRButtonClick.build/LRButtonClick-own-target-headers.hmap -I/Users/metallicatony/My_Programs/iPhone/LRButtonClick/build/LRButtonClick.build/Debug-iphonesimulator/LRButtonClick.build/LRButtonClick-all-target-headers.hmap -iquote /Users/metallicatony/My_Programs/iPhone/LRButtonClick/build/LRButtonClick.build/Debug-iphonesimulator/LRButtonClick.build/LRButtonClick-project-headers.hmap -F/Users/metallicatony/My_Programs/iPhone/LRButtonClick/build/Debug-iphonesimulator -I/Users/metallicatony/My_Programs/iPhone/LRButtonClick/build/Debug-iphonesimulator/include -I/Users/metallicatony/My_Programs/iPhone/LRButtonClick/build/LRButtonClick.build/Debug-iphonesimulator/LRButtonClick.build/DerivedSources/i386 -I/Users/metallicatony/My_Programs/iPhone/LRButtonClick/build/LRButtonClick.build/Debug-iphonesimulator/LRButtonClick.build/DerivedSources -c /Users/metallicatony/My_Programs/iPhone/LRButtonClick/LRButtonClick_Prefix.pch -o /var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LRButtonClick_Prefix-dxqxuqjbcbaovmdvmrkzhlruupdw/LRButtonClick_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LRButtonClick_Prefix-fpemasfzberkrockddubntgrkton/LRButtonClick_Prefix.pch.gch LRButtonClick_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s322824654.581622
+e322824658.918080
+r1
+xProcessPCH
+x/var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LRButtonClick_Prefix-fpemasfzberkrockddubntgrkton/LRButtonClick_Prefix.pch.gch
+xLRButtonClick_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile LRButtonClick_Prefix.pch322824654#322824658#0(0"0(0#0#78"/Users/metallicatony/My_Programs/iPhone/LRButtonClick/LRButtonClick_Prefix.pch8602857952#2070"    cd /Users/metallicatony/My_Programs/iPhone/LRButtonClick    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/metallicatony/My_Programs/iPhone/LRButtonClick/build/LRButtonClick.build/Debug-iphonesimulator/LRButtonClick.build/LRButtonClick-generated-files.hmap -I/Users/metallicatony/My_Programs/iPhone/LRButtonClick/build/LRButtonClick.build/Debug-iphonesimulator/LRButtonClick.build/LRButtonClick-own-target-headers.hmap -I/Users/metallicatony/My_Programs/iPhone/LRButtonClick/build/LRButtonClick.build/Debug-iphonesimulator/LRButtonClick.build/LRButtonClick-all-target-headers.hmap -iquote /Users/metallicatony/My_Programs/iPhone/LRButtonClick/build/LRButtonClick.build/Debug-iphonesimulator/LRButtonClick.build/LRButtonClick-project-headers.hmap -F/Users/metallicatony/My_Programs/iPhone/LRButtonClick/build/Debug-iphonesimulator -I/Users/metallicatony/My_Programs/iPhone/LRButtonClick/build/Debug-iphonesimulator/include -I/Users/metallicatony/My_Programs/iPhone/LRButtonClick/build/LRButtonClick.build/Debug-iphonesimulator/LRButtonClick.build/DerivedSources/i386 -I/Users/metallicatony/My_Programs/iPhone/LRButtonClick/build/LRButtonClick.build/Debug-iphonesimulator/LRButtonClick.build/DerivedSources -c /Users/metallicatony/My_Programs/iPhone/LRButtonClick/LRButtonClick_Prefix.pch -o /var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LRButtonClick_Prefix-fpemasfzberkrockddubntgrkton/LRButtonClick_Prefix.pch.gch0#
+
+CTouch /Users/metallicatony/My_Programs/iPhone/LRButtonClick/build/Debug-iphonesimulator/LRButtonClick.app
+s322824660.614871
+e322824660.630212
+r1
+xTouch
+x/Users/metallicatony/My_Programs/iPhone/LRButtonClick/build/Debug-iphonesimulator/LRButtonClick.app
+lSLF07#2@105"Touch /Users/metallicatony/My_Programs/iPhone/LRButtonClick/build/Debug-iphonesimulator/LRButtonClick.app322824660#322824660#0(0"0(0#0#0"8605405184#314"    cd /Users/metallicatony/My_Programs/iPhone/LRButtonClick    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/metallicatony/My_Programs/iPhone/LRButtonClick/build/Debug-iphonesimulator/LRButtonClick.app0#
+

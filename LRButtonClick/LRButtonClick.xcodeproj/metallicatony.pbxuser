@@ -1,0 +1,186 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* LRButtonClickAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1171, 315}}";
+			sepNavSelRange = "{50, 0}";
+			sepNavVisRange = "{0, 517}";
+		};
+	};
+	1D3623250D0F684500981E51 /* LRButtonClickAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1040}}";
+			sepNavSelRange = "{726, 0}";
+			sepNavVisRange = "{0, 633}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* LRButtonClick */ = {
+		activeExec = 0;
+		executables = (
+			29191DA212B08FBB00BFE4EC /* LRButtonClick */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* LRButtonClickViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1171, 325}}";
+			sepNavSelRange = "{372, 0}";
+			sepNavVisRange = "{0, 380}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* LRButtonClickViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1168, 1014}}";
+			sepNavSelRange = "{461, 0}";
+			sepNavVisRange = "{248, 652}";
+		};
+	};
+	29191DA212B08FBB00BFE4EC /* LRButtonClick */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = LRButtonClick;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	29191DAC12B08FDC00BFE4EC /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	29191DAD12B08FDC00BFE4EC /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	29191DD912B45E3700BFE4EC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* LRButtonClickViewController.h */;
+		name = "LRButtonClickViewController.h: 17";
+		rLen = 0;
+		rLoc = 372;
+		rType = 0;
+		vrLen = 380;
+		vrLoc = 0;
+	};
+	29191DDB12B45E3700BFE4EC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* LRButtonClickAppDelegate.m */;
+		name = "LRButtonClickAppDelegate.m: 29";
+		rLen = 0;
+		rLoc = 726;
+		rType = 0;
+		vrLen = 633;
+		vrLoc = 0;
+	};
+	2947A7D0133DE9D6006F55DE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* LRButtonClickViewController.m */;
+		name = "LRButtonClickViewController.m: 20";
+		rLen = 0;
+		rLoc = 461;
+		rType = 0;
+		vrLen = 652;
+		vrLoc = 248;
+	};
+	297246F112D43D6C0082A3CD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* LRButtonClickViewController.m */;
+		name = "LRButtonClickViewController.m: 14";
+		rLen = 0;
+		rLoc = 273;
+		rType = 0;
+		vrLen = 657;
+		vrLoc = 248;
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 29191DA212B08FBB00BFE4EC /* LRButtonClick */;
+		activeSDKPreference = iphonesimulator4.3;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* LRButtonClick */;
+		codeSenseManager = 29191DAD12B08FDC00BFE4EC /* Code sense */;
+		executables = (
+			29191DA212B08FBB00BFE4EC /* LRButtonClick */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					990,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 322824520;
+			PBXWorkspaceStateSaveDate = 322824520;
+		};
+		perUserProjectItems = {
+			29191DD912B45E3700BFE4EC = 29191DD912B45E3700BFE4EC /* PBXTextBookmark */;
+			29191DDB12B45E3700BFE4EC = 29191DDB12B45E3700BFE4EC /* PBXTextBookmark */;
+			2947A7D0133DE9D6006F55DE /* PBXTextBookmark */ = 2947A7D0133DE9D6006F55DE /* PBXTextBookmark */;
+			297246F112D43D6C0082A3CD = 297246F112D43D6C0082A3CD /* PBXTextBookmark */;
+			29D77D7E12B7747F0098CFCB = 29D77D7E12B7747F0098CFCB /* PBXTextBookmark */;
+			29D77D8012B7747F0098CFCB = 29D77D8012B7747F0098CFCB /* PBXTextBookmark */;
+		};
+		sourceControlManager = 29191DAC12B08FDC00BFE4EC /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29D77D7E12B7747F0098CFCB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* LRButtonClickAppDelegate.h */;
+		name = "LRButtonClickAppDelegate.h: 3";
+		rLen = 0;
+		rLoc = 50;
+		rType = 0;
+		vrLen = 517;
+		vrLoc = 0;
+	};
+	29D77D8012B7747F0098CFCB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* LRButtonClickViewController.m */;
+		name = "LRButtonClickViewController.m: 27";
+		rLen = 0;
+		rLoc = 783;
+		rType = 0;
+		vrLen = 702;
+		vrLoc = 203;
+	};
+}
