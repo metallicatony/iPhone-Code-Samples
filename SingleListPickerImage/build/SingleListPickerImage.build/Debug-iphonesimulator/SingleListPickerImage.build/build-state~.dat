@@ -1,0 +1,238 @@
+TSingleListPickerImage
+v7
+r0
+t316083605.630588
+cCheck dependencies
+cProcessInfoPlistFile /Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/build/Debug-iphonesimulator/SingleListPickerImage.app/Info.plist SingleListPickerImage-Info.plist
+cCompileXIB /Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/MainWindow.xib
+cCompileXIB /Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/SingleListPickerImageViewController.xib
+cProcessPCH /var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SingleListPickerImage_Prefix-dgwovmrkqigxfagkzokvoledbuhh/SingleListPickerImage_Prefix.pch.gch SingleListPickerImage_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SingleListPickerImage.build/Debug-iphonesimulator/SingleListPickerImage.build/Objects-normal/i386/main.o /Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SingleListPickerImage.build/Debug-iphonesimulator/SingleListPickerImage.build/Objects-normal/i386/SingleListPickerImageAppDelegate.o /Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/Classes/SingleListPickerImageAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SingleListPickerImage.build/Debug-iphonesimulator/SingleListPickerImage.build/Objects-normal/i386/SingleListPickerImageViewController.o /Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/Classes/SingleListPickerImageViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C3569260000000000000132
+t1278568742
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/Classes/SingleListPickerImageAppDelegate.h
+c000000004D26CA0F0000000000000234
+t1294387727
+s564
+i<UIKit/UIKit.h>
+
+N/Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/Classes/SingleListPickerImageAppDelegate.m
+c000000004D26CA0F0000000000000AD2
+t1294387727
+s2770
+i"SingleListPickerImageAppDelegate.h"
+i"SingleListPickerImageViewController.h"
+
+N/Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/Classes/SingleListPickerImageViewController.h
+c000000004D26D5380000000000000246
+t1294390584
+s582
+i<UIKit/UIKit.h>
+
+N/Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/Classes/SingleListPickerImageViewController.m
+c000000004D26D3D40000000000000954
+t1294390228
+s2388
+i"SingleListPickerImageViewController.h"
+
+N/Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/MainWindow.xib
+c000000004D26CA0F0000000000004ED1
+t1294387727
+s20177
+
+N/Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/SingleListPickerImageViewController.xib
+c000000004D26D5E30000000000004D47
+t1294390755
+s19783
+
+N/Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/SingleListPickerImage_Prefix.pch
+c000000004D26CA0F00000000000000D3
+t1294387727
+s211
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/build/Debug-iphonesimulator/SingleListPickerImage.app
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/build/Debug-iphonesimulator/SingleListPickerImage.app.dSYM
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/build/Debug-iphonesimulator/SingleListPickerImage.app/Info.plist
+t1294390803
+s653
+
+N/Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/build/Debug-iphonesimulator/SingleListPickerImage.app/MainWindow.nib
+t1294390804
+s1151
+
+N/Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/build/Debug-iphonesimulator/SingleListPickerImage.app/PkgInfo
+t1294390803
+s8
+
+N/Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/build/Debug-iphonesimulator/SingleListPickerImage.app/SingleListPickerImage
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/build/Debug-iphonesimulator/SingleListPickerImage.app/SingleListPickerImageViewController.nib
+t1294390804
+s1189
+
+N/Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/build/SingleListPickerImage.build/Debug-iphonesimulator/SingleListPickerImage.build/Objects-normal/i386/SingleListPickerImage.LinkFileList
+c000000004D26D6130000000000000242
+t1294390803
+s578
+
+N/Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/build/SingleListPickerImage.build/Debug-iphonesimulator/SingleListPickerImage.build/Objects-normal/i386/SingleListPickerImageAppDelegate.o
+t1294390805
+s49444
+
+N/Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/build/SingleListPickerImage.build/Debug-iphonesimulator/SingleListPickerImage.build/Objects-normal/i386/SingleListPickerImageViewController.o
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/build/SingleListPickerImage.build/Debug-iphonesimulator/SingleListPickerImage.build/Objects-normal/i386/main.o
+t1294390805
+s6348
+
+N/Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/main.m
+c000000004D26CA0F0000000000000178
+t1294387727
+s376
+i<UIKit/UIKit.h>
+
+N/var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SingleListPickerImage_Prefix-dgwovmrkqigxfagkzokvoledbuhh/SingleListPickerImage_Prefix.pch.gch
+t1294390805
+s15232016
+
+NSingleListPickerImage-Info.plist
+c000000004D26CA0F000000000000038D
+t1294387727
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies316083603#316083603#0(0"0(0#1#0"8243112767684375552#0"0#
+
+CCompileC build/SingleListPickerImage.build/Debug-iphonesimulator/SingleListPickerImage.build/Objects-normal/i386/SingleListPickerImageAppDelegate.o /Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/Classes/SingleListPickerImageAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s316083605.510566
+e316083605.630491
+r1
+xCompileC
+xbuild/SingleListPickerImage.build/Debug-iphonesimulator/SingleListPickerImage.build/Objects-normal/i386/SingleListPickerImageAppDelegate.o
+x/Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/Classes/SingleListPickerImageAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@112"Compile /Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/Classes/SingleListPickerImageAppDelegate.m316083605#316083605#0(0"0(0#0#104"/Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/Classes/SingleListPickerImageAppDelegate.m8642513184#2498"    cd /Users/metallicatony/My_Programs/iPhone/SingleListPickerImage    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/build/SingleListPickerImage.build/Debug-iphonesimulator/SingleListPickerImage.build/SingleListPickerImage-generated-files.hmap -I/Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/build/SingleListPickerImage.build/Debug-iphonesimulator/SingleListPickerImage.build/SingleListPickerImage-own-target-headers.hmap -I/Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/build/SingleListPickerImage.build/Debug-iphonesimulator/SingleListPickerImage.build/SingleListPickerImage-all-target-headers.hmap -iquote /Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/build/SingleListPickerImage.build/Debug-iphonesimulator/SingleListPickerImage.build/SingleListPickerImage-project-headers.hmap -F/Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/build/Debug-iphonesimulator -I/Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/build/Debug-iphonesimulator/include -I/Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/build/SingleListPickerImage.build/Debug-iphonesimulator/SingleListPickerImage.build/DerivedSources/i386 -I/Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/build/SingleListPickerImage.build/Debug-iphonesimulator/SingleListPickerImage.build/DerivedSources -include /var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SingleListPickerImage_Prefix-dgwovmrkqigxfagkzokvoledbuhh/SingleListPickerImage_Prefix.pch -c /Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/Classes/SingleListPickerImageAppDelegate.m -o /Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/build/SingleListPickerImage.build/Debug-iphonesimulator/SingleListPickerImage.build/Objects-normal/i386/SingleListPickerImageAppDelegate.o0#
+
+CCompileC build/SingleListPickerImage.build/Debug-iphonesimulator/SingleListPickerImage.build/Objects-normal/i386/SingleListPickerImageViewController.o /Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/Classes/SingleListPickerImageViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s316083605.511809
+e316083605.611928
+r0
+xCompileC
+xbuild/SingleListPickerImage.build/Debug-iphonesimulator/SingleListPickerImage.build/Objects-normal/i386/SingleListPickerImageViewController.o
+x/Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/Classes/SingleListPickerImageViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/Classes/SingleListPickerImageViewController.m: In function '-[SingleListPickerImageViewController viewDidLoad]':
+o/Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/Classes/SingleListPickerImageViewController.m:38: error: called object '(struct NSString *)&<U8b40>' is not a function
+o/Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/Classes/SingleListPickerImageViewController.m:38: warning: missing sentinel in function call
+lSLF07#2@115"Compile /Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/Classes/SingleListPickerImageViewController.m316083605#316083605#0(511"/Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/Classes/SingleListPickerImageViewController.m: In function '-[SingleListPickerImageViewController viewDidLoad]':/Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/Classes/SingleListPickerImageViewController.m:38: error: called object '(struct NSString *)&<U8b40>' is not a function/Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/Classes/SingleListPickerImageViewController.m:38: warning: missing sentinel in function call2(4@61"Called object '(struct NSString *)&<U8b40>' is not a function316083605#175#181#0(6@107"/Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/Classes/SingleListPickerImageViewController.m316083028#38#0#38#0#35"called object '*' is not a function0(22@33"Missing sentinel in function call316083605#356#155#0(6@107"/Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/Classes/SingleListPickerImageViewController.m316083028#38#0#38#0#0"0(0#0#107"/Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/Classes/SingleListPickerImageViewController.m8653411616#2504"    cd /Users/metallicatony/My_Programs/iPhone/SingleListPickerImage    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/build/SingleListPickerImage.build/Debug-iphonesimulator/SingleListPickerImage.build/SingleListPickerImage-generated-files.hmap -I/Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/build/SingleListPickerImage.build/Debug-iphonesimulator/SingleListPickerImage.build/SingleListPickerImage-own-target-headers.hmap -I/Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/build/SingleListPickerImage.build/Debug-iphonesimulator/SingleListPickerImage.build/SingleListPickerImage-all-target-headers.hmap -iquote /Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/build/SingleListPickerImage.build/Debug-iphonesimulator/SingleListPickerImage.build/SingleListPickerImage-project-headers.hmap -F/Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/build/Debug-iphonesimulator -I/Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/build/Debug-iphonesimulator/include -I/Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/build/SingleListPickerImage.build/Debug-iphonesimulator/SingleListPickerImage.build/DerivedSources/i386 -I/Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/build/SingleListPickerImage.build/Debug-iphonesimulator/SingleListPickerImage.build/DerivedSources -include /var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SingleListPickerImage_Prefix-dgwovmrkqigxfagkzokvoledbuhh/SingleListPickerImage_Prefix.pch -c /Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/Classes/SingleListPickerImageViewController.m -o /Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/build/SingleListPickerImage.build/Debug-iphonesimulator/SingleListPickerImage.build/Objects-normal/i386/SingleListPickerImageViewController.o1#
+
+CCompileC build/SingleListPickerImage.build/Debug-iphonesimulator/SingleListPickerImage.build/Objects-normal/i386/main.o /Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s316083605.508785
+e316083605.614000
+r1
+xCompileC
+xbuild/SingleListPickerImage.build/Debug-iphonesimulator/SingleListPickerImage.build/Objects-normal/i386/main.o
+x/Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/main.m316083605#316083605#0(0"0(0#0#68"/Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/main.m8648571200#2434"    cd /Users/metallicatony/My_Programs/iPhone/SingleListPickerImage    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/build/SingleListPickerImage.build/Debug-iphonesimulator/SingleListPickerImage.build/SingleListPickerImage-generated-files.hmap -I/Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/build/SingleListPickerImage.build/Debug-iphonesimulator/SingleListPickerImage.build/SingleListPickerImage-own-target-headers.hmap -I/Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/build/SingleListPickerImage.build/Debug-iphonesimulator/SingleListPickerImage.build/SingleListPickerImage-all-target-headers.hmap -iquote /Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/build/SingleListPickerImage.build/Debug-iphonesimulator/SingleListPickerImage.build/SingleListPickerImage-project-headers.hmap -F/Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/build/Debug-iphonesimulator -I/Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/build/Debug-iphonesimulator/include -I/Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/build/SingleListPickerImage.build/Debug-iphonesimulator/SingleListPickerImage.build/DerivedSources/i386 -I/Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/build/SingleListPickerImage.build/Debug-iphonesimulator/SingleListPickerImage.build/DerivedSources -include /var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SingleListPickerImage_Prefix-dgwovmrkqigxfagkzokvoledbuhh/SingleListPickerImage_Prefix.pch -c /Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/main.m -o /Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/build/SingleListPickerImage.build/Debug-iphonesimulator/SingleListPickerImage.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/MainWindow.xib
+s316083603.954776
+e316083604.336259
+r1
+xCompileXIB
+x/Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib316083603#316083604#0(0"0(0#0#76"/Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/MainWindow.xib8645641728#653"    cd /Users/metallicatony/My_Programs/iPhone/SingleListPickerImage    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/build/Debug-iphonesimulator/SingleListPickerImage.app/MainWindow.nib /Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/SingleListPickerImageViewController.xib
+s316083603.974013
+e316083604.357525
+r1
+xCompileXIB
+x/Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/SingleListPickerImageViewController.xib
+lSLF07#2@50"CompileXIB SingleListPickerImageViewController.xib316083603#316083604#0(0"0(0#0#101"/Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/SingleListPickerImageViewController.xib8642580224#703"    cd /Users/metallicatony/My_Programs/iPhone/SingleListPickerImage    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/build/Debug-iphonesimulator/SingleListPickerImage.app/SingleListPickerImageViewController.nib /Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/SingleListPickerImageViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CGenerateDSYMFile /Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/build/Debug-iphonesimulator/SingleListPickerImage.app.dSYM /Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/build/Debug-iphonesimulator/SingleListPickerImage.app/SingleListPickerImage
+r0
+
+CLd /Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/build/Debug-iphonesimulator/SingleListPickerImage.app/SingleListPickerImage normal i386
+r0
+
+CProcessInfoPlistFile /Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/build/Debug-iphonesimulator/SingleListPickerImage.app/Info.plist SingleListPickerImage-Info.plist
+s316083603.607595
+e316083603.954611
+r1
+xProcessInfoPlistFile
+x/Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/build/Debug-iphonesimulator/SingleListPickerImage.app/Info.plist
+xSingleListPickerImage-Info.plist
+lSLF07#2@40"Process SingleListPickerImage-Info.plist316083603#316083603#0(0"0(0#0#94"/Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/SingleListPickerImage-Info.plist30399739873591400#590"    cd /Users/metallicatony/My_Programs/iPhone/SingleListPickerImage    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility SingleListPickerImage-Info.plist -genpkginfo /Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/build/Debug-iphonesimulator/SingleListPickerImage.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/build/Debug-iphonesimulator/SingleListPickerImage.app/Info.plist0#
+
+CProcessPCH /var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SingleListPickerImage_Prefix-dgwovmrkqigxfagkzokvoledbuhh/SingleListPickerImage_Prefix.pch.gch SingleListPickerImage_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s316083604.357992
+e316083605.508448
+r1
+xProcessPCH
+x/var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SingleListPickerImage_Prefix-dgwovmrkqigxfagkzokvoledbuhh/SingleListPickerImage_Prefix.pch.gch
+xSingleListPickerImage_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@43"Precompile SingleListPickerImage_Prefix.pch316083604#316083605#0(0"0(0#0#94"/Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/SingleListPickerImage_Prefix.pch8646898688#2289"    cd /Users/metallicatony/My_Programs/iPhone/SingleListPickerImage    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/build/SingleListPickerImage.build/Debug-iphonesimulator/SingleListPickerImage.build/SingleListPickerImage-generated-files.hmap -I/Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/build/SingleListPickerImage.build/Debug-iphonesimulator/SingleListPickerImage.build/SingleListPickerImage-own-target-headers.hmap -I/Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/build/SingleListPickerImage.build/Debug-iphonesimulator/SingleListPickerImage.build/SingleListPickerImage-all-target-headers.hmap -iquote /Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/build/SingleListPickerImage.build/Debug-iphonesimulator/SingleListPickerImage.build/SingleListPickerImage-project-headers.hmap -F/Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/build/Debug-iphonesimulator -I/Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/build/Debug-iphonesimulator/include -I/Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/build/SingleListPickerImage.build/Debug-iphonesimulator/SingleListPickerImage.build/DerivedSources/i386 -I/Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/build/SingleListPickerImage.build/Debug-iphonesimulator/SingleListPickerImage.build/DerivedSources -c /Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/SingleListPickerImage_Prefix.pch -o /var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SingleListPickerImage_Prefix-dgwovmrkqigxfagkzokvoledbuhh/SingleListPickerImage_Prefix.pch.gch0#
+
+CTouch /Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/build/Debug-iphonesimulator/SingleListPickerImage.app
+r0
+

@@ -1,0 +1,318 @@
+TSwitchView
+v7
+r0
+t315383851.370173
+cCheck dependencies
+cProcessInfoPlistFile /Users/metallicatony/My_Programs/iPhone/SwitchView/build/Debug-iphonesimulator/SwitchView.app/Info.plist SwitchView-Info.plist
+cCompileXIB /Users/metallicatony/My_Programs/iPhone/SwitchView/MainWindow.xib
+cCompileXIB /Users/metallicatony/My_Programs/iPhone/SwitchView/Classes/BlueViewController.xib
+cCompileXIB /Users/metallicatony/My_Programs/iPhone/SwitchView/Classes/YellowViewController.xib
+cProcessPCH /var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SwitchView_Prefix-dyfkrojdtcvmaocusjhbrwrmcjud/SwitchView_Prefix.pch.gch SwitchView_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SwitchView.build/Debug-iphonesimulator/SwitchView.build/Objects-normal/i386/main.o /Users/metallicatony/My_Programs/iPhone/SwitchView/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SwitchView.build/Debug-iphonesimulator/SwitchView.build/Objects-normal/i386/SwitchViewAppDelegate.o /Users/metallicatony/My_Programs/iPhone/SwitchView/Classes/SwitchViewAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SwitchView.build/Debug-iphonesimulator/SwitchView.build/Objects-normal/i386/SwitchViewController.o /Users/metallicatony/My_Programs/iPhone/SwitchView/Classes/SwitchViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SwitchView.build/Debug-iphonesimulator/SwitchView.build/Objects-normal/i386/BlueViewController.o /Users/metallicatony/My_Programs/iPhone/SwitchView/Classes/BlueViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SwitchView.build/Debug-iphonesimulator/SwitchView.build/Objects-normal/i386/YellowViewController.o /Users/metallicatony/My_Programs/iPhone/SwitchView/Classes/YellowViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C3569260000000000000132
+t1278568742
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Users/metallicatony/My_Programs/iPhone/SwitchView/Classes/BlueViewController.h
+c000000004D1C279300000000000000EE
+t1293690771
+s238
+i<UIKit/UIKit.h>
+
+N/Users/metallicatony/My_Programs/iPhone/SwitchView/Classes/BlueViewController.m
+c000000004D1C279300000000000005A8
+t1293690771
+s1448
+i"BlueViewController.h"
+
+N/Users/metallicatony/My_Programs/iPhone/SwitchView/Classes/BlueViewController.xib
+c000000004D1C27930000000000001871
+t1293690771
+s6257
+
+N/Users/metallicatony/My_Programs/iPhone/SwitchView/Classes/SwitchViewAppDelegate.h
+c000000004D1C272E00000000000001F1
+t1293690670
+s497
+i<UIKit/UIKit.h>
+
+N/Users/metallicatony/My_Programs/iPhone/SwitchView/Classes/SwitchViewAppDelegate.m
+c000000004D1C28A70000000000000A21
+t1293691047
+s2593
+i"SwitchViewAppDelegate.h"
+
+N/Users/metallicatony/My_Programs/iPhone/SwitchView/Classes/SwitchViewController.h
+c000000004D1C2858000000000000017F
+t1293690968
+s383
+i<UIKit/UIKit.h>
+
+N/Users/metallicatony/My_Programs/iPhone/SwitchView/Classes/SwitchViewController.m
+c000000004D1C283C00000000000006A8
+t1293690940
+s1704
+i"SwitchViewController.h"
+i"BlueViewController.h"
+i"YellowViewController.h"
+
+N/Users/metallicatony/My_Programs/iPhone/SwitchView/Classes/YellowViewController.h
+c000000004D1C27C100000000000000F2
+t1293690817
+s242
+i<UIKit/UIKit.h>
+
+N/Users/metallicatony/My_Programs/iPhone/SwitchView/Classes/YellowViewController.m
+c000000004D1C27B500000000000005AE
+t1293690805
+s1454
+i"YellowViewController.h"
+
+N/Users/metallicatony/My_Programs/iPhone/SwitchView/Classes/YellowViewController.xib
+c000000004D1C27B50000000000001877
+t1293690805
+s6263
+
+N/Users/metallicatony/My_Programs/iPhone/SwitchView/MainWindow.xib
+c000000004D1C26590000000000002117
+t1293690457
+s8471
+
+N/Users/metallicatony/My_Programs/iPhone/SwitchView/SwitchView_Prefix.pch
+c000000004D1C265900000000000000BD
+t1293690457
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/metallicatony/My_Programs/iPhone/SwitchView/build/Debug-iphonesimulator/SwitchView.app
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/SwitchView/build/Debug-iphonesimulator/SwitchView.app.dSYM
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/SwitchView/build/Debug-iphonesimulator/SwitchView.app/BlueViewController.nib
+t1293691050
+s764
+
+N/Users/metallicatony/My_Programs/iPhone/SwitchView/build/Debug-iphonesimulator/SwitchView.app/Info.plist
+t1293691049
+s603
+
+N/Users/metallicatony/My_Programs/iPhone/SwitchView/build/Debug-iphonesimulator/SwitchView.app/MainWindow.nib
+t1293691050
+s987
+
+N/Users/metallicatony/My_Programs/iPhone/SwitchView/build/Debug-iphonesimulator/SwitchView.app/PkgInfo
+t1293691049
+s8
+
+N/Users/metallicatony/My_Programs/iPhone/SwitchView/build/Debug-iphonesimulator/SwitchView.app/SwitchView
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/SwitchView/build/Debug-iphonesimulator/SwitchView.app/YellowViewController.nib
+t1293691050
+s764
+
+N/Users/metallicatony/My_Programs/iPhone/SwitchView/build/SwitchView.build/Debug-iphonesimulator/SwitchView.build/Objects-normal/i386/BlueViewController.o
+t1293691051
+s34560
+
+N/Users/metallicatony/My_Programs/iPhone/SwitchView/build/SwitchView.build/Debug-iphonesimulator/SwitchView.build/Objects-normal/i386/SwitchView.LinkFileList
+c000000004D1C28A900000000000002FB
+t1293691049
+s763
+
+N/Users/metallicatony/My_Programs/iPhone/SwitchView/build/SwitchView.build/Debug-iphonesimulator/SwitchView.build/Objects-normal/i386/SwitchViewAppDelegate.o
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/SwitchView/build/SwitchView.build/Debug-iphonesimulator/SwitchView.build/Objects-normal/i386/SwitchViewController.o
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/SwitchView/build/SwitchView.build/Debug-iphonesimulator/SwitchView.build/Objects-normal/i386/YellowViewController.o
+t1293691051
+s34600
+
+N/Users/metallicatony/My_Programs/iPhone/SwitchView/build/SwitchView.build/Debug-iphonesimulator/SwitchView.build/Objects-normal/i386/main.o
+t1293691051
+s6328
+
+N/Users/metallicatony/My_Programs/iPhone/SwitchView/main.m
+c000000004D1C2659000000000000016F
+t1293690457
+s367
+i<UIKit/UIKit.h>
+
+N/var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SwitchView_Prefix-dyfkrojdtcvmaocusjhbrwrmcjud/SwitchView_Prefix.pch.gch
+t1293691051
+s15232016
+
+NSwitchView-Info.plist
+c000000004D1C2659000000000000038D
+t1293690457
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies315383849#315383849#0(0"0(0#1#0"8247620834010738688#0"0#
+
+CCompileC build/SwitchView.build/Debug-iphonesimulator/SwitchView.build/Objects-normal/i386/BlueViewController.o /Users/metallicatony/My_Programs/iPhone/SwitchView/Classes/BlueViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s315383851.182975
+e315383851.323927
+r1
+xCompileC
+xbuild/SwitchView.build/Debug-iphonesimulator/SwitchView.build/Objects-normal/i386/BlueViewController.o
+x/Users/metallicatony/My_Programs/iPhone/SwitchView/Classes/BlueViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/metallicatony/My_Programs/iPhone/SwitchView/Classes/BlueViewController.m315383851#315383851#0(0"0(0#0#79"/Users/metallicatony/My_Programs/iPhone/SwitchView/Classes/BlueViewController.m8612569440#2129"    cd /Users/metallicatony/My_Programs/iPhone/SwitchView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/metallicatony/My_Programs/iPhone/SwitchView/build/SwitchView.build/Debug-iphonesimulator/SwitchView.build/SwitchView-generated-files.hmap -I/Users/metallicatony/My_Programs/iPhone/SwitchView/build/SwitchView.build/Debug-iphonesimulator/SwitchView.build/SwitchView-own-target-headers.hmap -I/Users/metallicatony/My_Programs/iPhone/SwitchView/build/SwitchView.build/Debug-iphonesimulator/SwitchView.build/SwitchView-all-target-headers.hmap -iquote /Users/metallicatony/My_Programs/iPhone/SwitchView/build/SwitchView.build/Debug-iphonesimulator/SwitchView.build/SwitchView-project-headers.hmap -F/Users/metallicatony/My_Programs/iPhone/SwitchView/build/Debug-iphonesimulator -I/Users/metallicatony/My_Programs/iPhone/SwitchView/build/Debug-iphonesimulator/include -I/Users/metallicatony/My_Programs/iPhone/SwitchView/build/SwitchView.build/Debug-iphonesimulator/SwitchView.build/DerivedSources/i386 -I/Users/metallicatony/My_Programs/iPhone/SwitchView/build/SwitchView.build/Debug-iphonesimulator/SwitchView.build/DerivedSources -include /var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SwitchView_Prefix-dyfkrojdtcvmaocusjhbrwrmcjud/SwitchView_Prefix.pch -c /Users/metallicatony/My_Programs/iPhone/SwitchView/Classes/BlueViewController.m -o /Users/metallicatony/My_Programs/iPhone/SwitchView/build/SwitchView.build/Debug-iphonesimulator/SwitchView.build/Objects-normal/i386/BlueViewController.o0#
+
+CCompileC build/SwitchView.build/Debug-iphonesimulator/SwitchView.build/Objects-normal/i386/SwitchViewAppDelegate.o /Users/metallicatony/My_Programs/iPhone/SwitchView/Classes/SwitchViewAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s315383851.179909
+e315383851.302986
+r0
+xCompileC
+xbuild/SwitchView.build/Debug-iphonesimulator/SwitchView.build/Objects-normal/i386/SwitchViewAppDelegate.o
+x/Users/metallicatony/My_Programs/iPhone/SwitchView/Classes/SwitchViewAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/metallicatony/My_Programs/iPhone/SwitchView/Classes/SwitchViewAppDelegate.m: In function '-[SwitchViewAppDelegate application:didFinishLaunchingWithOptions:]':
+o/Users/metallicatony/My_Programs/iPhone/SwitchView/Classes/SwitchViewAppDelegate.m:24: error: request for member 'view' in something not a structure or union
+lSLF07#2@90"Compile /Users/metallicatony/My_Programs/iPhone/SwitchView/Classes/SwitchViewAppDelegate.m315383851#315383851#0(325"/Users/metallicatony/My_Programs/iPhone/SwitchView/Classes/SwitchViewAppDelegate.m: In function '-[SwitchViewAppDelegate application:didFinishLaunchingWithOptions:]':/Users/metallicatony/My_Programs/iPhone/SwitchView/Classes/SwitchViewAppDelegate.m:24: error: request for member 'view' in something not a structure or union1(4@63"Request for member 'view' in something not a structure or union315383851#167#158#0(6@82"/Users/metallicatony/My_Programs/iPhone/SwitchView/Classes/SwitchViewAppDelegate.m315383847#24#0#24#0#0"0(0#0#82"/Users/metallicatony/My_Programs/iPhone/SwitchView/Classes/SwitchViewAppDelegate.m8611050144#2135"    cd /Users/metallicatony/My_Programs/iPhone/SwitchView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/metallicatony/My_Programs/iPhone/SwitchView/build/SwitchView.build/Debug-iphonesimulator/SwitchView.build/SwitchView-generated-files.hmap -I/Users/metallicatony/My_Programs/iPhone/SwitchView/build/SwitchView.build/Debug-iphonesimulator/SwitchView.build/SwitchView-own-target-headers.hmap -I/Users/metallicatony/My_Programs/iPhone/SwitchView/build/SwitchView.build/Debug-iphonesimulator/SwitchView.build/SwitchView-all-target-headers.hmap -iquote /Users/metallicatony/My_Programs/iPhone/SwitchView/build/SwitchView.build/Debug-iphonesimulator/SwitchView.build/SwitchView-project-headers.hmap -F/Users/metallicatony/My_Programs/iPhone/SwitchView/build/Debug-iphonesimulator -I/Users/metallicatony/My_Programs/iPhone/SwitchView/build/Debug-iphonesimulator/include -I/Users/metallicatony/My_Programs/iPhone/SwitchView/build/SwitchView.build/Debug-iphonesimulator/SwitchView.build/DerivedSources/i386 -I/Users/metallicatony/My_Programs/iPhone/SwitchView/build/SwitchView.build/Debug-iphonesimulator/SwitchView.build/DerivedSources -include /var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SwitchView_Prefix-dyfkrojdtcvmaocusjhbrwrmcjud/SwitchView_Prefix.pch -c /Users/metallicatony/My_Programs/iPhone/SwitchView/Classes/SwitchViewAppDelegate.m -o /Users/metallicatony/My_Programs/iPhone/SwitchView/build/SwitchView.build/Debug-iphonesimulator/SwitchView.build/Objects-normal/i386/SwitchViewAppDelegate.o1#
+
+CCompileC build/SwitchView.build/Debug-iphonesimulator/SwitchView.build/Objects-normal/i386/SwitchViewController.o /Users/metallicatony/My_Programs/iPhone/SwitchView/Classes/SwitchViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s315383851.181236
+e315383851.295774
+r0
+xCompileC
+xbuild/SwitchView.build/Debug-iphonesimulator/SwitchView.build/Objects-normal/i386/SwitchViewController.o
+x/Users/metallicatony/My_Programs/iPhone/SwitchView/Classes/SwitchViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/metallicatony/My_Programs/iPhone/SwitchView/Classes/SwitchViewController.m:15: error: no declaration of property 'blueViewController' found in the interface
+o/Users/metallicatony/My_Programs/iPhone/SwitchView/Classes/SwitchViewController.m:16: error: no declaration of property 'yellowViewController' found in the interface
+lSLF07#2@89"Compile /Users/metallicatony/My_Programs/iPhone/SwitchView/Classes/SwitchViewController.m315383851#315383851#0(330"/Users/metallicatony/My_Programs/iPhone/SwitchView/Classes/SwitchViewController.m:15: error: no declaration of property 'blueViewController' found in the interface/Users/metallicatony/My_Programs/iPhone/SwitchView/Classes/SwitchViewController.m:16: error: no declaration of property 'yellowViewController' found in the interface2(4@70"No declaration of property 'blueViewController' found in the interface315383851#0#164#0(6@81"/Users/metallicatony/My_Programs/iPhone/SwitchView/Classes/SwitchViewController.m315383740#15#0#15#0#0"0(4@72"No declaration of property 'yellowViewController' found in the interface315383851#164#166#0(6@81"/Users/metallicatony/My_Programs/iPhone/SwitchView/Classes/SwitchViewController.m315383740#16#0#16#0#0"0(0#0#81"/Users/metallicatony/My_Programs/iPhone/SwitchView/Classes/SwitchViewController.m8603650688#2133"    cd /Users/metallicatony/My_Programs/iPhone/SwitchView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/metallicatony/My_Programs/iPhone/SwitchView/build/SwitchView.build/Debug-iphonesimulator/SwitchView.build/SwitchView-generated-files.hmap -I/Users/metallicatony/My_Programs/iPhone/SwitchView/build/SwitchView.build/Debug-iphonesimulator/SwitchView.build/SwitchView-own-target-headers.hmap -I/Users/metallicatony/My_Programs/iPhone/SwitchView/build/SwitchView.build/Debug-iphonesimulator/SwitchView.build/SwitchView-all-target-headers.hmap -iquote /Users/metallicatony/My_Programs/iPhone/SwitchView/build/SwitchView.build/Debug-iphonesimulator/SwitchView.build/SwitchView-project-headers.hmap -F/Users/metallicatony/My_Programs/iPhone/SwitchView/build/Debug-iphonesimulator -I/Users/metallicatony/My_Programs/iPhone/SwitchView/build/Debug-iphonesimulator/include -I/Users/metallicatony/My_Programs/iPhone/SwitchView/build/SwitchView.build/Debug-iphonesimulator/SwitchView.build/DerivedSources/i386 -I/Users/metallicatony/My_Programs/iPhone/SwitchView/build/SwitchView.build/Debug-iphonesimulator/SwitchView.build/DerivedSources -include /var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SwitchView_Prefix-dyfkrojdtcvmaocusjhbrwrmcjud/SwitchView_Prefix.pch -c /Users/metallicatony/My_Programs/iPhone/SwitchView/Classes/SwitchViewController.m -o /Users/metallicatony/My_Programs/iPhone/SwitchView/build/SwitchView.build/Debug-iphonesimulator/SwitchView.build/Objects-normal/i386/SwitchViewController.o1#
+
+CCompileC build/SwitchView.build/Debug-iphonesimulator/SwitchView.build/Objects-normal/i386/YellowViewController.o /Users/metallicatony/My_Programs/iPhone/SwitchView/Classes/YellowViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s315383851.295927
+e315383851.370040
+r1
+xCompileC
+xbuild/SwitchView.build/Debug-iphonesimulator/SwitchView.build/Objects-normal/i386/YellowViewController.o
+x/Users/metallicatony/My_Programs/iPhone/SwitchView/Classes/YellowViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/metallicatony/My_Programs/iPhone/SwitchView/Classes/YellowViewController.m315383851#315383851#0(0"0(0#0#81"/Users/metallicatony/My_Programs/iPhone/SwitchView/Classes/YellowViewController.m8603398483253095424#2133"    cd /Users/metallicatony/My_Programs/iPhone/SwitchView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/metallicatony/My_Programs/iPhone/SwitchView/build/SwitchView.build/Debug-iphonesimulator/SwitchView.build/SwitchView-generated-files.hmap -I/Users/metallicatony/My_Programs/iPhone/SwitchView/build/SwitchView.build/Debug-iphonesimulator/SwitchView.build/SwitchView-own-target-headers.hmap -I/Users/metallicatony/My_Programs/iPhone/SwitchView/build/SwitchView.build/Debug-iphonesimulator/SwitchView.build/SwitchView-all-target-headers.hmap -iquote /Users/metallicatony/My_Programs/iPhone/SwitchView/build/SwitchView.build/Debug-iphonesimulator/SwitchView.build/SwitchView-project-headers.hmap -F/Users/metallicatony/My_Programs/iPhone/SwitchView/build/Debug-iphonesimulator -I/Users/metallicatony/My_Programs/iPhone/SwitchView/build/Debug-iphonesimulator/include -I/Users/metallicatony/My_Programs/iPhone/SwitchView/build/SwitchView.build/Debug-iphonesimulator/SwitchView.build/DerivedSources/i386 -I/Users/metallicatony/My_Programs/iPhone/SwitchView/build/SwitchView.build/Debug-iphonesimulator/SwitchView.build/DerivedSources -include /var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SwitchView_Prefix-dyfkrojdtcvmaocusjhbrwrmcjud/SwitchView_Prefix.pch -c /Users/metallicatony/My_Programs/iPhone/SwitchView/Classes/YellowViewController.m -o /Users/metallicatony/My_Programs/iPhone/SwitchView/build/SwitchView.build/Debug-iphonesimulator/SwitchView.build/Objects-normal/i386/YellowViewController.o0#
+
+CCompileC build/SwitchView.build/Debug-iphonesimulator/SwitchView.build/Objects-normal/i386/main.o /Users/metallicatony/My_Programs/iPhone/SwitchView/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s315383851.178330
+e315383851.311897
+r1
+xCompileC
+xbuild/SwitchView.build/Debug-iphonesimulator/SwitchView.build/Objects-normal/i386/main.o
+x/Users/metallicatony/My_Programs/iPhone/SwitchView/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/metallicatony/My_Programs/iPhone/SwitchView/main.m315383851#315383851#0(0"0(0#0#57"/Users/metallicatony/My_Programs/iPhone/SwitchView/main.m8612551552#2093"    cd /Users/metallicatony/My_Programs/iPhone/SwitchView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/metallicatony/My_Programs/iPhone/SwitchView/build/SwitchView.build/Debug-iphonesimulator/SwitchView.build/SwitchView-generated-files.hmap -I/Users/metallicatony/My_Programs/iPhone/SwitchView/build/SwitchView.build/Debug-iphonesimulator/SwitchView.build/SwitchView-own-target-headers.hmap -I/Users/metallicatony/My_Programs/iPhone/SwitchView/build/SwitchView.build/Debug-iphonesimulator/SwitchView.build/SwitchView-all-target-headers.hmap -iquote /Users/metallicatony/My_Programs/iPhone/SwitchView/build/SwitchView.build/Debug-iphonesimulator/SwitchView.build/SwitchView-project-headers.hmap -F/Users/metallicatony/My_Programs/iPhone/SwitchView/build/Debug-iphonesimulator -I/Users/metallicatony/My_Programs/iPhone/SwitchView/build/Debug-iphonesimulator/include -I/Users/metallicatony/My_Programs/iPhone/SwitchView/build/SwitchView.build/Debug-iphonesimulator/SwitchView.build/DerivedSources/i386 -I/Users/metallicatony/My_Programs/iPhone/SwitchView/build/SwitchView.build/Debug-iphonesimulator/SwitchView.build/DerivedSources -include /var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SwitchView_Prefix-dyfkrojdtcvmaocusjhbrwrmcjud/SwitchView_Prefix.pch -c /Users/metallicatony/My_Programs/iPhone/SwitchView/main.m -o /Users/metallicatony/My_Programs/iPhone/SwitchView/build/SwitchView.build/Debug-iphonesimulator/SwitchView.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/metallicatony/My_Programs/iPhone/SwitchView/Classes/BlueViewController.xib
+s315383849.561125
+e315383850.050008
+r1
+xCompileXIB
+x/Users/metallicatony/My_Programs/iPhone/SwitchView/Classes/BlueViewController.xib
+lSLF07#2@41"CompileXIB Classes/BlueViewController.xib315383849#315383850#0(0"0(0#0#81"/Users/metallicatony/My_Programs/iPhone/SwitchView/Classes/BlueViewController.xib8611168352#633"    cd /Users/metallicatony/My_Programs/iPhone/SwitchView    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/metallicatony/My_Programs/iPhone/SwitchView/build/Debug-iphonesimulator/SwitchView.app/BlueViewController.nib /Users/metallicatony/My_Programs/iPhone/SwitchView/Classes/BlueViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/metallicatony/My_Programs/iPhone/SwitchView/Classes/YellowViewController.xib
+s315383849.562454
+e315383850.054458
+r1
+xCompileXIB
+x/Users/metallicatony/My_Programs/iPhone/SwitchView/Classes/YellowViewController.xib
+lSLF07#2@43"CompileXIB Classes/YellowViewController.xib315383849#315383850#0(0"0(0#0#83"/Users/metallicatony/My_Programs/iPhone/SwitchView/Classes/YellowViewController.xib8609452512#637"    cd /Users/metallicatony/My_Programs/iPhone/SwitchView    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/metallicatony/My_Programs/iPhone/SwitchView/build/Debug-iphonesimulator/SwitchView.app/YellowViewController.nib /Users/metallicatony/My_Programs/iPhone/SwitchView/Classes/YellowViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/metallicatony/My_Programs/iPhone/SwitchView/MainWindow.xib
+s315383849.546998
+e315383850.045254
+r1
+xCompileXIB
+x/Users/metallicatony/My_Programs/iPhone/SwitchView/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib315383849#315383850#0(0"0(0#0#65"/Users/metallicatony/My_Programs/iPhone/SwitchView/MainWindow.xib8610166560#609"    cd /Users/metallicatony/My_Programs/iPhone/SwitchView    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/metallicatony/My_Programs/iPhone/SwitchView/build/Debug-iphonesimulator/SwitchView.app/MainWindow.nib /Users/metallicatony/My_Programs/iPhone/SwitchView/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CGenerateDSYMFile /Users/metallicatony/My_Programs/iPhone/SwitchView/build/Debug-iphonesimulator/SwitchView.app.dSYM /Users/metallicatony/My_Programs/iPhone/SwitchView/build/Debug-iphonesimulator/SwitchView.app/SwitchView
+r0
+
+CLd /Users/metallicatony/My_Programs/iPhone/SwitchView/build/Debug-iphonesimulator/SwitchView.app/SwitchView normal i386
+r0
+
+CProcessInfoPlistFile /Users/metallicatony/My_Programs/iPhone/SwitchView/build/Debug-iphonesimulator/SwitchView.app/Info.plist SwitchView-Info.plist
+s315383849.507709
+e315383849.546896
+r1
+xProcessInfoPlistFile
+x/Users/metallicatony/My_Programs/iPhone/SwitchView/build/Debug-iphonesimulator/SwitchView.app/Info.plist
+xSwitchView-Info.plist
+lSLF07#2@29"Process SwitchView-Info.plist315383849#315383849#0(0"0(0#0#72"/Users/metallicatony/My_Programs/iPhone/SwitchView/SwitchView-Info.plist20547875170680944#524"    cd /Users/metallicatony/My_Programs/iPhone/SwitchView    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility SwitchView-Info.plist -genpkginfo /Users/metallicatony/My_Programs/iPhone/SwitchView/build/Debug-iphonesimulator/SwitchView.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/metallicatony/My_Programs/iPhone/SwitchView/build/Debug-iphonesimulator/SwitchView.app/Info.plist0#
+
+CProcessPCH /var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SwitchView_Prefix-dyfkrojdtcvmaocusjhbrwrmcjud/SwitchView_Prefix.pch.gch SwitchView_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s315383850.054613
+e315383851.178027
+r1
+xProcessPCH
+x/var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SwitchView_Prefix-dyfkrojdtcvmaocusjhbrwrmcjud/SwitchView_Prefix.pch.gch
+xSwitchView_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile SwitchView_Prefix.pch315383850#315383851#0(0"0(0#0#72"/Users/metallicatony/My_Programs/iPhone/SwitchView/SwitchView_Prefix.pch8599180640#1970"    cd /Users/metallicatony/My_Programs/iPhone/SwitchView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/metallicatony/My_Programs/iPhone/SwitchView/build/SwitchView.build/Debug-iphonesimulator/SwitchView.build/SwitchView-generated-files.hmap -I/Users/metallicatony/My_Programs/iPhone/SwitchView/build/SwitchView.build/Debug-iphonesimulator/SwitchView.build/SwitchView-own-target-headers.hmap -I/Users/metallicatony/My_Programs/iPhone/SwitchView/build/SwitchView.build/Debug-iphonesimulator/SwitchView.build/SwitchView-all-target-headers.hmap -iquote /Users/metallicatony/My_Programs/iPhone/SwitchView/build/SwitchView.build/Debug-iphonesimulator/SwitchView.build/SwitchView-project-headers.hmap -F/Users/metallicatony/My_Programs/iPhone/SwitchView/build/Debug-iphonesimulator -I/Users/metallicatony/My_Programs/iPhone/SwitchView/build/Debug-iphonesimulator/include -I/Users/metallicatony/My_Programs/iPhone/SwitchView/build/SwitchView.build/Debug-iphonesimulator/SwitchView.build/DerivedSources/i386 -I/Users/metallicatony/My_Programs/iPhone/SwitchView/build/SwitchView.build/Debug-iphonesimulator/SwitchView.build/DerivedSources -c /Users/metallicatony/My_Programs/iPhone/SwitchView/SwitchView_Prefix.pch -o /var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SwitchView_Prefix-dyfkrojdtcvmaocusjhbrwrmcjud/SwitchView_Prefix.pch.gch0#
+
+CTouch /Users/metallicatony/My_Programs/iPhone/SwitchView/build/Debug-iphonesimulator/SwitchView.app
+r0
+

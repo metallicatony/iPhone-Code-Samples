@@ -1,0 +1,280 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* SwitchViewAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1088, 341}}";
+			sepNavSelRange = "{208, 0}";
+			sepNavVisRange = "{0, 497}";
+		};
+	};
+	1D3623250D0F684500981E51 /* SwitchViewAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1144}}";
+			sepNavSelRange = "{421, 0}";
+			sepNavVisRange = "{92, 2003}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* SwitchView */ = {
+		activeExec = 0;
+		executables = (
+			2902671712CC5DDA00715408 /* SwitchView */,
+		);
+	};
+	2902671712CC5DDA00715408 /* SwitchView */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = SwitchView;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	2902672712CC5DF900715408 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	2902672812CC5DF900715408 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	2902672A12CC5E8500715408 /* SwitchViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1088, 657}}";
+			sepNavSelRange = "{558, 0}";
+			sepNavVisRange = "{0, 565}";
+		};
+	};
+	2902672B12CC5E8500715408 /* SwitchViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1088, 1430}}";
+			sepNavSelRange = "{113, 0}";
+			sepNavVisRange = "{1422, 1786}";
+			sepNavWindowFrame = "{{15, 63}, {750, 815}}";
+		};
+	};
+	2902672D12CC5F1300715408 /* BlueViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1088, 657}}";
+			sepNavSelRange = "{232, 41}";
+			sepNavVisRange = "{0, 280}";
+		};
+	};
+	2902672E12CC5F1300715408 /* BlueViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1335, 793}}";
+			sepNavSelRange = "{220, 265}";
+			sepNavVisRange = "{0, 875}";
+		};
+	};
+	2902673212CC5F3500715408 /* YellowViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1088, 657}}";
+			sepNavSelRange = "{232, 0}";
+			sepNavVisRange = "{0, 287}";
+		};
+	};
+	2902673312CC5F3500715408 /* YellowViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1349, 858}}";
+			sepNavSelRange = "{227, 0}";
+			sepNavVisRange = "{48, 1625}";
+		};
+	};
+	2902674A12CC610300715408 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* SwitchViewAppDelegate.h */;
+		name = "SwitchViewAppDelegate.h: 11";
+		rLen = 0;
+		rLoc = 208;
+		rType = 0;
+		vrLen = 497;
+		vrLoc = 0;
+	};
+	2902677B12CC6E2500715408 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2902672E12CC5F1300715408 /* BlueViewController.m */;
+		name = "BlueViewController.m: 13";
+		rLen = 265;
+		rLoc = 220;
+		rType = 0;
+		vrLen = 875;
+		vrLoc = 0;
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 2902671712CC5DDA00715408 /* SwitchView */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* SwitchView */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* SwitchView */,
+		);
+		codeSenseManager = 2902672812CC5DF900715408 /* Code sense */;
+		executables = (
+			2902671712CC5DDA00715408 /* SwitchView */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					910,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 316908415;
+			PBXWorkspaceStateSaveDate = 316908415;
+		};
+		perUserProjectItems = {
+			2902674A12CC610300715408 /* PBXTextBookmark */ = 2902674A12CC610300715408 /* PBXTextBookmark */;
+			2902677B12CC6E2500715408 /* PBXTextBookmark */ = 2902677B12CC6E2500715408 /* PBXTextBookmark */;
+			29F8CC2012E3D4280004F651 /* PBXTextBookmark */ = 29F8CC2012E3D4280004F651 /* PBXTextBookmark */;
+			29F8CC2112E3D4280004F651 /* PlistBookmark */ = 29F8CC2112E3D4280004F651 /* PlistBookmark */;
+			29F8CC2212E3D4280004F651 /* PBXTextBookmark */ = 29F8CC2212E3D4280004F651 /* PBXTextBookmark */;
+			29F8CC2312E3D4280004F651 /* PBXTextBookmark */ = 29F8CC2312E3D4280004F651 /* PBXTextBookmark */;
+			29F8CC2412E3D4280004F651 /* PBXTextBookmark */ = 29F8CC2412E3D4280004F651 /* PBXTextBookmark */;
+			29F8CC2512E3D4280004F651 /* PBXTextBookmark */ = 29F8CC2512E3D4280004F651 /* PBXTextBookmark */;
+			29F8CC2612E3D4280004F651 /* PBXTextBookmark */ = 29F8CC2612E3D4280004F651 /* PBXTextBookmark */;
+			29F8CC2712E3D4280004F651 /* PBXTextBookmark */ = 29F8CC2712E3D4280004F651 /* PBXTextBookmark */;
+			29F8CC2812E3D4280004F651 /* PBXTextBookmark */ = 29F8CC2812E3D4280004F651 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 2902672712CC5DF900715408 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29F8CC2012E3D4280004F651 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* SwitchView_Prefix.pch */;
+		name = "SwitchView_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 189;
+		vrLoc = 0;
+	};
+	29F8CC2112E3D4280004F651 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* SwitchView-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/metallicatony/My_Programs/iPhone/SwitchView/SwitchView-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	29F8CC2212E3D4280004F651 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SwitchViewAppDelegate.m */;
+		name = "SwitchViewAppDelegate.m: 21";
+		rLen = 0;
+		rLoc = 421;
+		rType = 0;
+		vrLen = 2003;
+		vrLoc = 92;
+	};
+	29F8CC2312E3D4280004F651 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2902672A12CC5E8500715408 /* SwitchViewController.h */;
+		name = "SwitchViewController.h: 22";
+		rLen = 0;
+		rLoc = 558;
+		rType = 0;
+		vrLen = 565;
+		vrLoc = 0;
+	};
+	29F8CC2412E3D4280004F651 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2902672D12CC5F1300715408 /* BlueViewController.h */;
+		name = "BlueViewController.h: 15";
+		rLen = 41;
+		rLoc = 232;
+		rType = 0;
+		vrLen = 280;
+		vrLoc = 0;
+	};
+	29F8CC2512E3D4280004F651 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2902673212CC5F3500715408 /* YellowViewController.h */;
+		name = "YellowViewController.h: 12";
+		rLen = 0;
+		rLoc = 232;
+		rType = 0;
+		vrLen = 287;
+		vrLoc = 0;
+	};
+	29F8CC2612E3D4280004F651 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2902673312CC5F3500715408 /* YellowViewController.m */;
+		name = "YellowViewController.m: 14";
+		rLen = 0;
+		rLoc = 227;
+		rType = 0;
+		vrLen = 1625;
+		vrLoc = 48;
+	};
+	29F8CC2712E3D4280004F651 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2902672B12CC5E8500715408 /* SwitchViewController.m */;
+		name = "SwitchViewController.m: 19";
+		rLen = 0;
+		rLoc = 432;
+		rType = 0;
+		vrLen = 1844;
+		vrLoc = 0;
+	};
+	29F8CC2812E3D4280004F651 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2902672B12CC5E8500715408 /* SwitchViewController.m */;
+		name = "SwitchViewController.m: 6";
+		rLen = 0;
+		rLoc = 113;
+		rType = 0;
+		vrLen = 1786;
+		vrLoc = 1422;
+	};
+	32CA4F630368D1EE00C91783 /* SwitchView_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1088, 682}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 189}";
+		};
+	};
+}

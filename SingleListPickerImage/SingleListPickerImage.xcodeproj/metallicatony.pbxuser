@@ -1,0 +1,190 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* SingleListPickerImageAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {817, 599}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 564}";
+		};
+	};
+	1D3623250D0F684500981E51 /* SingleListPickerImageAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1157}}";
+			sepNavSelRange = "{539, 0}";
+			sepNavVisRange = "{844, 1920}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* SingleListPickerImage */ = {
+		activeExec = 0;
+		executables = (
+			2972472012D7018F0082A3CD /* SingleListPickerImage */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* SingleListPickerImageViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {921, 672}}";
+			sepNavSelRange = "{542, 0}";
+			sepNavVisRange = "{0, 728}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* SingleListPickerImageViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {921, 1430}}";
+			sepNavSelRange = "{842, 0}";
+			sepNavVisRange = "{727, 1464}";
+		};
+	};
+	2972472012D7018F0082A3CD /* SingleListPickerImage */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = SingleListPickerImage;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	2972472A12D701AE0082A3CD /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	2972472B12D701AE0082A3CD /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	2972477F12D7158E0082A3CD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* SingleListPickerImageAppDelegate.h */;
+		name = "SingleListPickerImageAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 564;
+		vrLoc = 0;
+	};
+	297247FD12D8EB040082A3CD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* SingleListPickerImageViewController.m */;
+		name = "SingleListPickerImageViewController.m: 34";
+		rLen = 0;
+		rLoc = 842;
+		rType = 0;
+		vrLen = 1464;
+		vrLoc = 727;
+	};
+	299E97BF12F2B769006268BF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* SingleListPickerImageViewController.h */;
+		name = "SingleListPickerImageViewController.h: 22";
+		rLen = 0;
+		rLoc = 542;
+		rType = 0;
+		vrLen = 728;
+		vrLoc = 0;
+	};
+	29B5BBF5132E329F00FA288F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SingleListPickerImageAppDelegate.m */;
+		name = "SingleListPickerImageAppDelegate.m: 22";
+		rLen = 0;
+		rLoc = 539;
+		rType = 0;
+		vrLen = 1920;
+		vrLoc = 844;
+	};
+	29B5BBF6132E329F00FA288F /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* SingleListPickerImage-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/SingleListPickerImage-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	29B5BBFD132E32A900FA288F /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* SingleListPickerImage-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/metallicatony/My_Programs/iPhone/SingleListPickerImage/SingleListPickerImage-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 2972472012D7018F0082A3CD /* SingleListPickerImage */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* SingleListPickerImage */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* SingleListPickerImage */,
+		);
+		codeSenseManager = 2972472B12D701AE0082A3CD /* Code sense */;
+		executables = (
+			2972472012D7018F0082A3CD /* SingleListPickerImage */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					743,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 321794710;
+			PBXWorkspaceStateSaveDate = 321794710;
+		};
+		perUserProjectItems = {
+			2972477F12D7158E0082A3CD /* PBXTextBookmark */ = 2972477F12D7158E0082A3CD /* PBXTextBookmark */;
+			297247FD12D8EB040082A3CD /* PBXTextBookmark */ = 297247FD12D8EB040082A3CD /* PBXTextBookmark */;
+			299E97BF12F2B769006268BF /* PBXTextBookmark */ = 299E97BF12F2B769006268BF /* PBXTextBookmark */;
+			29B5BBF5132E329F00FA288F /* PBXTextBookmark */ = 29B5BBF5132E329F00FA288F /* PBXTextBookmark */;
+			29B5BBF6132E329F00FA288F /* PlistBookmark */ = 29B5BBF6132E329F00FA288F /* PlistBookmark */;
+			29B5BBFD132E32A900FA288F /* PlistBookmark */ = 29B5BBFD132E32A900FA288F /* PlistBookmark */;
+		};
+		sourceControlManager = 2972472A12D701AE0082A3CD /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+}
