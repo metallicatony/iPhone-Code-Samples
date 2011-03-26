@@ -1,0 +1,93 @@
+TMultiControlExample
+v7
+r0
+t322824879.442387
+cCheck dependencies
+
+N/Users/metallicatony/My_Programs/iPhone/MultiControlExample/MainWindow.xib
+c000000004D0426D10000000000004EB9
+t1292117713
+s20153
+
+N/Users/metallicatony/My_Programs/iPhone/MultiControlExample/MultiControlExampleViewController.xib
+c000000004D0F1701000000000000A58E
+t1292834561
+s42382
+
+N/Users/metallicatony/My_Programs/iPhone/MultiControlExample/blueButton.png
+c0000000049FA2DB400000000000005BC
+t1241132468
+s1468
+
+N/Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/Debug/MultiControlExample.app
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/Debug/MultiControlExample.app/Contents/Info.plist
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/Debug/MultiControlExample.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/Debug/MultiControlExample.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/Debug/MultiControlExample.app/Contents/Resources/MultiControlExampleViewController.nib
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/Debug/MultiControlExample.app/Contents/Resources/blueButton.png
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/Debug/MultiControlExample.app/Contents/Resources/google_logo.png
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/Debug/MultiControlExample.app/Contents/Resources/whiteButton.png
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/MultiControlExample/google_logo.png
+c000000004D04258A00000000000046AC
+t1292117386
+s18092
+
+N/Users/metallicatony/My_Programs/iPhone/MultiControlExample/whiteButton.png
+c0000000049FA2DB40000000000000596
+t1241132468
+s1430
+
+NMultiControlExample-Info.plist
+c000000004D0426D1000000000000038D
+t1292117713
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies322824879#322824879#0(66"[BEROR]error: There is no SDK with the name or path 'iphoneos4.0'0(0#1#0"8605931968#0"0#
+
+CCompileXIB /Users/metallicatony/My_Programs/iPhone/MultiControlExample/MainWindow.xib
+r0
+
+CCompileXIB /Users/metallicatony/My_Programs/iPhone/MultiControlExample/MultiControlExampleViewController.xib
+r0
+
+CCpResource build/Debug/MultiControlExample.app/Contents/Resources/blueButton.png blueButton.png
+r0
+
+CCpResource build/Debug/MultiControlExample.app/Contents/Resources/google_logo.png google_logo.png
+r0
+
+CCpResource build/Debug/MultiControlExample.app/Contents/Resources/whiteButton.png whiteButton.png
+r0
+
+CProcessInfoPlistFile /Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/Debug/MultiControlExample.app/Contents/Info.plist MultiControlExample-Info.plist
+r0
+
+CTouch /Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/Debug/MultiControlExample.app
+r0
+

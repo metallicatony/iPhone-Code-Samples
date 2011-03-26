@@ -1,0 +1,205 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* MultiControlExampleAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1095, 353}}";
+			sepNavSelRange = "{420, 0}";
+			sepNavVisRange = "{0, 554}";
+		};
+	};
+	1D3623250D0F684500981E51 /* MultiControlExampleAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1014}}";
+			sepNavSelRange = "{375, 0}";
+			sepNavVisRange = "{169, 592}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* MultiControlExample */ = {
+		activeExec = 0;
+		executables = (
+			29191DEA12B45E5100BFE4EC /* MultiControlExample */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* MultiControlExampleViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1095, 481}}";
+			sepNavSelRange = "{315, 140}";
+			sepNavVisRange = "{43, 1064}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* MultiControlExampleViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1279, 2119}}";
+			sepNavSelRange = "{3384, 0}";
+			sepNavVisRange = "{3150, 1113}";
+			sepNavWindowFrame = "{{15, 63}, {750, 815}}";
+		};
+	};
+	29191DEA12B45E5100BFE4EC /* MultiControlExample */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = MultiControlExample;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	29191DEE12B45E7100BFE4EC /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	29191DEF12B45E7100BFE4EC /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	29191E3C12B4D0B200BFE4EC /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 29191DF112B45FA600BFE4EC /* google_logo.png */;
+	};
+	29191E3E12B4D0B200BFE4EC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* MultiControlExampleAppDelegate.h */;
+		name = "MultiControlExampleAppDelegate.h: 18";
+		rLen = 0;
+		rLoc = 420;
+		rType = 0;
+		vrLen = 554;
+		vrLoc = 0;
+	};
+	29368D6D12BF16F200FAAA4A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* MultiControlExampleAppDelegate.m */;
+		name = "MultiControlExampleAppDelegate.m: 18";
+		rLen = 0;
+		rLoc = 375;
+		rType = 0;
+		vrLen = 592;
+		vrLoc = 169;
+	};
+	29368DF212BF3D4800FAAA4A /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 29368D5B12BEF52D00FAAA4A /* blueButton.png */;
+	};
+	29368DF312BF3D4800FAAA4A /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 29368DED12BF3B8600FAAA4A /* whiteButton.png */;
+	};
+	29368DF412BF3D4800FAAA4A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* MultiControlExampleViewController.h */;
+		name = "MultiControlExampleViewController.h: 13";
+		rLen = 140;
+		rLoc = 315;
+		rType = 0;
+		vrLen = 1064;
+		vrLoc = 43;
+	};
+	29368E2312BF4C8F00FAAA4A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* MultiControlExampleViewController.m */;
+		name = "MultiControlExampleViewController.m: 141";
+		rLen = 0;
+		rLoc = 4262;
+		rType = 0;
+		vrLen = 1077;
+		vrLoc = 3302;
+	};
+	29368E5012BF592B00FAAA4A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* MultiControlExampleViewController.m */;
+		name = "MultiControlExampleViewController.m: 126";
+		rLen = 0;
+		rLoc = 3697;
+		rType = 0;
+		vrLen = 1145;
+		vrLoc = 3172;
+	};
+	2947A7F5133DEB27006F55DE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* MultiControlExampleViewController.m */;
+		name = "MultiControlExampleViewController.m: 119";
+		rLen = 0;
+		rLoc = 3384;
+		rType = 0;
+		vrLen = 1113;
+		vrLoc = 3150;
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 29191DEA12B45E5100BFE4EC /* MultiControlExample */;
+		activeSDKPreference = iphonesimulator4.3;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* MultiControlExample */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* MultiControlExample */,
+		);
+		codeSenseManager = 29191DEF12B45E7100BFE4EC /* Code sense */;
+		executables = (
+			29191DEA12B45E5100BFE4EC /* MultiControlExample */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					914,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 322824866;
+			PBXWorkspaceStateSaveDate = 322824866;
+		};
+		perUserProjectItems = {
+			29191E3C12B4D0B200BFE4EC = 29191E3C12B4D0B200BFE4EC /* PBXBookmark */;
+			29191E3E12B4D0B200BFE4EC = 29191E3E12B4D0B200BFE4EC /* PBXTextBookmark */;
+			29368D6D12BF16F200FAAA4A = 29368D6D12BF16F200FAAA4A /* PBXTextBookmark */;
+			29368DF212BF3D4800FAAA4A = 29368DF212BF3D4800FAAA4A /* PBXBookmark */;
+			29368DF312BF3D4800FAAA4A = 29368DF312BF3D4800FAAA4A /* PBXBookmark */;
+			29368DF412BF3D4800FAAA4A = 29368DF412BF3D4800FAAA4A /* PBXTextBookmark */;
+			29368E2312BF4C8F00FAAA4A = 29368E2312BF4C8F00FAAA4A /* PBXTextBookmark */;
+			29368E5012BF592B00FAAA4A = 29368E5012BF592B00FAAA4A /* PBXTextBookmark */;
+			2947A7F5133DEB27006F55DE /* PBXTextBookmark */ = 2947A7F5133DEB27006F55DE /* PBXTextBookmark */;
+		};
+		sourceControlManager = 29191DEE12B45E7100BFE4EC /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+}

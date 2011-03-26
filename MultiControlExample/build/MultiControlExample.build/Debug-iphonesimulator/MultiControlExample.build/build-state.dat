@@ -1,0 +1,360 @@
+TMultiControlExample
+v7
+r0
+t322824998.660947
+cCheck dependencies
+cProcessInfoPlistFile /Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/Debug-iphonesimulator/MultiControlExample.app/Info.plist MultiControlExample-Info.plist
+cCompileXIB /Users/metallicatony/My_Programs/iPhone/MultiControlExample/MainWindow.xib
+cCompileXIB /Users/metallicatony/My_Programs/iPhone/MultiControlExample/MultiControlExampleViewController.xib
+cCpResource build/Debug-iphonesimulator/MultiControlExample.app/google_logo.png google_logo.png
+cCpResource build/Debug-iphonesimulator/MultiControlExample.app/blueButton.png blueButton.png
+cCpResource build/Debug-iphonesimulator/MultiControlExample.app/whiteButton.png whiteButton.png
+cProcessPCH /var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultiControlExample_Prefix-cuzzxdwvkkmaleclvabiqijfsgqx/MultiControlExample_Prefix.pch.gch MultiControlExample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MultiControlExample.build/Debug-iphonesimulator/MultiControlExample.build/Objects-normal/i386/main.o /Users/metallicatony/My_Programs/iPhone/MultiControlExample/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MultiControlExample.build/Debug-iphonesimulator/MultiControlExample.build/Objects-normal/i386/MultiControlExampleAppDelegate.o /Users/metallicatony/My_Programs/iPhone/MultiControlExample/Classes/MultiControlExampleAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MultiControlExample.build/Debug-iphonesimulator/MultiControlExample.build/Objects-normal/i386/MultiControlExampleViewController.o /Users/metallicatony/My_Programs/iPhone/MultiControlExample/Classes/MultiControlExampleViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/Debug-iphonesimulator/MultiControlExample.app/MultiControlExample normal i386
+cGenerateDSYMFile /Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/Debug-iphonesimulator/MultiControlExample.app.dSYM /Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/Debug-iphonesimulator/MultiControlExample.app/MultiControlExample
+cTouch /Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/Debug-iphonesimulator/MultiControlExample.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C3569260000000000000132
+t1278568742
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Users/metallicatony/My_Programs/iPhone/MultiControlExample/Classes/MultiControlExampleAppDelegate.h
+c000000004D0426D1000000000000022A
+t1292117713
+s554
+i<UIKit/UIKit.h>
+
+N/Users/metallicatony/My_Programs/iPhone/MultiControlExample/Classes/MultiControlExampleAppDelegate.m
+c000000004D0426D10000000000000ACA
+t1292117713
+s2762
+i"MultiControlExampleAppDelegate.h"
+i"MultiControlExampleViewController.h"
+
+N/Users/metallicatony/My_Programs/iPhone/MultiControlExample/Classes/MultiControlExampleViewController.h
+c000000004D0EE5B00000000000000454
+t1292821936
+s1108
+i<UIKit/UIKit.h>
+
+N/Users/metallicatony/My_Programs/iPhone/MultiControlExample/Classes/MultiControlExampleViewController.m
+c000000004D0F174F00000000000012F7
+t1292834639
+s4855
+i"MultiControlExampleViewController.h"
+
+N/Users/metallicatony/My_Programs/iPhone/MultiControlExample/MainWindow.xib
+c000000004D0426D10000000000004EB9
+t1292117713
+s20153
+
+N/Users/metallicatony/My_Programs/iPhone/MultiControlExample/MultiControlExampleViewController.xib
+c000000004D0F1701000000000000A58E
+t1292834561
+s42382
+
+N/Users/metallicatony/My_Programs/iPhone/MultiControlExample/MultiControlExample_Prefix.pch
+c000000004D0426D100000000000000CF
+t1292117713
+s207
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/metallicatony/My_Programs/iPhone/MultiControlExample/blueButton.png
+c0000000049FA2DB400000000000005BC
+t1241132468
+s1468
+
+N/Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/Debug-iphonesimulator/MultiControlExample.app
+t1301132198
+s340
+
+N/Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/Debug-iphonesimulator/MultiControlExample.app.dSYM
+t1301132198
+s102
+
+N/Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/Debug-iphonesimulator/MultiControlExample.app/Info.plist
+t1301132196
+s645
+
+N/Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/Debug-iphonesimulator/MultiControlExample.app/MainWindow.nib
+t1301132196
+s1705
+
+N/Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/Debug-iphonesimulator/MultiControlExample.app/MultiControlExample
+t1301132198
+s26632
+
+N/Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/Debug-iphonesimulator/MultiControlExample.app/MultiControlExampleViewController.nib
+t1301132196
+s7455
+
+N/Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/Debug-iphonesimulator/MultiControlExample.app/PkgInfo
+t1301132196
+s8
+
+N/Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/Debug-iphonesimulator/MultiControlExample.app/blueButton.png
+t1301132196
+s1468
+
+N/Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/Debug-iphonesimulator/MultiControlExample.app/google_logo.png
+t1301132196
+s18092
+
+N/Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/Debug-iphonesimulator/MultiControlExample.app/whiteButton.png
+t1301132196
+s1430
+
+N/Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/MultiControlExample.build/Debug-iphonesimulator/MultiControlExample.build/Objects-normal/i386/MultiControlExample.LinkFileList
+c000000004D042891000000000000022C
+t1292118161
+s556
+
+N/Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/MultiControlExample.build/Debug-iphonesimulator/MultiControlExample.build/Objects-normal/i386/MultiControlExampleAppDelegate.o
+t1301132198
+s52284
+
+N/Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/MultiControlExample.build/Debug-iphonesimulator/MultiControlExample.build/Objects-normal/i386/MultiControlExampleViewController.o
+t1301132198
+s67924
+
+N/Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/MultiControlExample.build/Debug-iphonesimulator/MultiControlExample.build/Objects-normal/i386/main.o
+t1301132198
+s6352
+
+N/Users/metallicatony/My_Programs/iPhone/MultiControlExample/google_logo.png
+c000000004D04258A00000000000046AC
+t1292117386
+s18092
+
+N/Users/metallicatony/My_Programs/iPhone/MultiControlExample/main.m
+c000000004D0426D10000000000000178
+t1292117713
+s376
+i<UIKit/UIKit.h>
+
+N/Users/metallicatony/My_Programs/iPhone/MultiControlExample/whiteButton.png
+c0000000049FA2DB40000000000000596
+t1241132468
+s1430
+
+N/var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultiControlExample_Prefix-cuzzxdwvkkmaleclvabiqijfsgqx/MultiControlExample_Prefix.pch.gch
+t1301132198
+s15814064
+
+N/var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultiControlExample_Prefix-dfupslfaprcsibemvrspxgdzhdoy/MultiControlExample_Prefix.pch.gch
+t1292118163
+s15232016
+
+NMultiControlExample-Info.plist
+c000000004D0426D1000000000000038D
+t1292117713
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies322824996#322824996#0(0"0(0#1#0"8606360160#0"0#
+
+CCompileC build/MultiControlExample.build/Debug-iphonesimulator/MultiControlExample.build/Objects-normal/i386/MultiControlExampleAppDelegate.o /Users/metallicatony/My_Programs/iPhone/MultiControlExample/Classes/MultiControlExampleAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322824998.408634
+e322824998.534497
+r1
+xCompileC
+xbuild/MultiControlExample.build/Debug-iphonesimulator/MultiControlExample.build/Objects-normal/i386/MultiControlExampleAppDelegate.o
+x/Users/metallicatony/My_Programs/iPhone/MultiControlExample/Classes/MultiControlExampleAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@108"Compile /Users/metallicatony/My_Programs/iPhone/MultiControlExample/Classes/MultiControlExampleAppDelegate.m322824998#322824998#0(0"0(0#0#100"/Users/metallicatony/My_Programs/iPhone/MultiControlExample/Classes/MultiControlExampleAppDelegate.m8602234112#2445"    cd /Users/metallicatony/My_Programs/iPhone/MultiControlExample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/MultiControlExample.build/Debug-iphonesimulator/MultiControlExample.build/MultiControlExample-generated-files.hmap -I/Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/MultiControlExample.build/Debug-iphonesimulator/MultiControlExample.build/MultiControlExample-own-target-headers.hmap -I/Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/MultiControlExample.build/Debug-iphonesimulator/MultiControlExample.build/MultiControlExample-all-target-headers.hmap -iquote /Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/MultiControlExample.build/Debug-iphonesimulator/MultiControlExample.build/MultiControlExample-project-headers.hmap -F/Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/Debug-iphonesimulator -I/Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/Debug-iphonesimulator/include -I/Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/MultiControlExample.build/Debug-iphonesimulator/MultiControlExample.build/DerivedSources/i386 -I/Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/MultiControlExample.build/Debug-iphonesimulator/MultiControlExample.build/DerivedSources -include /var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultiControlExample_Prefix-cuzzxdwvkkmaleclvabiqijfsgqx/MultiControlExample_Prefix.pch -c /Users/metallicatony/My_Programs/iPhone/MultiControlExample/Classes/MultiControlExampleAppDelegate.m -o /Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/MultiControlExample.build/Debug-iphonesimulator/MultiControlExample.build/Objects-normal/i386/MultiControlExampleAppDelegate.o0#
+
+CCompileC build/MultiControlExample.build/Debug-iphonesimulator/MultiControlExample.build/Objects-normal/i386/MultiControlExampleViewController.o /Users/metallicatony/My_Programs/iPhone/MultiControlExample/Classes/MultiControlExampleViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322824998.409704
+e322824998.540073
+r1
+xCompileC
+xbuild/MultiControlExample.build/Debug-iphonesimulator/MultiControlExample.build/Objects-normal/i386/MultiControlExampleViewController.o
+x/Users/metallicatony/My_Programs/iPhone/MultiControlExample/Classes/MultiControlExampleViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@111"Compile /Users/metallicatony/My_Programs/iPhone/MultiControlExample/Classes/MultiControlExampleViewController.m322824998#322824998#0(0"0(0#0#103"/Users/metallicatony/My_Programs/iPhone/MultiControlExample/Classes/MultiControlExampleViewController.m8609469920#2451"    cd /Users/metallicatony/My_Programs/iPhone/MultiControlExample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/MultiControlExample.build/Debug-iphonesimulator/MultiControlExample.build/MultiControlExample-generated-files.hmap -I/Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/MultiControlExample.build/Debug-iphonesimulator/MultiControlExample.build/MultiControlExample-own-target-headers.hmap -I/Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/MultiControlExample.build/Debug-iphonesimulator/MultiControlExample.build/MultiControlExample-all-target-headers.hmap -iquote /Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/MultiControlExample.build/Debug-iphonesimulator/MultiControlExample.build/MultiControlExample-project-headers.hmap -F/Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/Debug-iphonesimulator -I/Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/Debug-iphonesimulator/include -I/Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/MultiControlExample.build/Debug-iphonesimulator/MultiControlExample.build/DerivedSources/i386 -I/Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/MultiControlExample.build/Debug-iphonesimulator/MultiControlExample.build/DerivedSources -include /var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultiControlExample_Prefix-cuzzxdwvkkmaleclvabiqijfsgqx/MultiControlExample_Prefix.pch -c /Users/metallicatony/My_Programs/iPhone/MultiControlExample/Classes/MultiControlExampleViewController.m -o /Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/MultiControlExample.build/Debug-iphonesimulator/MultiControlExample.build/Objects-normal/i386/MultiControlExampleViewController.o0#
+
+CCompileC build/MultiControlExample.build/Debug-iphonesimulator/MultiControlExample.build/Objects-normal/i386/main.o /Users/metallicatony/My_Programs/iPhone/MultiControlExample/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322824998.407646
+e322824998.486378
+r1
+xCompileC
+xbuild/MultiControlExample.build/Debug-iphonesimulator/MultiControlExample.build/Objects-normal/i386/main.o
+x/Users/metallicatony/My_Programs/iPhone/MultiControlExample/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/metallicatony/My_Programs/iPhone/MultiControlExample/main.m322824998#322824998#0(0"0(0#0#66"/Users/metallicatony/My_Programs/iPhone/MultiControlExample/main.m8609792928#2385"    cd /Users/metallicatony/My_Programs/iPhone/MultiControlExample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/MultiControlExample.build/Debug-iphonesimulator/MultiControlExample.build/MultiControlExample-generated-files.hmap -I/Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/MultiControlExample.build/Debug-iphonesimulator/MultiControlExample.build/MultiControlExample-own-target-headers.hmap -I/Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/MultiControlExample.build/Debug-iphonesimulator/MultiControlExample.build/MultiControlExample-all-target-headers.hmap -iquote /Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/MultiControlExample.build/Debug-iphonesimulator/MultiControlExample.build/MultiControlExample-project-headers.hmap -F/Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/Debug-iphonesimulator -I/Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/Debug-iphonesimulator/include -I/Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/MultiControlExample.build/Debug-iphonesimulator/MultiControlExample.build/DerivedSources/i386 -I/Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/MultiControlExample.build/Debug-iphonesimulator/MultiControlExample.build/DerivedSources -include /var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultiControlExample_Prefix-cuzzxdwvkkmaleclvabiqijfsgqx/MultiControlExample_Prefix.pch -c /Users/metallicatony/My_Programs/iPhone/MultiControlExample/main.m -o /Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/MultiControlExample.build/Debug-iphonesimulator/MultiControlExample.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/metallicatony/My_Programs/iPhone/MultiControlExample/MainWindow.xib
+s322824996.184217
+e322824996.719758
+r1
+xCompileXIB
+x/Users/metallicatony/My_Programs/iPhone/MultiControlExample/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib322824996#322824996#0(0"0(0#0#74"/Users/metallicatony/My_Programs/iPhone/MultiControlExample/MainWindow.xib8605966624#645"    cd /Users/metallicatony/My_Programs/iPhone/MultiControlExample    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/Debug-iphonesimulator/MultiControlExample.app/MainWindow.nib /Users/metallicatony/My_Programs/iPhone/MultiControlExample/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/metallicatony/My_Programs/iPhone/MultiControlExample/MultiControlExampleViewController.xib
+s322824996.185015
+e322824996.983622
+r1
+xCompileXIB
+x/Users/metallicatony/My_Programs/iPhone/MultiControlExample/MultiControlExampleViewController.xib
+lSLF07#2@48"CompileXIB MultiControlExampleViewController.xib322824996#322824996#0(0"0(0#0#97"/Users/metallicatony/My_Programs/iPhone/MultiControlExample/MultiControlExampleViewController.xib8601824928#691"    cd /Users/metallicatony/My_Programs/iPhone/MultiControlExample    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/Debug-iphonesimulator/MultiControlExample.app/MultiControlExampleViewController.nib /Users/metallicatony/My_Programs/iPhone/MultiControlExample/MultiControlExampleViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCpResource build/Debug-iphonesimulator/MultiControlExample.app/blueButton.png blueButton.png
+s322824996.186875
+e322824996.255114
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MultiControlExample.app/blueButton.png
+xblueButton.png
+lSLF07#2@19"Copy blueButton.png322824996#322824996#0(0"0(0#0#74"/Users/metallicatony/My_Programs/iPhone/MultiControlExample/blueButton.png8604991136#547"    cd /Users/metallicatony/My_Programs/iPhone/MultiControlExample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/metallicatony/My_Programs/iPhone/MultiControlExample/blueButton.png /Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/Debug-iphonesimulator/MultiControlExample.app0#
+
+CCpResource build/Debug-iphonesimulator/MultiControlExample.app/google_logo.png google_logo.png
+s322824996.185840
+e322824996.267616
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MultiControlExample.app/google_logo.png
+xgoogle_logo.png
+lSLF07#2@20"Copy google_logo.png322824996#322824996#0(0"0(0#0#75"/Users/metallicatony/My_Programs/iPhone/MultiControlExample/google_logo.png8606081696#548"    cd /Users/metallicatony/My_Programs/iPhone/MultiControlExample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/metallicatony/My_Programs/iPhone/MultiControlExample/google_logo.png /Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/Debug-iphonesimulator/MultiControlExample.app0#
+
+CCpResource build/Debug-iphonesimulator/MultiControlExample.app/whiteButton.png whiteButton.png
+s322824996.187734
+e322824996.275071
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MultiControlExample.app/whiteButton.png
+xwhiteButton.png
+lSLF07#2@20"Copy whiteButton.png322824996#322824996#0(0"0(0#0#75"/Users/metallicatony/My_Programs/iPhone/MultiControlExample/whiteButton.png8602395552#548"    cd /Users/metallicatony/My_Programs/iPhone/MultiControlExample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/metallicatony/My_Programs/iPhone/MultiControlExample/whiteButton.png /Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/Debug-iphonesimulator/MultiControlExample.app0#
+
+CGenerateDSYMFile /Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/Debug-iphonesimulator/MultiControlExample.app.dSYM /Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/Debug-iphonesimulator/MultiControlExample.app/MultiControlExample
+s322824998.640993
+e322824998.655957
+r1
+xGenerateDSYMFile
+x/Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/Debug-iphonesimulator/MultiControlExample.app.dSYM
+x/Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/Debug-iphonesimulator/MultiControlExample.app/MultiControlExample
+lSLF07#2@145"GenerateDSYMFile build/Debug-iphonesimulator/MultiControlExample.app.dSYM build/Debug-iphonesimulator/MultiControlExample.app/MultiControlExample322824998#322824998#0(0"0(0#0#131"/Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/Debug-iphonesimulator/MultiControlExample.app/MultiControlExample8606332896#482"    cd /Users/metallicatony/My_Programs/iPhone/MultiControlExample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/Debug-iphonesimulator/MultiControlExample.app/MultiControlExample -o /Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/Debug-iphonesimulator/MultiControlExample.app.dSYM0#
+
+CLd /Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/Debug-iphonesimulator/MultiControlExample.app/MultiControlExample normal i386
+s322824998.540172
+e322824998.640893
+r1
+xLd
+x/Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/Debug-iphonesimulator/MultiControlExample.app/MultiControlExample
+xnormal
+xi386
+lSLF07#2@136"Link /Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/Debug-iphonesimulator/MultiControlExample.app/MultiControlExample322824998#322824998#0(0"0(0#0#0"8608870880#1065"    cd /Users/metallicatony/My_Programs/iPhone/MultiControlExample    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/Debug-iphonesimulator -F/Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/Debug-iphonesimulator -filelist /Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/MultiControlExample.build/Debug-iphonesimulator/MultiControlExample.build/Objects-normal/i386/MultiControlExample.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/Debug-iphonesimulator/MultiControlExample.app/MultiControlExample0#
+
+CProcessInfoPlistFile /Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/Debug-iphonesimulator/MultiControlExample.app/Info.plist MultiControlExample-Info.plist
+s322824996.163787
+e322824996.184095
+r1
+xProcessInfoPlistFile
+x/Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/Debug-iphonesimulator/MultiControlExample.app/Info.plist
+xMultiControlExample-Info.plist
+lSLF07#2@38"Process MultiControlExample-Info.plist322824996#322824996#0(0"0(0#0#90"/Users/metallicatony/My_Programs/iPhone/MultiControlExample/MultiControlExample-Info.plist8600256192#578"    cd /Users/metallicatony/My_Programs/iPhone/MultiControlExample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility MultiControlExample-Info.plist -genpkginfo /Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/Debug-iphonesimulator/MultiControlExample.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/Debug-iphonesimulator/MultiControlExample.app/Info.plist0#
+
+CProcessPCH /var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultiControlExample_Prefix-cuzzxdwvkkmaleclvabiqijfsgqx/MultiControlExample_Prefix.pch.gch MultiControlExample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s322824996.983748
+e322824998.407434
+r1
+xProcessPCH
+x/var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultiControlExample_Prefix-cuzzxdwvkkmaleclvabiqijfsgqx/MultiControlExample_Prefix.pch.gch
+xMultiControlExample_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@41"Precompile MultiControlExample_Prefix.pch322824996#322824998#0(0"0(0#0#90"/Users/metallicatony/My_Programs/iPhone/MultiControlExample/MultiControlExample_Prefix.pch8605625184#2244"    cd /Users/metallicatony/My_Programs/iPhone/MultiControlExample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/MultiControlExample.build/Debug-iphonesimulator/MultiControlExample.build/MultiControlExample-generated-files.hmap -I/Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/MultiControlExample.build/Debug-iphonesimulator/MultiControlExample.build/MultiControlExample-own-target-headers.hmap -I/Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/MultiControlExample.build/Debug-iphonesimulator/MultiControlExample.build/MultiControlExample-all-target-headers.hmap -iquote /Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/MultiControlExample.build/Debug-iphonesimulator/MultiControlExample.build/MultiControlExample-project-headers.hmap -F/Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/Debug-iphonesimulator -I/Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/Debug-iphonesimulator/include -I/Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/MultiControlExample.build/Debug-iphonesimulator/MultiControlExample.build/DerivedSources/i386 -I/Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/MultiControlExample.build/Debug-iphonesimulator/MultiControlExample.build/DerivedSources -c /Users/metallicatony/My_Programs/iPhone/MultiControlExample/MultiControlExample_Prefix.pch -o /var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultiControlExample_Prefix-cuzzxdwvkkmaleclvabiqijfsgqx/MultiControlExample_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultiControlExample_Prefix-dfupslfaprcsibemvrspxgdzhdoy/MultiControlExample_Prefix.pch.gch MultiControlExample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s313810962.398503
+e313810963.811157
+r1
+xProcessPCH
+x/var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultiControlExample_Prefix-dfupslfaprcsibemvrspxgdzhdoy/MultiControlExample_Prefix.pch.gch
+xMultiControlExample_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@41"Precompile MultiControlExample_Prefix.pch313810962#313810963#0(0"0(0#0#90"/Users/metallicatony/My_Programs/iPhone/MultiControlExample/MultiControlExample_Prefix.pch8611740128#2231"    cd /Users/metallicatony/My_Programs/iPhone/MultiControlExample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/MultiControlExample.build/Debug-iphonesimulator/MultiControlExample.build/MultiControlExample-generated-files.hmap -I/Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/MultiControlExample.build/Debug-iphonesimulator/MultiControlExample.build/MultiControlExample-own-target-headers.hmap -I/Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/MultiControlExample.build/Debug-iphonesimulator/MultiControlExample.build/MultiControlExample-all-target-headers.hmap -iquote /Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/MultiControlExample.build/Debug-iphonesimulator/MultiControlExample.build/MultiControlExample-project-headers.hmap -F/Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/Debug-iphonesimulator -I/Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/Debug-iphonesimulator/include -I/Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/MultiControlExample.build/Debug-iphonesimulator/MultiControlExample.build/DerivedSources/i386 -I/Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/MultiControlExample.build/Debug-iphonesimulator/MultiControlExample.build/DerivedSources -c /Users/metallicatony/My_Programs/iPhone/MultiControlExample/MultiControlExample_Prefix.pch -o /var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultiControlExample_Prefix-dfupslfaprcsibemvrspxgdzhdoy/MultiControlExample_Prefix.pch.gch0#
+
+CTouch /Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/Debug-iphonesimulator/MultiControlExample.app
+s322824998.656061
+e322824998.660884
+r1
+xTouch
+x/Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/Debug-iphonesimulator/MultiControlExample.app
+lSLF07#2@117"Touch /Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/Debug-iphonesimulator/MultiControlExample.app322824998#322824998#0(0"0(0#0#0"8606169280#332"    cd /Users/metallicatony/My_Programs/iPhone/MultiControlExample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/metallicatony/My_Programs/iPhone/MultiControlExample/build/Debug-iphonesimulator/MultiControlExample.app0#
+
