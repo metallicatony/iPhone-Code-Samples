@@ -1,0 +1,322 @@
+TDependentPicker
+v7
+r0
+t322473510.189438
+cCheck dependencies
+cProcessInfoPlistFile /Users/metallicatony/My_Programs/iPhone/DependentPicker/build/Debug-iphonesimulator/DependentPicker.app/Info.plist DependentPicker-Info.plist
+cCompileXIB /Users/metallicatony/My_Programs/iPhone/DependentPicker/MainWindow.xib
+cCompileXIB /Users/metallicatony/My_Programs/iPhone/DependentPicker/DependentPickerViewController.xib
+cCopyPlistFile /Users/metallicatony/My_Programs/iPhone/DependentPicker/build/Debug-iphonesimulator/DependentPicker.app/statedictionary.plist statedictionary.plist
+cProcessPCH /var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DependentPicker_Prefix-bumcjworvqgpobcqwrzqqrfldpox/DependentPicker_Prefix.pch.gch DependentPicker_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DependentPicker.build/Debug-iphonesimulator/DependentPicker.build/Objects-normal/i386/main.o /Users/metallicatony/My_Programs/iPhone/DependentPicker/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DependentPicker.build/Debug-iphonesimulator/DependentPicker.build/Objects-normal/i386/DependentPickerAppDelegate.o /Users/metallicatony/My_Programs/iPhone/DependentPicker/Classes/DependentPickerAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DependentPicker.build/Debug-iphonesimulator/DependentPicker.build/Objects-normal/i386/DependentPickerViewController.o /Users/metallicatony/My_Programs/iPhone/DependentPicker/Classes/DependentPickerViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/metallicatony/My_Programs/iPhone/DependentPicker/build/Debug-iphonesimulator/DependentPicker.app/DependentPicker normal i386
+cGenerateDSYMFile /Users/metallicatony/My_Programs/iPhone/DependentPicker/build/Debug-iphonesimulator/DependentPicker.app.dSYM /Users/metallicatony/My_Programs/iPhone/DependentPicker/build/Debug-iphonesimulator/DependentPicker.app/DependentPicker
+cTouch /Users/metallicatony/My_Programs/iPhone/DependentPicker/build/Debug-iphonesimulator/DependentPicker.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C3569260000000000000132
+t1278568742
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Users/metallicatony/My_Programs/iPhone/DependentPicker/Classes/DependentPickerAppDelegate.h
+c000000004D4118970000000000000211
+t1296111767
+s529
+i<UIKit/UIKit.h>
+
+N/Users/metallicatony/My_Programs/iPhone/DependentPicker/Classes/DependentPickerAppDelegate.m
+c000000004D4118970000000000000AB5
+t1296111767
+s2741
+i"DependentPickerAppDelegate.h"
+i"DependentPickerViewController.h"
+
+N/Users/metallicatony/My_Programs/iPhone/DependentPicker/Classes/DependentPickerViewController.h
+c000000004D4281750000000000000293
+t1296204149
+s659
+i<UIKit/UIKit.h>
+
+N/Users/metallicatony/My_Programs/iPhone/DependentPicker/Classes/DependentPickerViewController.m
+c000000004D447E20000000000000100D
+t1296334368
+s4109
+i"DependentPickerViewController.h"
+
+N/Users/metallicatony/My_Programs/iPhone/DependentPicker/DependentPickerViewController.xib
+c000000004D424C0800000000000044E9
+t1296190472
+s17641
+
+N/Users/metallicatony/My_Programs/iPhone/DependentPicker/DependentPicker_Prefix.pch
+c000000004D41189700000000000000C7
+t1296111767
+s199
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/metallicatony/My_Programs/iPhone/DependentPicker/MainWindow.xib
+c000000004D4118970000000000004E89
+t1296111767
+s20105
+
+N/Users/metallicatony/My_Programs/iPhone/DependentPicker/build/Debug-iphonesimulator/DependentPicker.app
+t1300780710
+s272
+
+N/Users/metallicatony/My_Programs/iPhone/DependentPicker/build/Debug-iphonesimulator/DependentPicker.app.dSYM
+t1300780710
+s102
+
+N/Users/metallicatony/My_Programs/iPhone/DependentPicker/build/Debug-iphonesimulator/DependentPicker.app/DependentPicker
+t1300780710
+s24808
+
+N/Users/metallicatony/My_Programs/iPhone/DependentPicker/build/Debug-iphonesimulator/DependentPicker.app/DependentPickerViewController.nib
+t1300780709
+s1738
+
+N/Users/metallicatony/My_Programs/iPhone/DependentPicker/build/Debug-iphonesimulator/DependentPicker.app/Info.plist
+t1300780708
+s629
+
+N/Users/metallicatony/My_Programs/iPhone/DependentPicker/build/Debug-iphonesimulator/DependentPicker.app/MainWindow.nib
+t1300780709
+s1697
+
+N/Users/metallicatony/My_Programs/iPhone/DependentPicker/build/Debug-iphonesimulator/DependentPicker.app/PkgInfo
+t1300780708
+s8
+
+N/Users/metallicatony/My_Programs/iPhone/DependentPicker/build/Debug-iphonesimulator/DependentPicker.app/statedictionary.plist
+t1296196274
+s397662
+
+N/Users/metallicatony/My_Programs/iPhone/DependentPicker/build/DependentPicker.build/Debug-iphonesimulator/DependentPicker.build/Objects-normal/i386/DependentPicker.LinkFileList
+c000000004D411BC10000000000000200
+t1296112577
+s512
+
+N/Users/metallicatony/My_Programs/iPhone/DependentPicker/build/DependentPicker.build/Debug-iphonesimulator/DependentPicker.build/Objects-normal/i386/DependentPickerAppDelegate.o
+t1300780710
+s52672
+
+N/Users/metallicatony/My_Programs/iPhone/DependentPicker/build/DependentPicker.build/Debug-iphonesimulator/DependentPicker.build/Objects-normal/i386/DependentPickerViewController.o
+t1300780710
+s55532
+
+N/Users/metallicatony/My_Programs/iPhone/DependentPicker/build/DependentPicker.build/Debug-iphonesimulator/DependentPicker.build/Objects-normal/i386/main.o
+t1300780710
+s6344
+
+N/Users/metallicatony/My_Programs/iPhone/DependentPicker/main.m
+c000000004D4118970000000000000173
+t1296111767
+s371
+i<UIKit/UIKit.h>
+
+N/Users/metallicatony/My_Programs/iPhone/DependentPicker/statedictionary.plist
+c0000000049D34EF000000000000CA69D
+t1238585072
+s829085
+
+N/var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DependentPicker_Prefix-bumcjworvqgpobcqwrzqqrfldpox/DependentPicker_Prefix.pch.gch
+t1300780709
+s15814064
+
+N/var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DependentPicker_Prefix-gogpqhonfoyautdhwzfqzfabohvh/DependentPicker_Prefix.pch.gch
+t1296112578
+s15232016
+
+NDependentPicker-Info.plist
+c000000004D411897000000000000038D
+t1296111767
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies322473508#322473508#0(0"0(0#1#0"8632800000#0"0#
+
+CCompileC build/DependentPicker.build/Debug-iphonesimulator/DependentPicker.build/Objects-normal/i386/DependentPickerAppDelegate.o /Users/metallicatony/My_Programs/iPhone/DependentPicker/Classes/DependentPickerAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322473510.003477
+e322473510.106020
+r1
+xCompileC
+xbuild/DependentPicker.build/Debug-iphonesimulator/DependentPicker.build/Objects-normal/i386/DependentPickerAppDelegate.o
+x/Users/metallicatony/My_Programs/iPhone/DependentPicker/Classes/DependentPickerAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@100"Compile /Users/metallicatony/My_Programs/iPhone/DependentPicker/Classes/DependentPickerAppDelegate.m322473510#322473510#0(0"0(0#0#92"/Users/metallicatony/My_Programs/iPhone/DependentPicker/Classes/DependentPickerAppDelegate.m8645470368#2313"    cd /Users/metallicatony/My_Programs/iPhone/DependentPicker    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/metallicatony/My_Programs/iPhone/DependentPicker/build/DependentPicker.build/Debug-iphonesimulator/DependentPicker.build/DependentPicker-generated-files.hmap -I/Users/metallicatony/My_Programs/iPhone/DependentPicker/build/DependentPicker.build/Debug-iphonesimulator/DependentPicker.build/DependentPicker-own-target-headers.hmap -I/Users/metallicatony/My_Programs/iPhone/DependentPicker/build/DependentPicker.build/Debug-iphonesimulator/DependentPicker.build/DependentPicker-all-target-headers.hmap -iquote /Users/metallicatony/My_Programs/iPhone/DependentPicker/build/DependentPicker.build/Debug-iphonesimulator/DependentPicker.build/DependentPicker-project-headers.hmap -F/Users/metallicatony/My_Programs/iPhone/DependentPicker/build/Debug-iphonesimulator -I/Users/metallicatony/My_Programs/iPhone/DependentPicker/build/Debug-iphonesimulator/include -I/Users/metallicatony/My_Programs/iPhone/DependentPicker/build/DependentPicker.build/Debug-iphonesimulator/DependentPicker.build/DerivedSources/i386 -I/Users/metallicatony/My_Programs/iPhone/DependentPicker/build/DependentPicker.build/Debug-iphonesimulator/DependentPicker.build/DerivedSources -include /var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DependentPicker_Prefix-bumcjworvqgpobcqwrzqqrfldpox/DependentPicker_Prefix.pch -c /Users/metallicatony/My_Programs/iPhone/DependentPicker/Classes/DependentPickerAppDelegate.m -o /Users/metallicatony/My_Programs/iPhone/DependentPicker/build/DependentPicker.build/Debug-iphonesimulator/DependentPicker.build/Objects-normal/i386/DependentPickerAppDelegate.o0#
+
+CCompileC build/DependentPicker.build/Debug-iphonesimulator/DependentPicker.build/Objects-normal/i386/DependentPickerViewController.o /Users/metallicatony/My_Programs/iPhone/DependentPicker/Classes/DependentPickerViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322473510.004882
+e322473510.115534
+r1
+xCompileC
+xbuild/DependentPicker.build/Debug-iphonesimulator/DependentPicker.build/Objects-normal/i386/DependentPickerViewController.o
+x/Users/metallicatony/My_Programs/iPhone/DependentPicker/Classes/DependentPickerViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@103"Compile /Users/metallicatony/My_Programs/iPhone/DependentPicker/Classes/DependentPickerViewController.m322473510#322473510#0(0"0(0#0#95"/Users/metallicatony/My_Programs/iPhone/DependentPicker/Classes/DependentPickerViewController.m8631819520#2319"    cd /Users/metallicatony/My_Programs/iPhone/DependentPicker    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/metallicatony/My_Programs/iPhone/DependentPicker/build/DependentPicker.build/Debug-iphonesimulator/DependentPicker.build/DependentPicker-generated-files.hmap -I/Users/metallicatony/My_Programs/iPhone/DependentPicker/build/DependentPicker.build/Debug-iphonesimulator/DependentPicker.build/DependentPicker-own-target-headers.hmap -I/Users/metallicatony/My_Programs/iPhone/DependentPicker/build/DependentPicker.build/Debug-iphonesimulator/DependentPicker.build/DependentPicker-all-target-headers.hmap -iquote /Users/metallicatony/My_Programs/iPhone/DependentPicker/build/DependentPicker.build/Debug-iphonesimulator/DependentPicker.build/DependentPicker-project-headers.hmap -F/Users/metallicatony/My_Programs/iPhone/DependentPicker/build/Debug-iphonesimulator -I/Users/metallicatony/My_Programs/iPhone/DependentPicker/build/Debug-iphonesimulator/include -I/Users/metallicatony/My_Programs/iPhone/DependentPicker/build/DependentPicker.build/Debug-iphonesimulator/DependentPicker.build/DerivedSources/i386 -I/Users/metallicatony/My_Programs/iPhone/DependentPicker/build/DependentPicker.build/Debug-iphonesimulator/DependentPicker.build/DerivedSources -include /var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DependentPicker_Prefix-bumcjworvqgpobcqwrzqqrfldpox/DependentPicker_Prefix.pch -c /Users/metallicatony/My_Programs/iPhone/DependentPicker/Classes/DependentPickerViewController.m -o /Users/metallicatony/My_Programs/iPhone/DependentPicker/build/DependentPicker.build/Debug-iphonesimulator/DependentPicker.build/Objects-normal/i386/DependentPickerViewController.o0#
+
+CCompileC build/DependentPicker.build/Debug-iphonesimulator/DependentPicker.build/Objects-normal/i386/main.o /Users/metallicatony/My_Programs/iPhone/DependentPicker/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322473510.001916
+e322473510.089555
+r1
+xCompileC
+xbuild/DependentPicker.build/Debug-iphonesimulator/DependentPicker.build/Objects-normal/i386/main.o
+x/Users/metallicatony/My_Programs/iPhone/DependentPicker/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/metallicatony/My_Programs/iPhone/DependentPicker/main.m322473510#322473510#0(0"0(0#0#62"/Users/metallicatony/My_Programs/iPhone/DependentPicker/main.m8634295744#2261"    cd /Users/metallicatony/My_Programs/iPhone/DependentPicker    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/metallicatony/My_Programs/iPhone/DependentPicker/build/DependentPicker.build/Debug-iphonesimulator/DependentPicker.build/DependentPicker-generated-files.hmap -I/Users/metallicatony/My_Programs/iPhone/DependentPicker/build/DependentPicker.build/Debug-iphonesimulator/DependentPicker.build/DependentPicker-own-target-headers.hmap -I/Users/metallicatony/My_Programs/iPhone/DependentPicker/build/DependentPicker.build/Debug-iphonesimulator/DependentPicker.build/DependentPicker-all-target-headers.hmap -iquote /Users/metallicatony/My_Programs/iPhone/DependentPicker/build/DependentPicker.build/Debug-iphonesimulator/DependentPicker.build/DependentPicker-project-headers.hmap -F/Users/metallicatony/My_Programs/iPhone/DependentPicker/build/Debug-iphonesimulator -I/Users/metallicatony/My_Programs/iPhone/DependentPicker/build/Debug-iphonesimulator/include -I/Users/metallicatony/My_Programs/iPhone/DependentPicker/build/DependentPicker.build/Debug-iphonesimulator/DependentPicker.build/DerivedSources/i386 -I/Users/metallicatony/My_Programs/iPhone/DependentPicker/build/DependentPicker.build/Debug-iphonesimulator/DependentPicker.build/DerivedSources -include /var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DependentPicker_Prefix-bumcjworvqgpobcqwrzqqrfldpox/DependentPicker_Prefix.pch -c /Users/metallicatony/My_Programs/iPhone/DependentPicker/main.m -o /Users/metallicatony/My_Programs/iPhone/DependentPicker/build/DependentPicker.build/Debug-iphonesimulator/DependentPicker.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/metallicatony/My_Programs/iPhone/DependentPicker/DependentPickerViewController.xib
+s322473508.636039
+e322473509.132893
+r1
+xCompileXIB
+x/Users/metallicatony/My_Programs/iPhone/DependentPicker/DependentPickerViewController.xib
+lSLF07#2@44"CompileXIB DependentPickerViewController.xib322473508#322473509#0(0"0(0#0#89"/Users/metallicatony/My_Programs/iPhone/DependentPicker/DependentPickerViewController.xib8632001056#667"    cd /Users/metallicatony/My_Programs/iPhone/DependentPicker    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/metallicatony/My_Programs/iPhone/DependentPicker/build/Debug-iphonesimulator/DependentPicker.app/DependentPickerViewController.nib /Users/metallicatony/My_Programs/iPhone/DependentPicker/DependentPickerViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/metallicatony/My_Programs/iPhone/DependentPicker/MainWindow.xib
+s322473508.635321
+e322473509.128673
+r1
+xCompileXIB
+x/Users/metallicatony/My_Programs/iPhone/DependentPicker/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib322473508#322473509#0(0"0(0#0#70"/Users/metallicatony/My_Programs/iPhone/DependentPicker/MainWindow.xib8632091040#629"    cd /Users/metallicatony/My_Programs/iPhone/DependentPicker    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/metallicatony/My_Programs/iPhone/DependentPicker/build/Debug-iphonesimulator/DependentPicker.app/MainWindow.nib /Users/metallicatony/My_Programs/iPhone/DependentPicker/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCopyPlistFile /Users/metallicatony/My_Programs/iPhone/DependentPicker/build/Debug-iphonesimulator/DependentPicker.app/statedictionary.plist statedictionary.plist
+s317889074.472576
+e317889074.623979
+r1
+xCopyPlistFile
+x/Users/metallicatony/My_Programs/iPhone/DependentPicker/build/Debug-iphonesimulator/DependentPicker.app/statedictionary.plist
+xstatedictionary.plist
+lSLF07#2@26"Copy statedictionary.plist317889074#317889074#0(0"0(0#0#77"/Users/metallicatony/My_Programs/iPhone/DependentPicker/statedictionary.plist8629687584#438"    cd /Users/metallicatony/My_Programs/iPhone/DependentPicker    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 statedictionary.plist --outdir /Users/metallicatony/My_Programs/iPhone/DependentPicker/build/Debug-iphonesimulator/DependentPicker.app0#
+
+CGenerateDSYMFile /Users/metallicatony/My_Programs/iPhone/DependentPicker/build/Debug-iphonesimulator/DependentPicker.app.dSYM /Users/metallicatony/My_Programs/iPhone/DependentPicker/build/Debug-iphonesimulator/DependentPicker.app/DependentPicker
+s322473510.171377
+e322473510.186572
+r1
+xGenerateDSYMFile
+x/Users/metallicatony/My_Programs/iPhone/DependentPicker/build/Debug-iphonesimulator/DependentPicker.app.dSYM
+x/Users/metallicatony/My_Programs/iPhone/DependentPicker/build/Debug-iphonesimulator/DependentPicker.app/DependentPicker
+lSLF07#2@133"GenerateDSYMFile build/Debug-iphonesimulator/DependentPicker.app.dSYM build/Debug-iphonesimulator/DependentPicker.app/DependentPicker322473510#322473510#0(0"0(0#0#119"/Users/metallicatony/My_Programs/iPhone/DependentPicker/build/Debug-iphonesimulator/DependentPicker.app/DependentPicker8634273824#458"    cd /Users/metallicatony/My_Programs/iPhone/DependentPicker    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/metallicatony/My_Programs/iPhone/DependentPicker/build/Debug-iphonesimulator/DependentPicker.app/DependentPicker -o /Users/metallicatony/My_Programs/iPhone/DependentPicker/build/Debug-iphonesimulator/DependentPicker.app.dSYM0#
+
+CLd /Users/metallicatony/My_Programs/iPhone/DependentPicker/build/Debug-iphonesimulator/DependentPicker.app/DependentPicker normal i386
+s322473510.115838
+e322473510.171278
+r1
+xLd
+x/Users/metallicatony/My_Programs/iPhone/DependentPicker/build/Debug-iphonesimulator/DependentPicker.app/DependentPicker
+xnormal
+xi386
+lSLF07#2@124"Link /Users/metallicatony/My_Programs/iPhone/DependentPicker/build/Debug-iphonesimulator/DependentPicker.app/DependentPicker322473510#322473510#0(0"0(0#0#0"8619292192#1025"    cd /Users/metallicatony/My_Programs/iPhone/DependentPicker    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/metallicatony/My_Programs/iPhone/DependentPicker/build/Debug-iphonesimulator -F/Users/metallicatony/My_Programs/iPhone/DependentPicker/build/Debug-iphonesimulator -filelist /Users/metallicatony/My_Programs/iPhone/DependentPicker/build/DependentPicker.build/Debug-iphonesimulator/DependentPicker.build/Objects-normal/i386/DependentPicker.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/metallicatony/My_Programs/iPhone/DependentPicker/build/Debug-iphonesimulator/DependentPicker.app/DependentPicker0#
+
+CProcessInfoPlistFile /Users/metallicatony/My_Programs/iPhone/DependentPicker/build/Debug-iphonesimulator/DependentPicker.app/Info.plist DependentPicker-Info.plist
+s322473508.610179
+e322473508.635222
+r1
+xProcessInfoPlistFile
+x/Users/metallicatony/My_Programs/iPhone/DependentPicker/build/Debug-iphonesimulator/DependentPicker.app/Info.plist
+xDependentPicker-Info.plist
+lSLF07#2@34"Process DependentPicker-Info.plist322473508#322473508#0(0"0(0#0#82"/Users/metallicatony/My_Programs/iPhone/DependentPicker/DependentPicker-Info.plist8632267648#554"    cd /Users/metallicatony/My_Programs/iPhone/DependentPicker    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility DependentPicker-Info.plist -genpkginfo /Users/metallicatony/My_Programs/iPhone/DependentPicker/build/Debug-iphonesimulator/DependentPicker.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/metallicatony/My_Programs/iPhone/DependentPicker/build/Debug-iphonesimulator/DependentPicker.app/Info.plist0#
+
+CProcessPCH /var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DependentPicker_Prefix-bumcjworvqgpobcqwrzqqrfldpox/DependentPicker_Prefix.pch.gch DependentPicker_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s322473509.133029
+e322473510.001778
+r1
+xProcessPCH
+x/var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DependentPicker_Prefix-bumcjworvqgpobcqwrzqqrfldpox/DependentPicker_Prefix.pch.gch
+xDependentPicker_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@37"Precompile DependentPicker_Prefix.pch322473509#322473510#0(0"0(0#0#82"/Users/metallicatony/My_Programs/iPhone/DependentPicker/DependentPicker_Prefix.pch8633756736#2128"    cd /Users/metallicatony/My_Programs/iPhone/DependentPicker    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/metallicatony/My_Programs/iPhone/DependentPicker/build/DependentPicker.build/Debug-iphonesimulator/DependentPicker.build/DependentPicker-generated-files.hmap -I/Users/metallicatony/My_Programs/iPhone/DependentPicker/build/DependentPicker.build/Debug-iphonesimulator/DependentPicker.build/DependentPicker-own-target-headers.hmap -I/Users/metallicatony/My_Programs/iPhone/DependentPicker/build/DependentPicker.build/Debug-iphonesimulator/DependentPicker.build/DependentPicker-all-target-headers.hmap -iquote /Users/metallicatony/My_Programs/iPhone/DependentPicker/build/DependentPicker.build/Debug-iphonesimulator/DependentPicker.build/DependentPicker-project-headers.hmap -F/Users/metallicatony/My_Programs/iPhone/DependentPicker/build/Debug-iphonesimulator -I/Users/metallicatony/My_Programs/iPhone/DependentPicker/build/Debug-iphonesimulator/include -I/Users/metallicatony/My_Programs/iPhone/DependentPicker/build/DependentPicker.build/Debug-iphonesimulator/DependentPicker.build/DerivedSources/i386 -I/Users/metallicatony/My_Programs/iPhone/DependentPicker/build/DependentPicker.build/Debug-iphonesimulator/DependentPicker.build/DerivedSources -c /Users/metallicatony/My_Programs/iPhone/DependentPicker/DependentPicker_Prefix.pch -o /var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DependentPicker_Prefix-bumcjworvqgpobcqwrzqqrfldpox/DependentPicker_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DependentPicker_Prefix-gogpqhonfoyautdhwzfqzfabohvh/DependentPicker_Prefix.pch.gch DependentPicker_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s317805377.712019
+e317805378.701458
+r1
+xProcessPCH
+x/var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DependentPicker_Prefix-gogpqhonfoyautdhwzfqzfabohvh/DependentPicker_Prefix.pch.gch
+xDependentPicker_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@37"Precompile DependentPicker_Prefix.pch317805377#317805378#0(0"0(0#0#82"/Users/metallicatony/My_Programs/iPhone/DependentPicker/DependentPicker_Prefix.pch8629442080#2115"    cd /Users/metallicatony/My_Programs/iPhone/DependentPicker    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/metallicatony/My_Programs/iPhone/DependentPicker/build/DependentPicker.build/Debug-iphonesimulator/DependentPicker.build/DependentPicker-generated-files.hmap -I/Users/metallicatony/My_Programs/iPhone/DependentPicker/build/DependentPicker.build/Debug-iphonesimulator/DependentPicker.build/DependentPicker-own-target-headers.hmap -I/Users/metallicatony/My_Programs/iPhone/DependentPicker/build/DependentPicker.build/Debug-iphonesimulator/DependentPicker.build/DependentPicker-all-target-headers.hmap -iquote /Users/metallicatony/My_Programs/iPhone/DependentPicker/build/DependentPicker.build/Debug-iphonesimulator/DependentPicker.build/DependentPicker-project-headers.hmap -F/Users/metallicatony/My_Programs/iPhone/DependentPicker/build/Debug-iphonesimulator -I/Users/metallicatony/My_Programs/iPhone/DependentPicker/build/Debug-iphonesimulator/include -I/Users/metallicatony/My_Programs/iPhone/DependentPicker/build/DependentPicker.build/Debug-iphonesimulator/DependentPicker.build/DerivedSources/i386 -I/Users/metallicatony/My_Programs/iPhone/DependentPicker/build/DependentPicker.build/Debug-iphonesimulator/DependentPicker.build/DerivedSources -c /Users/metallicatony/My_Programs/iPhone/DependentPicker/DependentPicker_Prefix.pch -o /var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DependentPicker_Prefix-gogpqhonfoyautdhwzfqzfabohvh/DependentPicker_Prefix.pch.gch0#
+
+CTouch /Users/metallicatony/My_Programs/iPhone/DependentPicker/build/Debug-iphonesimulator/DependentPicker.app
+s322473510.186661
+e322473510.189396
+r1
+xTouch
+x/Users/metallicatony/My_Programs/iPhone/DependentPicker/build/Debug-iphonesimulator/DependentPicker.app
+lSLF07#2@109"Touch /Users/metallicatony/My_Programs/iPhone/DependentPicker/build/Debug-iphonesimulator/DependentPicker.app322473510#322473510#0(0"0(0#0#0"8633823104#320"    cd /Users/metallicatony/My_Programs/iPhone/DependentPicker    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/metallicatony/My_Programs/iPhone/DependentPicker/build/Debug-iphonesimulator/DependentPicker.app0#
+

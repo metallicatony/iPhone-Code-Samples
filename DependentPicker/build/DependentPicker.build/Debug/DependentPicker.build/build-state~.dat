@@ -1,0 +1,68 @@
+TDependentPicker
+v7
+r1
+cCheck dependencies
+
+N/Users/metallicatony/My_Programs/iPhone/DependentPicker/DependentPickerViewController.xib
+c000000004D424C0800000000000044E9
+t1296190472
+s17641
+
+N/Users/metallicatony/My_Programs/iPhone/DependentPicker/MainWindow.xib
+c000000004D4118970000000000004E89
+t1296111767
+s20105
+
+N/Users/metallicatony/My_Programs/iPhone/DependentPicker/build/Debug/DependentPicker.app
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/DependentPicker/build/Debug/DependentPicker.app/Contents/Info.plist
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/DependentPicker/build/Debug/DependentPicker.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/DependentPicker/build/Debug/DependentPicker.app/Contents/Resources/DependentPickerViewController.nib
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/DependentPicker/build/Debug/DependentPicker.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/DependentPicker/build/Debug/DependentPicker.app/Contents/Resources/statedictionary.plist
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/DependentPicker/statedictionary.plist
+c0000000049D34EF000000000000CA69D
+t1238585072
+s829085
+
+NDependentPicker-Info.plist
+c000000004D411897000000000000038D
+t1296111767
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies322473445#322473445#0(66"[BEROR]error: There is no SDK with the name or path 'iphoneos4.0'1(4@58"error: There is no SDK with the name or path 'iphoneos4.0'322473445#18446744073709551615#0#0(1@0"0(0#1#0"8632316864#0"0#
+
+CCompileXIB /Users/metallicatony/My_Programs/iPhone/DependentPicker/DependentPickerViewController.xib
+r0
+
+CCompileXIB /Users/metallicatony/My_Programs/iPhone/DependentPicker/MainWindow.xib
+r0
+
+CCopyPlistFile /Users/metallicatony/My_Programs/iPhone/DependentPicker/build/Debug/DependentPicker.app/Contents/Resources/statedictionary.plist statedictionary.plist
+r0
+
+CProcessInfoPlistFile /Users/metallicatony/My_Programs/iPhone/DependentPicker/build/Debug/DependentPicker.app/Contents/Info.plist DependentPicker-Info.plist
+r0
+
+CTouch /Users/metallicatony/My_Programs/iPhone/DependentPicker/build/Debug/DependentPicker.app
+r0
+
