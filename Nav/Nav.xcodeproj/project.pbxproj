@@ -1,0 +1,300 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1D3623260D0F684500981E51 /* NavAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* NavAppDelegate.m */; };
+		1D60589B0D05DD56006BFB54 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; };
+		295786D11336B99200C684CB /* MovieDetailView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 295786D01336B99200C684CB /* MovieDetailView.xib */; };
+		295787011337843400C684CB /* DirectorsCheckListController.m in Sources */ = {isa = PBXBuildFile; fileRef = 295787001337843400C684CB /* DirectorsCheckListController.m */; };
+		2974FCC613260F9900C3999B /* Movies.plist in Resources */ = {isa = PBXBuildFile; fileRef = 2974FCC513260F9900C3999B /* Movies.plist */; };
+		2974FCCC1326120200C3999B /* MovieListController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2974FCCB1326120200C3999B /* MovieListController.m */; };
+		2979A69C132BCEB800485B7C /* Icon Background 512x512.png in Resources */ = {isa = PBXBuildFile; fileRef = 2979A69B132BCEB800485B7C /* Icon Background 512x512.png */; };
+		29858F271336A164003158FD /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 29858F261336A164003158FD /* CoreGraphics.framework */; };
+		29858FB01336A185003158FD /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 29858FAF1336A185003158FD /* Foundation.framework */; };
+		29858FB21336A194003158FD /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 29858FB11336A194003158FD /* UIKit.framework */; };
+		29B5BBD5132E2DB100FA288F /* Batsman Silhoutte 512x512.png in Resources */ = {isa = PBXBuildFile; fileRef = 29B5BBD4132E2DB100FA288F /* Batsman Silhoutte 512x512.png */; };
+		29B5BBE4132E301100FA288F /* Batsman Silhoutte 512x512a.png in Resources */ = {isa = PBXBuildFile; fileRef = 29B5BBE3132E301100FA288F /* Batsman Silhoutte 512x512a.png */; };
+		29B5BBEA132E327300FA288F /* Batsman Silhoutte 512x512b.png in Resources */ = {isa = PBXBuildFile; fileRef = 29B5BBE9132E327300FA288F /* Batsman Silhoutte 512x512b.png */; };
+		29B5BC8013356EB000FA288F /* RootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B5BC7F13356EB000FA288F /* RootViewController.m */; };
+		29B5BCBF13357E1100FA288F /* MovieDetailController.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B5BCBE13357E1100FA288F /* MovieDetailController.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		1D3623240D0F684500981E51 /* NavAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NavAppDelegate.h; sourceTree = "<group>"; };
+		1D3623250D0F684500981E51 /* NavAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NavAppDelegate.m; sourceTree = "<group>"; };
+		1D6058910D05DD3D006BFB54 /* Nav.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Nav.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		295786D01336B99200C684CB /* MovieDetailView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MovieDetailView.xib; sourceTree = "<group>"; };
+		295786FF1337843400C684CB /* DirectorsCheckListController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DirectorsCheckListController.h; sourceTree = "<group>"; };
+		295787001337843400C684CB /* DirectorsCheckListController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DirectorsCheckListController.m; sourceTree = "<group>"; };
+		2974FCC513260F9900C3999B /* Movies.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Movies.plist; sourceTree = "<group>"; };
+		2974FCCA1326120200C3999B /* MovieListController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MovieListController.h; sourceTree = "<group>"; };
+		2974FCCB1326120200C3999B /* MovieListController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MovieListController.m; sourceTree = "<group>"; };
+		2979A69B132BCEB800485B7C /* Icon Background 512x512.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon Background 512x512.png"; path = "../../../Desktop/Cricfacts/Icon Background 512x512.png"; sourceTree = SOURCE_ROOT; };
+		29858F261336A164003158FD /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		29858FAF1336A185003158FD /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		29858FB11336A194003158FD /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		29B5BBD4132E2DB100FA288F /* Batsman Silhoutte 512x512.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Batsman Silhoutte 512x512.png"; path = "../../../Desktop/Cricfacts/Batsman Silhoutte 512x512.png"; sourceTree = SOURCE_ROOT; };
+		29B5BBE3132E301100FA288F /* Batsman Silhoutte 512x512a.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Batsman Silhoutte 512x512a.png"; path = "../../../Desktop/Cricfacts/Batsman Silhoutte 512x512a.png"; sourceTree = SOURCE_ROOT; };
+		29B5BBE9132E327300FA288F /* Batsman Silhoutte 512x512b.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Batsman Silhoutte 512x512b.png"; path = "../../../Desktop/Cricfacts/Batsman Silhoutte 512x512b.png"; sourceTree = SOURCE_ROOT; };
+		29B5BC7E13356EB000FA288F /* RootViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RootViewController.h; sourceTree = "<group>"; };
+		29B5BC7F13356EB000FA288F /* RootViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RootViewController.m; sourceTree = "<group>"; };
+		29B5BCBD13357E1100FA288F /* MovieDetailController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MovieDetailController.h; sourceTree = "<group>"; };
+		29B5BCBE13357E1100FA288F /* MovieDetailController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MovieDetailController.m; sourceTree = "<group>"; };
+		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		32CA4F630368D1EE00C91783 /* Nav_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Nav_Prefix.pch; sourceTree = "<group>"; };
+		8D1107310486CEB800E47090 /* Nav-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Nav-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1D60588F0D05DD3D006BFB54 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				29858F271336A164003158FD /* CoreGraphics.framework in Frameworks */,
+				29858FB01336A185003158FD /* Foundation.framework in Frameworks */,
+				29858FB21336A194003158FD /* UIKit.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		080E96DDFE201D6D7F000001 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				1D3623240D0F684500981E51 /* NavAppDelegate.h */,
+				1D3623250D0F684500981E51 /* NavAppDelegate.m */,
+				2974FCCA1326120200C3999B /* MovieListController.h */,
+				2974FCCB1326120200C3999B /* MovieListController.m */,
+				29B5BC7E13356EB000FA288F /* RootViewController.h */,
+				29B5BC7F13356EB000FA288F /* RootViewController.m */,
+				29B5BCBD13357E1100FA288F /* MovieDetailController.h */,
+				29B5BCBE13357E1100FA288F /* MovieDetailController.m */,
+				295786FF1337843400C684CB /* DirectorsCheckListController.h */,
+				295787001337843400C684CB /* DirectorsCheckListController.m */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		19C28FACFE9D520D11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1D6058910D05DD3D006BFB54 /* Nav.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
+			isa = PBXGroup;
+			children = (
+				080E96DDFE201D6D7F000001 /* Classes */,
+				29B97315FDCFA39411CA2CEA /* Other Sources */,
+				29B97317FDCFA39411CA2CEA /* Resources */,
+				29B97323FDCFA39411CA2CEA /* Frameworks */,
+				19C28FACFE9D520D11CA2CBB /* Products */,
+			);
+			name = CustomTemplate;
+			sourceTree = "<group>";
+		};
+		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				32CA4F630368D1EE00C91783 /* Nav_Prefix.pch */,
+				29B97316FDCFA39411CA2CEA /* main.m */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		29B97317FDCFA39411CA2CEA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				2979A69B132BCEB800485B7C /* Icon Background 512x512.png */,
+				29B5BBE9132E327300FA288F /* Batsman Silhoutte 512x512b.png */,
+				29B5BBD4132E2DB100FA288F /* Batsman Silhoutte 512x512.png */,
+				29B5BBE3132E301100FA288F /* Batsman Silhoutte 512x512a.png */,
+				8D1107310486CEB800E47090 /* Nav-Info.plist */,
+				2974FCC513260F9900C3999B /* Movies.plist */,
+				295786D01336B99200C684CB /* MovieDetailView.xib */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				29858F261336A164003158FD /* CoreGraphics.framework */,
+				29858FAF1336A185003158FD /* Foundation.framework */,
+				29858FB11336A194003158FD /* UIKit.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1D6058900D05DD3D006BFB54 /* Nav */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "Nav" */;
+			buildPhases = (
+				1D60588D0D05DD3D006BFB54 /* Resources */,
+				1D60588E0D05DD3D006BFB54 /* Sources */,
+				1D60588F0D05DD3D006BFB54 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Nav;
+			productName = Nav;
+			productReference = 1D6058910D05DD3D006BFB54 /* Nav.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		29B97313FDCFA39411CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "Nav" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 1;
+			knownRegions = (
+				English,
+				Japanese,
+				French,
+				German,
+			);
+			mainGroup = 29B97314FDCFA39411CA2CEA /* CustomTemplate */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1D6058900D05DD3D006BFB54 /* Nav */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1D60588D0D05DD3D006BFB54 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2974FCC613260F9900C3999B /* Movies.plist in Resources */,
+				2979A69C132BCEB800485B7C /* Icon Background 512x512.png in Resources */,
+				29B5BBD5132E2DB100FA288F /* Batsman Silhoutte 512x512.png in Resources */,
+				29B5BBE4132E301100FA288F /* Batsman Silhoutte 512x512a.png in Resources */,
+				29B5BBEA132E327300FA288F /* Batsman Silhoutte 512x512b.png in Resources */,
+				295786D11336B99200C684CB /* MovieDetailView.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1D60588E0D05DD3D006BFB54 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
+				1D3623260D0F684500981E51 /* NavAppDelegate.m in Sources */,
+				2974FCCC1326120200C3999B /* MovieListController.m in Sources */,
+				29B5BC8013356EB000FA288F /* RootViewController.m in Sources */,
+				29B5BCBF13357E1100FA288F /* MovieDetailController.m in Sources */,
+				295787011337843400C684CB /* DirectorsCheckListController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		1D6058940D05DD3E006BFB54 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = Nav_Prefix.pch;
+				INFOPLIST_FILE = "Nav-Info.plist";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(DEVELOPER_DIR)/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/UIKit.framework\"",
+				);
+				PRODUCT_NAME = Nav;
+			};
+			name = Debug;
+		};
+		1D6058950D05DD3E006BFB54 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = Nav_Prefix.pch;
+				INFOPLIST_FILE = "Nav-Info.plist";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(DEVELOPER_DIR)/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/UIKit.framework\"",
+				);
+				PRODUCT_NAME = Nav;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		C01FCF4F08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				SDKROOT = iphoneos4.3;
+			};
+			name = Debug;
+		};
+		C01FCF5008A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				PREBINDING = NO;
+				SDKROOT = iphoneos4.3;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "Nav" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1D6058940D05DD3E006BFB54 /* Debug */,
+				1D6058950D05DD3E006BFB54 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "Nav" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4F08A954540054247B /* Debug */,
+				C01FCF5008A954540054247B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 29B97313FDCFA39411CA2CEA /* Project object */;
+}

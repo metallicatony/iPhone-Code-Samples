@@ -1,0 +1,99 @@
+TNav
+v7
+r1
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/../../../Desktop/Cricfacts/Batsman Silhoutte 512x512.png
+c000000004D7DF61F000000000003B96B
+t1300100639
+s244075
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/../../../Desktop/Cricfacts/Batsman Silhoutte 512x512a.png
+c000000004D7DF924000000000003BC07
+t1300101412
+s244743
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/../../../Desktop/Cricfacts/Batsman Silhoutte 512x512b.png
+c000000004D7DFACE0000000000034ED8
+t1300101838
+s216792
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/../../../Desktop/Cricfacts/Icon Background 512x512.png
+c000000004D7B971C000000000003C68F
+t1299945244
+s247439
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/MainWindow.xib
+c000000004D85E1780000000000006395
+t1300619640
+s25493
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/Movies.plist
+c000000004D75EFA90000000000000956
+t1299574697
+s2390
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/build/Release/Nav.app
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/build/Release/Nav.app/Contents/Info.plist
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/build/Release/Nav.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/build/Release/Nav.app/Contents/Resources/Batsman Silhoutte 512x512.png
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/build/Release/Nav.app/Contents/Resources/Batsman Silhoutte 512x512a.png
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/build/Release/Nav.app/Contents/Resources/Batsman Silhoutte 512x512b.png
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/build/Release/Nav.app/Contents/Resources/Icon Background 512x512.png
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/build/Release/Nav.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/build/Release/Nav.app/Contents/Resources/Movies.plist
+t2
+s0
+
+NNav-Info.plist
+c000000004D7DF8A500000000000003AB
+t1300101285
+s939
+
+CCompileXIB /Users/metallicatony/My_Programs/iPhone/Nav/MainWindow.xib
+r0
+
+CCopyPlistFile /Users/metallicatony/My_Programs/iPhone/Nav/build/Release/Nav.app/Contents/Resources/Movies.plist Movies.plist
+r0
+
+CCpResource "build/Release/Nav.app/Contents/Resources/Batsman Silhoutte 512x512.png" "../../../Desktop/Cricfacts/Batsman Silhoutte 512x512.png"
+r0
+
+CCpResource "build/Release/Nav.app/Contents/Resources/Batsman Silhoutte 512x512a.png" "../../../Desktop/Cricfacts/Batsman Silhoutte 512x512a.png"
+r0
+
+CCpResource "build/Release/Nav.app/Contents/Resources/Batsman Silhoutte 512x512b.png" "../../../Desktop/Cricfacts/Batsman Silhoutte 512x512b.png"
+r0
+
+CCpResource "build/Release/Nav.app/Contents/Resources/Icon Background 512x512.png" "../../../Desktop/Cricfacts/Icon Background 512x512.png"
+r0
+
+CProcessInfoPlistFile /Users/metallicatony/My_Programs/iPhone/Nav/build/Release/Nav.app/Contents/Info.plist Nav-Info.plist
+r0
+
+CTouch /Users/metallicatony/My_Programs/iPhone/Nav/build/Release/Nav.app
+r0
+

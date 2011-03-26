@@ -1,0 +1,258 @@
+TAutoRotate
+v7
+r0
+t315327633.406063
+cCheck dependencies
+cProcessInfoPlistFile /Users/metallicatony/My_Programs/iPhone/AutoRotate/build/Debug-iphonesimulator/AutoRotate.app/Info.plist AutoRotate-Info.plist
+cCompileXIB /Users/metallicatony/My_Programs/iPhone/AutoRotate/MainWindow.xib
+cCompileXIB /Users/metallicatony/My_Programs/iPhone/AutoRotate/AutoRotateViewController.xib
+cProcessPCH /var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AutoRotate_Prefix-abmqhfyqkuwhtwbxstsojwyxzzrg/AutoRotate_Prefix.pch.gch AutoRotate_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AutoRotate.build/Debug-iphonesimulator/AutoRotate.build/Objects-normal/i386/main.o /Users/metallicatony/My_Programs/iPhone/AutoRotate/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AutoRotate.build/Debug-iphonesimulator/AutoRotate.build/Objects-normal/i386/AutoRotateAppDelegate.o /Users/metallicatony/My_Programs/iPhone/AutoRotate/Classes/AutoRotateAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AutoRotate.build/Debug-iphonesimulator/AutoRotate.build/Objects-normal/i386/AutoRotateViewController.o /Users/metallicatony/My_Programs/iPhone/AutoRotate/Classes/AutoRotateViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/metallicatony/My_Programs/iPhone/AutoRotate/build/Debug-iphonesimulator/AutoRotate.app/AutoRotate normal i386
+cGenerateDSYMFile /Users/metallicatony/My_Programs/iPhone/AutoRotate/build/Debug-iphonesimulator/AutoRotate.app.dSYM /Users/metallicatony/My_Programs/iPhone/AutoRotate/build/Debug-iphonesimulator/AutoRotate.app/AutoRotate
+cTouch /Users/metallicatony/My_Programs/iPhone/AutoRotate/build/Debug-iphonesimulator/AutoRotate.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C3569260000000000000132
+t1278568742
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Users/metallicatony/My_Programs/iPhone/AutoRotate/AutoRotateViewController.xib
+c000000004D1B4D0B0000000000004959
+t1293634827
+s18777
+
+N/Users/metallicatony/My_Programs/iPhone/AutoRotate/AutoRotate_Prefix.pch
+c000000004D1B4C0A00000000000000BD
+t1293634570
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/metallicatony/My_Programs/iPhone/AutoRotate/Classes/AutoRotateAppDelegate.h
+c000000004D1B4C0A00000000000001F4
+t1293634570
+s500
+i<UIKit/UIKit.h>
+
+N/Users/metallicatony/My_Programs/iPhone/AutoRotate/Classes/AutoRotateAppDelegate.m
+c000000004D1B4C0A0000000000000A9D
+t1293634570
+s2717
+i"AutoRotateAppDelegate.h"
+i"AutoRotateViewController.h"
+
+N/Users/metallicatony/My_Programs/iPhone/AutoRotate/Classes/AutoRotateViewController.h
+c000000004D1B4C0A00000000000000FA
+t1293634570
+s250
+i<UIKit/UIKit.h>
+
+N/Users/metallicatony/My_Programs/iPhone/AutoRotate/Classes/AutoRotateViewController.m
+c000000004D1B4C0A00000000000005C8
+t1293634570
+s1480
+i"AutoRotateViewController.h"
+
+N/Users/metallicatony/My_Programs/iPhone/AutoRotate/MainWindow.xib
+c000000004D1B4C0A0000000000004E4D
+t1293634570
+s20045
+
+N/Users/metallicatony/My_Programs/iPhone/AutoRotate/build/AutoRotate.build/Debug-iphonesimulator/AutoRotate.build/Objects-normal/i386/AutoRotate.LinkFileList
+c000000004D1B4D0F00000000000001C9
+t1293634831
+s457
+
+N/Users/metallicatony/My_Programs/iPhone/AutoRotate/build/AutoRotate.build/Debug-iphonesimulator/AutoRotate.build/Objects-normal/i386/AutoRotateAppDelegate.o
+t1293634833
+s47924
+
+N/Users/metallicatony/My_Programs/iPhone/AutoRotate/build/AutoRotate.build/Debug-iphonesimulator/AutoRotate.build/Objects-normal/i386/AutoRotateViewController.o
+t1293634833
+s34484
+
+N/Users/metallicatony/My_Programs/iPhone/AutoRotate/build/AutoRotate.build/Debug-iphonesimulator/AutoRotate.build/Objects-normal/i386/main.o
+t1293634833
+s6328
+
+N/Users/metallicatony/My_Programs/iPhone/AutoRotate/build/Debug-iphonesimulator/AutoRotate.app
+t1293634833
+s238
+
+N/Users/metallicatony/My_Programs/iPhone/AutoRotate/build/Debug-iphonesimulator/AutoRotate.app.dSYM
+t1293634833
+s102
+
+N/Users/metallicatony/My_Programs/iPhone/AutoRotate/build/Debug-iphonesimulator/AutoRotate.app/AutoRotate
+t1293634833
+s17296
+
+N/Users/metallicatony/My_Programs/iPhone/AutoRotate/build/Debug-iphonesimulator/AutoRotate.app/AutoRotateViewController.nib
+t1293634831
+s1525
+
+N/Users/metallicatony/My_Programs/iPhone/AutoRotate/build/Debug-iphonesimulator/AutoRotate.app/Info.plist
+t1293634831
+s603
+
+N/Users/metallicatony/My_Programs/iPhone/AutoRotate/build/Debug-iphonesimulator/AutoRotate.app/MainWindow.nib
+t1293634831
+s1129
+
+N/Users/metallicatony/My_Programs/iPhone/AutoRotate/build/Debug-iphonesimulator/AutoRotate.app/PkgInfo
+t1293634831
+s8
+
+N/Users/metallicatony/My_Programs/iPhone/AutoRotate/main.m
+c000000004D1B4C0A000000000000016F
+t1293634570
+s367
+i<UIKit/UIKit.h>
+
+N/var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AutoRotate_Prefix-abmqhfyqkuwhtwbxstsojwyxzzrg/AutoRotate_Prefix.pch.gch
+t1293634832
+s15232016
+
+NAutoRotate-Info.plist
+c000000004D1B4C0A000000000000038D
+t1293634570
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies315327631#315327631#0(0"0(0#1#0"8247620834010738688#0"0#
+
+CCompileC build/AutoRotate.build/Debug-iphonesimulator/AutoRotate.build/Objects-normal/i386/AutoRotateAppDelegate.o /Users/metallicatony/My_Programs/iPhone/AutoRotate/Classes/AutoRotateAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s315327632.933449
+e315327633.061335
+r1
+xCompileC
+xbuild/AutoRotate.build/Debug-iphonesimulator/AutoRotate.build/Objects-normal/i386/AutoRotateAppDelegate.o
+x/Users/metallicatony/My_Programs/iPhone/AutoRotate/Classes/AutoRotateAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/metallicatony/My_Programs/iPhone/AutoRotate/Classes/AutoRotateAppDelegate.m315327632#315327633#0(0"0(0#0#82"/Users/metallicatony/My_Programs/iPhone/AutoRotate/Classes/AutoRotateAppDelegate.m8598980640#2135"    cd /Users/metallicatony/My_Programs/iPhone/AutoRotate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/metallicatony/My_Programs/iPhone/AutoRotate/build/AutoRotate.build/Debug-iphonesimulator/AutoRotate.build/AutoRotate-generated-files.hmap -I/Users/metallicatony/My_Programs/iPhone/AutoRotate/build/AutoRotate.build/Debug-iphonesimulator/AutoRotate.build/AutoRotate-own-target-headers.hmap -I/Users/metallicatony/My_Programs/iPhone/AutoRotate/build/AutoRotate.build/Debug-iphonesimulator/AutoRotate.build/AutoRotate-all-target-headers.hmap -iquote /Users/metallicatony/My_Programs/iPhone/AutoRotate/build/AutoRotate.build/Debug-iphonesimulator/AutoRotate.build/AutoRotate-project-headers.hmap -F/Users/metallicatony/My_Programs/iPhone/AutoRotate/build/Debug-iphonesimulator -I/Users/metallicatony/My_Programs/iPhone/AutoRotate/build/Debug-iphonesimulator/include -I/Users/metallicatony/My_Programs/iPhone/AutoRotate/build/AutoRotate.build/Debug-iphonesimulator/AutoRotate.build/DerivedSources/i386 -I/Users/metallicatony/My_Programs/iPhone/AutoRotate/build/AutoRotate.build/Debug-iphonesimulator/AutoRotate.build/DerivedSources -include /var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AutoRotate_Prefix-abmqhfyqkuwhtwbxstsojwyxzzrg/AutoRotate_Prefix.pch -c /Users/metallicatony/My_Programs/iPhone/AutoRotate/Classes/AutoRotateAppDelegate.m -o /Users/metallicatony/My_Programs/iPhone/AutoRotate/build/AutoRotate.build/Debug-iphonesimulator/AutoRotate.build/Objects-normal/i386/AutoRotateAppDelegate.o0#
+
+CCompileC build/AutoRotate.build/Debug-iphonesimulator/AutoRotate.build/Objects-normal/i386/AutoRotateViewController.o /Users/metallicatony/My_Programs/iPhone/AutoRotate/Classes/AutoRotateViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s315327632.934615
+e315327633.052260
+r1
+xCompileC
+xbuild/AutoRotate.build/Debug-iphonesimulator/AutoRotate.build/Objects-normal/i386/AutoRotateViewController.o
+x/Users/metallicatony/My_Programs/iPhone/AutoRotate/Classes/AutoRotateViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/metallicatony/My_Programs/iPhone/AutoRotate/Classes/AutoRotateViewController.m315327632#315327633#0(0"0(0#0#85"/Users/metallicatony/My_Programs/iPhone/AutoRotate/Classes/AutoRotateViewController.m8605784800#2141"    cd /Users/metallicatony/My_Programs/iPhone/AutoRotate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/metallicatony/My_Programs/iPhone/AutoRotate/build/AutoRotate.build/Debug-iphonesimulator/AutoRotate.build/AutoRotate-generated-files.hmap -I/Users/metallicatony/My_Programs/iPhone/AutoRotate/build/AutoRotate.build/Debug-iphonesimulator/AutoRotate.build/AutoRotate-own-target-headers.hmap -I/Users/metallicatony/My_Programs/iPhone/AutoRotate/build/AutoRotate.build/Debug-iphonesimulator/AutoRotate.build/AutoRotate-all-target-headers.hmap -iquote /Users/metallicatony/My_Programs/iPhone/AutoRotate/build/AutoRotate.build/Debug-iphonesimulator/AutoRotate.build/AutoRotate-project-headers.hmap -F/Users/metallicatony/My_Programs/iPhone/AutoRotate/build/Debug-iphonesimulator -I/Users/metallicatony/My_Programs/iPhone/AutoRotate/build/Debug-iphonesimulator/include -I/Users/metallicatony/My_Programs/iPhone/AutoRotate/build/AutoRotate.build/Debug-iphonesimulator/AutoRotate.build/DerivedSources/i386 -I/Users/metallicatony/My_Programs/iPhone/AutoRotate/build/AutoRotate.build/Debug-iphonesimulator/AutoRotate.build/DerivedSources -include /var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AutoRotate_Prefix-abmqhfyqkuwhtwbxstsojwyxzzrg/AutoRotate_Prefix.pch -c /Users/metallicatony/My_Programs/iPhone/AutoRotate/Classes/AutoRotateViewController.m -o /Users/metallicatony/My_Programs/iPhone/AutoRotate/build/AutoRotate.build/Debug-iphonesimulator/AutoRotate.build/Objects-normal/i386/AutoRotateViewController.o0#
+
+CCompileC build/AutoRotate.build/Debug-iphonesimulator/AutoRotate.build/Objects-normal/i386/main.o /Users/metallicatony/My_Programs/iPhone/AutoRotate/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s315327632.931838
+e315327633.042830
+r1
+xCompileC
+xbuild/AutoRotate.build/Debug-iphonesimulator/AutoRotate.build/Objects-normal/i386/main.o
+x/Users/metallicatony/My_Programs/iPhone/AutoRotate/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/metallicatony/My_Programs/iPhone/AutoRotate/main.m315327632#315327633#0(0"0(0#0#57"/Users/metallicatony/My_Programs/iPhone/AutoRotate/main.m8604292480#2093"    cd /Users/metallicatony/My_Programs/iPhone/AutoRotate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/metallicatony/My_Programs/iPhone/AutoRotate/build/AutoRotate.build/Debug-iphonesimulator/AutoRotate.build/AutoRotate-generated-files.hmap -I/Users/metallicatony/My_Programs/iPhone/AutoRotate/build/AutoRotate.build/Debug-iphonesimulator/AutoRotate.build/AutoRotate-own-target-headers.hmap -I/Users/metallicatony/My_Programs/iPhone/AutoRotate/build/AutoRotate.build/Debug-iphonesimulator/AutoRotate.build/AutoRotate-all-target-headers.hmap -iquote /Users/metallicatony/My_Programs/iPhone/AutoRotate/build/AutoRotate.build/Debug-iphonesimulator/AutoRotate.build/AutoRotate-project-headers.hmap -F/Users/metallicatony/My_Programs/iPhone/AutoRotate/build/Debug-iphonesimulator -I/Users/metallicatony/My_Programs/iPhone/AutoRotate/build/Debug-iphonesimulator/include -I/Users/metallicatony/My_Programs/iPhone/AutoRotate/build/AutoRotate.build/Debug-iphonesimulator/AutoRotate.build/DerivedSources/i386 -I/Users/metallicatony/My_Programs/iPhone/AutoRotate/build/AutoRotate.build/Debug-iphonesimulator/AutoRotate.build/DerivedSources -include /var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AutoRotate_Prefix-abmqhfyqkuwhtwbxstsojwyxzzrg/AutoRotate_Prefix.pch -c /Users/metallicatony/My_Programs/iPhone/AutoRotate/main.m -o /Users/metallicatony/My_Programs/iPhone/AutoRotate/build/AutoRotate.build/Debug-iphonesimulator/AutoRotate.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/metallicatony/My_Programs/iPhone/AutoRotate/AutoRotateViewController.xib
+s315327631.558662
+e315327631.992833
+r1
+xCompileXIB
+x/Users/metallicatony/My_Programs/iPhone/AutoRotate/AutoRotateViewController.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@39"CompileXIB AutoRotateViewController.xib315327631#315327631#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#79"/Users/metallicatony/My_Programs/iPhone/AutoRotate/AutoRotateViewController.xib8602932576#637"    cd /Users/metallicatony/My_Programs/iPhone/AutoRotate    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/metallicatony/My_Programs/iPhone/AutoRotate/build/Debug-iphonesimulator/AutoRotate.app/AutoRotateViewController.nib /Users/metallicatony/My_Programs/iPhone/AutoRotate/AutoRotateViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/metallicatony/My_Programs/iPhone/AutoRotate/MainWindow.xib
+s315327631.544132
+e315327631.992632
+r1
+xCompileXIB
+x/Users/metallicatony/My_Programs/iPhone/AutoRotate/MainWindow.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@25"CompileXIB MainWindow.xib315327631#315327631#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#65"/Users/metallicatony/My_Programs/iPhone/AutoRotate/MainWindow.xib8603033056#609"    cd /Users/metallicatony/My_Programs/iPhone/AutoRotate    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/metallicatony/My_Programs/iPhone/AutoRotate/build/Debug-iphonesimulator/AutoRotate.app/MainWindow.nib /Users/metallicatony/My_Programs/iPhone/AutoRotate/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CGenerateDSYMFile /Users/metallicatony/My_Programs/iPhone/AutoRotate/build/Debug-iphonesimulator/AutoRotate.app.dSYM /Users/metallicatony/My_Programs/iPhone/AutoRotate/build/Debug-iphonesimulator/AutoRotate.app/AutoRotate
+s315327633.317842
+e315327633.379028
+r1
+xGenerateDSYMFile
+x/Users/metallicatony/My_Programs/iPhone/AutoRotate/build/Debug-iphonesimulator/AutoRotate.app.dSYM
+x/Users/metallicatony/My_Programs/iPhone/AutoRotate/build/Debug-iphonesimulator/AutoRotate.app/AutoRotate
+lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/AutoRotate.app.dSYM build/Debug-iphonesimulator/AutoRotate.app/AutoRotate315327633#315327633#0(0"0(0#0#104"/Users/metallicatony/My_Programs/iPhone/AutoRotate/build/Debug-iphonesimulator/AutoRotate.app/AutoRotate8592736128#428"    cd /Users/metallicatony/My_Programs/iPhone/AutoRotate    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/metallicatony/My_Programs/iPhone/AutoRotate/build/Debug-iphonesimulator/AutoRotate.app/AutoRotate -o /Users/metallicatony/My_Programs/iPhone/AutoRotate/build/Debug-iphonesimulator/AutoRotate.app.dSYM0#
+
+CLd /Users/metallicatony/My_Programs/iPhone/AutoRotate/build/Debug-iphonesimulator/AutoRotate.app/AutoRotate normal i386
+s315327633.061419
+e315327633.317746
+r1
+xLd
+x/Users/metallicatony/My_Programs/iPhone/AutoRotate/build/Debug-iphonesimulator/AutoRotate.app/AutoRotate
+xnormal
+xi386
+lSLF07#2@109"Link /Users/metallicatony/My_Programs/iPhone/AutoRotate/build/Debug-iphonesimulator/AutoRotate.app/AutoRotate315327633#315327633#0(0"0(0#0#0"8602945824#975"    cd /Users/metallicatony/My_Programs/iPhone/AutoRotate    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/metallicatony/My_Programs/iPhone/AutoRotate/build/Debug-iphonesimulator -F/Users/metallicatony/My_Programs/iPhone/AutoRotate/build/Debug-iphonesimulator -filelist /Users/metallicatony/My_Programs/iPhone/AutoRotate/build/AutoRotate.build/Debug-iphonesimulator/AutoRotate.build/Objects-normal/i386/AutoRotate.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/metallicatony/My_Programs/iPhone/AutoRotate/build/Debug-iphonesimulator/AutoRotate.app/AutoRotate0#
+
+CProcessInfoPlistFile /Users/metallicatony/My_Programs/iPhone/AutoRotate/build/Debug-iphonesimulator/AutoRotate.app/Info.plist AutoRotate-Info.plist
+s315327631.509742
+e315327631.543791
+r1
+xProcessInfoPlistFile
+x/Users/metallicatony/My_Programs/iPhone/AutoRotate/build/Debug-iphonesimulator/AutoRotate.app/Info.plist
+xAutoRotate-Info.plist
+lSLF07#2@29"Process AutoRotate-Info.plist315327631#315327631#0(0"0(0#0#72"/Users/metallicatony/My_Programs/iPhone/AutoRotate/AutoRotate-Info.plist20547875170680944#524"    cd /Users/metallicatony/My_Programs/iPhone/AutoRotate    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility AutoRotate-Info.plist -genpkginfo /Users/metallicatony/My_Programs/iPhone/AutoRotate/build/Debug-iphonesimulator/AutoRotate.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/metallicatony/My_Programs/iPhone/AutoRotate/build/Debug-iphonesimulator/AutoRotate.app/Info.plist0#
+
+CProcessPCH /var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AutoRotate_Prefix-abmqhfyqkuwhtwbxstsojwyxzzrg/AutoRotate_Prefix.pch.gch AutoRotate_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s315327631.992996
+e315327632.931688
+r1
+xProcessPCH
+x/var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AutoRotate_Prefix-abmqhfyqkuwhtwbxstsojwyxzzrg/AutoRotate_Prefix.pch.gch
+xAutoRotate_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile AutoRotate_Prefix.pch315327631#315327632#0(0"0(0#0#72"/Users/metallicatony/My_Programs/iPhone/AutoRotate/AutoRotate_Prefix.pch8604408352#1970"    cd /Users/metallicatony/My_Programs/iPhone/AutoRotate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/metallicatony/My_Programs/iPhone/AutoRotate/build/AutoRotate.build/Debug-iphonesimulator/AutoRotate.build/AutoRotate-generated-files.hmap -I/Users/metallicatony/My_Programs/iPhone/AutoRotate/build/AutoRotate.build/Debug-iphonesimulator/AutoRotate.build/AutoRotate-own-target-headers.hmap -I/Users/metallicatony/My_Programs/iPhone/AutoRotate/build/AutoRotate.build/Debug-iphonesimulator/AutoRotate.build/AutoRotate-all-target-headers.hmap -iquote /Users/metallicatony/My_Programs/iPhone/AutoRotate/build/AutoRotate.build/Debug-iphonesimulator/AutoRotate.build/AutoRotate-project-headers.hmap -F/Users/metallicatony/My_Programs/iPhone/AutoRotate/build/Debug-iphonesimulator -I/Users/metallicatony/My_Programs/iPhone/AutoRotate/build/Debug-iphonesimulator/include -I/Users/metallicatony/My_Programs/iPhone/AutoRotate/build/AutoRotate.build/Debug-iphonesimulator/AutoRotate.build/DerivedSources/i386 -I/Users/metallicatony/My_Programs/iPhone/AutoRotate/build/AutoRotate.build/Debug-iphonesimulator/AutoRotate.build/DerivedSources -c /Users/metallicatony/My_Programs/iPhone/AutoRotate/AutoRotate_Prefix.pch -o /var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AutoRotate_Prefix-abmqhfyqkuwhtwbxstsojwyxzzrg/AutoRotate_Prefix.pch.gch0#
+
+CTouch /Users/metallicatony/My_Programs/iPhone/AutoRotate/build/Debug-iphonesimulator/AutoRotate.app
+s315327633.379118
+e315327633.405993
+r1
+xTouch
+x/Users/metallicatony/My_Programs/iPhone/AutoRotate/build/Debug-iphonesimulator/AutoRotate.app
+lSLF07#2@99"Touch /Users/metallicatony/My_Programs/iPhone/AutoRotate/build/Debug-iphonesimulator/AutoRotate.app315327633#315327633#0(0"0(0#0#0"8604144576#305"    cd /Users/metallicatony/My_Programs/iPhone/AutoRotate    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/metallicatony/My_Programs/iPhone/AutoRotate/build/Debug-iphonesimulator/AutoRotate.app0#
+

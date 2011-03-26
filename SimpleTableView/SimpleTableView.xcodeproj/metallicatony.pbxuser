@@ -1,0 +1,150 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* SimpleTableView */ = {
+		activeExec = 0;
+		executables = (
+			29C2546B12F9412400FA82AD /* SimpleTableView */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* SimpleTableViewViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1152, 657}}";
+			sepNavSelRange = "{332, 0}";
+			sepNavVisRange = "{0, 465}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* SimpleTableViewViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1152, 1391}}";
+			sepNavSelRange = "{1471, 0}";
+			sepNavVisRange = "{1063, 1470}";
+		};
+	};
+	29A11D3D12F94C7C00468ECD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* SimpleTableViewViewController.h */;
+		name = "SimpleTableViewViewController.h: 13";
+		rLen = 0;
+		rLoc = 332;
+		rType = 0;
+		vrLen = 465;
+		vrLoc = 0;
+	};
+	29A11D4212F94CD100468ECD /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Incomplete implementation of class 'SimpleTableViewViewController'";
+		fRef = 28D7ACF70DDB3853001CB0EB /* SimpleTableViewViewController.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 110;
+		rType = 1;
+	};
+	29A11D5B12F94FF600468ECD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* SimpleTableViewViewController.m */;
+		name = "SimpleTableViewViewController.m: 55";
+		rLen = 0;
+		rLoc = 1471;
+		rType = 0;
+		vrLen = 1470;
+		vrLoc = 1063;
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 29C2546B12F9412400FA82AD /* SimpleTableView */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* SimpleTableView */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* SimpleTableView */,
+		);
+		codeSenseManager = 29C2547D12F9414100FA82AD /* Code sense */;
+		executables = (
+			29C2546B12F9412400FA82AD /* SimpleTableView */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					974,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 318327429;
+			PBXWorkspaceStateSaveDate = 318327429;
+		};
+		perUserProjectItems = {
+			29A11D3D12F94C7C00468ECD /* PBXTextBookmark */ = 29A11D3D12F94C7C00468ECD /* PBXTextBookmark */;
+			29A11D4212F94CD100468ECD /* XCBuildMessageTextBookmark */ = 29A11D4212F94CD100468ECD /* XCBuildMessageTextBookmark */;
+			29A11D5B12F94FF600468ECD /* PBXTextBookmark */ = 29A11D5B12F94FF600468ECD /* PBXTextBookmark */;
+			29C2548812F948FE00FA82AD /* PBXBookmark */ = 29C2548812F948FE00FA82AD /* PBXBookmark */;
+		};
+		sourceControlManager = 29C2547C12F9414100FA82AD /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29C2546B12F9412400FA82AD /* SimpleTableView */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = SimpleTableView;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	29C2547C12F9414100FA82AD /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	29C2547D12F9414100FA82AD /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	29C2548112F9483800FA82AD /* star.png */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 63}, {750, 815}}";
+		};
+	};
+	29C2548812F948FE00FA82AD /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 29C2548412F9484300FA82AD /* star2.png */;
+	};
+}

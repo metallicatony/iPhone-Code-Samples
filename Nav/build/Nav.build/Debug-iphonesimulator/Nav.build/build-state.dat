@@ -1,0 +1,554 @@
+TNav
+v7
+r0
+t322472533.649322
+cCheck dependencies
+cProcessInfoPlistFile /Users/metallicatony/My_Programs/iPhone/Nav/build/Debug-iphonesimulator/Nav.app/Info.plist Nav-Info.plist
+cCopyPlistFile /Users/metallicatony/My_Programs/iPhone/Nav/build/Debug-iphonesimulator/Nav.app/Movies.plist Movies.plist
+cCpResource "build/Debug-iphonesimulator/Nav.app/Icon Background 512x512.png" "../../../Desktop/Cricfacts/Icon Background 512x512.png"
+cCpResource "build/Debug-iphonesimulator/Nav.app/Batsman Silhoutte 512x512.png" "../../../Desktop/Cricfacts/Batsman Silhoutte 512x512.png"
+cCpResource "build/Debug-iphonesimulator/Nav.app/Batsman Silhoutte 512x512a.png" "../../../Desktop/Cricfacts/Batsman Silhoutte 512x512a.png"
+cCpResource "build/Debug-iphonesimulator/Nav.app/Batsman Silhoutte 512x512b.png" "../../../Desktop/Cricfacts/Batsman Silhoutte 512x512b.png"
+cCompileXIB /Users/metallicatony/My_Programs/iPhone/Nav/MovieDetailView.xib
+cProcessPCH /var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nav_Prefix-glepsesipzfjxeboizkkkaqdvbtg/Nav_Prefix.pch.gch Nav_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/main.o /Users/metallicatony/My_Programs/iPhone/Nav/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/NavAppDelegate.o /Users/metallicatony/My_Programs/iPhone/Nav/Classes/NavAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/MovieListController.o /Users/metallicatony/My_Programs/iPhone/Nav/Classes/MovieListController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/RootViewController.o /Users/metallicatony/My_Programs/iPhone/Nav/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/MovieDetailController.o /Users/metallicatony/My_Programs/iPhone/Nav/Classes/MovieDetailController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/DirectorsCheckListController.o /Users/metallicatony/My_Programs/iPhone/Nav/Classes/DirectorsCheckListController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/metallicatony/My_Programs/iPhone/Nav/build/Debug-iphonesimulator/Nav.app/Nav normal i386
+cGenerateDSYMFile /Users/metallicatony/My_Programs/iPhone/Nav/build/Debug-iphonesimulator/Nav.app.dSYM /Users/metallicatony/My_Programs/iPhone/Nav/build/Debug-iphonesimulator/Nav.app/Nav
+cTouch /Users/metallicatony/My_Programs/iPhone/Nav/build/Debug-iphonesimulator/Nav.app
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5A292A0000000000CA2AE0
+t1297754410
+s13249248
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C3569260000000000000132
+t1278568742
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c000000004D54CECB000000000023EB70
+t1297403595
+s2354032
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CD5C66A0000000000B3E910
+t1289078378
+s11790608
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/../../../Desktop/Cricfacts/Background.png
+c000000004D7B7AF100000000000926D1
+t1299938033
+s599761
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/../../../Desktop/Cricfacts/Batsman Silhoutte 512x512.png
+c000000004D7DF61F000000000003B96B
+t1300100639
+s244075
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/../../../Desktop/Cricfacts/Batsman Silhoutte 512x512a.png
+c000000004D7DF924000000000003BC07
+t1300101412
+s244743
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/../../../Desktop/Cricfacts/Batsman Silhoutte 512x512b.png
+c000000004D7DFACE0000000000034ED8
+t1300101838
+s216792
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/../../../Desktop/Cricfacts/Icon Background 512x512.png
+c000000004D7B971C000000000003C68F
+t1299945244
+s247439
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/../../../Desktop/Cricfacts/Icon Background.png
+c000000004D7B94D60000000000002200
+t1299944662
+s8704
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/Classes/DirectorsCheckListController.h
+c000000004D87523E00000000000001A0
+t1300714046
+s416
+i<UIKit/UIKit.h>
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/Classes/DirectorsCheckListController.m
+c000000004D8757770000000000001022
+t1300715383
+s4130
+i"DirectorsCheckListController.h"
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/Classes/MovieDetailController.h
+c000000004D86A2190000000000000174
+t1300668953
+s372
+i<UIKit/UIKit.h>
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/Classes/MovieDetailController.m
+c000000004D86A2810000000000000A4E
+t1300669057
+s2638
+i"MovieDetailController.h"
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/Classes/MovieListController.h
+c000000004D86A13E000000000000031D
+t1300668734
+s797
+i<UIKit/UIKit.h>
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/Classes/MovieListController.m
+c000000004D86A36100000000000011F7
+t1300669281
+s4599
+i"MovieListController.h"
+i"MovieDetailController.h"
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/Classes/NavAppDelegate.h
+c000000004D75D7A800000000000001B2
+t1299568552
+s434
+i<UIKit/UIKit.h>
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/Classes/NavAppDelegate.m
+c000000004D75ED490000000000000A0D
+t1299574089
+s2573
+i"NavAppDelegate.h"
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/Classes/RootViewController.h
+c000000004D874FE300000000000002F9
+t1300713443
+s761
+i<Foundation/Foundation.h>
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/Classes/RootViewController.m
+c000000004D8750500000000000001123
+t1300713552
+s4387
+i"RootViewController.h"
+i"MovieListController.h"
+i"DirectorsCheckListController.h"
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/Icon Background.png
+c000000004D7B8F7B000000000008F349
+t1299943291
+s586569
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/MainWindow.xib
+c000000004D86A1A20000000000006479
+t1300668834
+s25721
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/MovieDetailView.xib
+c000000004D8684A9000000000000460A
+t1300661417
+s17930
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/Movies.plist
+c000000004D75EFA90000000000000956
+t1299574697
+s2390
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/Nav_Prefix.pch
+c000000004D75D72900000000000000AF
+t1299568425
+s175
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/build/Debug-iphonesimulator/Nav.app
+t1300715384
+s476
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/build/Debug-iphonesimulator/Nav.app.dSYM
+t1300715384
+s102
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/build/Debug-iphonesimulator/Nav.app/Background.png
+t1299938776
+s599761
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/build/Debug-iphonesimulator/Nav.app/Batsman Silhoutte 512x512.png
+t1300654518
+s244075
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/build/Debug-iphonesimulator/Nav.app/Batsman Silhoutte 512x512a.png
+t1300654518
+s244743
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/build/Debug-iphonesimulator/Nav.app/Batsman Silhoutte 512x512b.png
+t1300654518
+s216792
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/build/Debug-iphonesimulator/Nav.app/Icon Background 512x512.png
+t1300654518
+s247439
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/build/Debug-iphonesimulator/Nav.app/Icon Background.png
+t1299944742
+s8704
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/build/Debug-iphonesimulator/Nav.app/Info.plist
+t1300654517
+s633
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/build/Debug-iphonesimulator/Nav.app/MainWindow.nib
+t1300668840
+s2543
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/build/Debug-iphonesimulator/Nav.app/MovieDetailView.nib
+t1300661466
+s2030
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/build/Debug-iphonesimulator/Nav.app/Movies.plist
+t1299574698
+s1998
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/build/Debug-iphonesimulator/Nav.app/Nav
+t1300715384
+s40084
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/build/Debug-iphonesimulator/Nav.app/PkgInfo
+t1300654517
+s8
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/DirectorsCheckListController.o
+t1300715384
+s47964
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/MovieDetailController.o
+t1300713243
+s45252
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/MovieListController.o
+t1300713243
+s51488
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/Nav.LinkFileList
+c000000004D874F1B000000000000031A
+t1300713243
+s794
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/NavAppDelegate.o
+t1300654519
+s52728
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/RootViewController.o
+t1300714644
+s53864
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/main.o
+t1300654519
+s6320
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/main.m
+c000000004D75D7290000000000000166
+t1299568425
+s358
+i<UIKit/UIKit.h>
+
+N/var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nav_Prefix-glepsesipzfjxeboizkkkaqdvbtg/Nav_Prefix.pch.gch
+t1300654519
+s15814064
+
+N/var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nav_Prefix-glveanaflvyegvfymuysnbauxiod/Nav_Prefix.pch.gch
+t1299568601
+s15232016
+
+NNav-Info.plist
+c000000004D7DF8A500000000000003AB
+t1300101285
+s939
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies322472533#322472533#0(0"0(0#1#0"8629654624#0"0#
+
+CCompileC build/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/DirectorsCheckListController.o /Users/metallicatony/My_Programs/iPhone/Nav/Classes/DirectorsCheckListController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322408184.392904
+e322408184.514391
+r1
+xCompileC
+xbuild/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/DirectorsCheckListController.o
+x/Users/metallicatony/My_Programs/iPhone/Nav/Classes/DirectorsCheckListController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/metallicatony/My_Programs/iPhone/Nav/Classes/DirectorsCheckListController.m322408184#322408184#0(0"0(0#0#82"/Users/metallicatony/My_Programs/iPhone/Nav/Classes/DirectorsCheckListController.m8619242720#1945"    cd /Users/metallicatony/My_Programs/iPhone/Nav    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/metallicatony/My_Programs/iPhone/Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Nav-generated-files.hmap -I/Users/metallicatony/My_Programs/iPhone/Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Nav-own-target-headers.hmap -I/Users/metallicatony/My_Programs/iPhone/Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Nav-all-target-headers.hmap -iquote /Users/metallicatony/My_Programs/iPhone/Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Nav-project-headers.hmap -F/Users/metallicatony/My_Programs/iPhone/Nav/build/Debug-iphonesimulator -I/Users/metallicatony/My_Programs/iPhone/Nav/build/Debug-iphonesimulator/include -I/Users/metallicatony/My_Programs/iPhone/Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/DerivedSources/i386 -I/Users/metallicatony/My_Programs/iPhone/Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/DerivedSources -include /var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nav_Prefix-glepsesipzfjxeboizkkkaqdvbtg/Nav_Prefix.pch -c /Users/metallicatony/My_Programs/iPhone/Nav/Classes/DirectorsCheckListController.m -o /Users/metallicatony/My_Programs/iPhone/Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/DirectorsCheckListController.o0#
+
+CCompileC build/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/MovieDetailController.o /Users/metallicatony/My_Programs/iPhone/Nav/Classes/MovieDetailController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322406043.457046
+e322406043.560346
+r1
+xCompileC
+xbuild/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/MovieDetailController.o
+x/Users/metallicatony/My_Programs/iPhone/Nav/Classes/MovieDetailController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/metallicatony/My_Programs/iPhone/Nav/Classes/MovieDetailController.m322406043#322406043#0(0"0(0#0#75"/Users/metallicatony/My_Programs/iPhone/Nav/Classes/MovieDetailController.m8629704160#1931"    cd /Users/metallicatony/My_Programs/iPhone/Nav    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/metallicatony/My_Programs/iPhone/Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Nav-generated-files.hmap -I/Users/metallicatony/My_Programs/iPhone/Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Nav-own-target-headers.hmap -I/Users/metallicatony/My_Programs/iPhone/Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Nav-all-target-headers.hmap -iquote /Users/metallicatony/My_Programs/iPhone/Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Nav-project-headers.hmap -F/Users/metallicatony/My_Programs/iPhone/Nav/build/Debug-iphonesimulator -I/Users/metallicatony/My_Programs/iPhone/Nav/build/Debug-iphonesimulator/include -I/Users/metallicatony/My_Programs/iPhone/Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/DerivedSources/i386 -I/Users/metallicatony/My_Programs/iPhone/Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/DerivedSources -include /var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nav_Prefix-glepsesipzfjxeboizkkkaqdvbtg/Nav_Prefix.pch -c /Users/metallicatony/My_Programs/iPhone/Nav/Classes/MovieDetailController.m -o /Users/metallicatony/My_Programs/iPhone/Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/MovieDetailController.o0#
+
+CCompileC build/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/MovieListController.o /Users/metallicatony/My_Programs/iPhone/Nav/Classes/MovieListController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322406043.385278
+e322406043.582119
+r1
+xCompileC
+xbuild/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/MovieListController.o
+x/Users/metallicatony/My_Programs/iPhone/Nav/Classes/MovieListController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/metallicatony/My_Programs/iPhone/Nav/Classes/MovieListController.m322406043#322406043#0(0"0(0#0#73"/Users/metallicatony/My_Programs/iPhone/Nav/Classes/MovieListController.m8628413024#1927"    cd /Users/metallicatony/My_Programs/iPhone/Nav    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/metallicatony/My_Programs/iPhone/Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Nav-generated-files.hmap -I/Users/metallicatony/My_Programs/iPhone/Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Nav-own-target-headers.hmap -I/Users/metallicatony/My_Programs/iPhone/Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Nav-all-target-headers.hmap -iquote /Users/metallicatony/My_Programs/iPhone/Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Nav-project-headers.hmap -F/Users/metallicatony/My_Programs/iPhone/Nav/build/Debug-iphonesimulator -I/Users/metallicatony/My_Programs/iPhone/Nav/build/Debug-iphonesimulator/include -I/Users/metallicatony/My_Programs/iPhone/Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/DerivedSources/i386 -I/Users/metallicatony/My_Programs/iPhone/Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/DerivedSources -include /var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nav_Prefix-glepsesipzfjxeboizkkkaqdvbtg/Nav_Prefix.pch -c /Users/metallicatony/My_Programs/iPhone/Nav/Classes/MovieListController.m -o /Users/metallicatony/My_Programs/iPhone/Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/MovieListController.o0#
+
+CCompileC build/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/NavAppDelegate.o /Users/metallicatony/My_Programs/iPhone/Nav/Classes/NavAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322347319.653844
+e322347319.796953
+r1
+xCompileC
+xbuild/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/NavAppDelegate.o
+x/Users/metallicatony/My_Programs/iPhone/Nav/Classes/NavAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/metallicatony/My_Programs/iPhone/Nav/Classes/NavAppDelegate.m322347319#322347319#0(0"0(0#0#68"/Users/metallicatony/My_Programs/iPhone/Nav/Classes/NavAppDelegate.m8614985312#1917"    cd /Users/metallicatony/My_Programs/iPhone/Nav    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/metallicatony/My_Programs/iPhone/Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Nav-generated-files.hmap -I/Users/metallicatony/My_Programs/iPhone/Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Nav-own-target-headers.hmap -I/Users/metallicatony/My_Programs/iPhone/Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Nav-all-target-headers.hmap -iquote /Users/metallicatony/My_Programs/iPhone/Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Nav-project-headers.hmap -F/Users/metallicatony/My_Programs/iPhone/Nav/build/Debug-iphonesimulator -I/Users/metallicatony/My_Programs/iPhone/Nav/build/Debug-iphonesimulator/include -I/Users/metallicatony/My_Programs/iPhone/Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/DerivedSources/i386 -I/Users/metallicatony/My_Programs/iPhone/Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/DerivedSources -include /var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nav_Prefix-glepsesipzfjxeboizkkkaqdvbtg/Nav_Prefix.pch -c /Users/metallicatony/My_Programs/iPhone/Nav/Classes/NavAppDelegate.m -o /Users/metallicatony/My_Programs/iPhone/Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/NavAppDelegate.o0#
+
+CCompileC build/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/RootViewController.o /Users/metallicatony/My_Programs/iPhone/Nav/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322407444.348868
+e322407444.432740
+r1
+xCompileC
+xbuild/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/RootViewController.o
+x/Users/metallicatony/My_Programs/iPhone/Nav/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/metallicatony/My_Programs/iPhone/Nav/Classes/RootViewController.m322407444#322407444#0(0"0(0#0#72"/Users/metallicatony/My_Programs/iPhone/Nav/Classes/RootViewController.m8627342912#1925"    cd /Users/metallicatony/My_Programs/iPhone/Nav    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/metallicatony/My_Programs/iPhone/Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Nav-generated-files.hmap -I/Users/metallicatony/My_Programs/iPhone/Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Nav-own-target-headers.hmap -I/Users/metallicatony/My_Programs/iPhone/Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Nav-all-target-headers.hmap -iquote /Users/metallicatony/My_Programs/iPhone/Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Nav-project-headers.hmap -F/Users/metallicatony/My_Programs/iPhone/Nav/build/Debug-iphonesimulator -I/Users/metallicatony/My_Programs/iPhone/Nav/build/Debug-iphonesimulator/include -I/Users/metallicatony/My_Programs/iPhone/Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/DerivedSources/i386 -I/Users/metallicatony/My_Programs/iPhone/Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/DerivedSources -include /var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nav_Prefix-glepsesipzfjxeboizkkkaqdvbtg/Nav_Prefix.pch -c /Users/metallicatony/My_Programs/iPhone/Nav/Classes/RootViewController.m -o /Users/metallicatony/My_Programs/iPhone/Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/main.o /Users/metallicatony/My_Programs/iPhone/Nav/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322347319.652820
+e322347319.746040
+r1
+xCompileC
+xbuild/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/main.o
+x/Users/metallicatony/My_Programs/iPhone/Nav/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/metallicatony/My_Programs/iPhone/Nav/main.m322347319#322347319#0(0"0(0#0#50"/Users/metallicatony/My_Programs/iPhone/Nav/main.m8620608000#1889"    cd /Users/metallicatony/My_Programs/iPhone/Nav    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/metallicatony/My_Programs/iPhone/Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Nav-generated-files.hmap -I/Users/metallicatony/My_Programs/iPhone/Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Nav-own-target-headers.hmap -I/Users/metallicatony/My_Programs/iPhone/Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Nav-all-target-headers.hmap -iquote /Users/metallicatony/My_Programs/iPhone/Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Nav-project-headers.hmap -F/Users/metallicatony/My_Programs/iPhone/Nav/build/Debug-iphonesimulator -I/Users/metallicatony/My_Programs/iPhone/Nav/build/Debug-iphonesimulator/include -I/Users/metallicatony/My_Programs/iPhone/Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/DerivedSources/i386 -I/Users/metallicatony/My_Programs/iPhone/Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/DerivedSources -include /var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nav_Prefix-glepsesipzfjxeboizkkkaqdvbtg/Nav_Prefix.pch -c /Users/metallicatony/My_Programs/iPhone/Nav/main.m -o /Users/metallicatony/My_Programs/iPhone/Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/metallicatony/My_Programs/iPhone/Nav/MainWindow.xib
+s322361640.157348
+e322361640.551049
+r1
+xCompileXIB
+x/Users/metallicatony/My_Programs/iPhone/Nav/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib322361640#322361640#0(0"0(0#0#58"/Users/metallicatony/My_Programs/iPhone/Nav/MainWindow.xib8613502432#581"    cd /Users/metallicatony/My_Programs/iPhone/Nav    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/metallicatony/My_Programs/iPhone/Nav/build/Debug-iphonesimulator/Nav.app/MainWindow.nib /Users/metallicatony/My_Programs/iPhone/Nav/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/metallicatony/My_Programs/iPhone/Nav/MovieDetailView.xib
+s322354266.095891
+e322354266.480943
+r1
+xCompileXIB
+x/Users/metallicatony/My_Programs/iPhone/Nav/MovieDetailView.xib
+lSLF07#2@30"CompileXIB MovieDetailView.xib322354266#322354266#0(0"0(0#0#63"/Users/metallicatony/My_Programs/iPhone/Nav/MovieDetailView.xib8619022688#591"    cd /Users/metallicatony/My_Programs/iPhone/Nav    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/metallicatony/My_Programs/iPhone/Nav/build/Debug-iphonesimulator/Nav.app/MovieDetailView.nib /Users/metallicatony/My_Programs/iPhone/Nav/MovieDetailView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCopyPlistFile /Users/metallicatony/My_Programs/iPhone/Nav/build/Debug-iphonesimulator/Nav.app/Movies.plist Movies.plist
+s321267498.584351
+e321267498.671308
+r1
+xCopyPlistFile
+x/Users/metallicatony/My_Programs/iPhone/Nav/build/Debug-iphonesimulator/Nav.app/Movies.plist
+xMovies.plist
+lSLF07#2@17"Copy Movies.plist321267498#321267498#0(0"0(0#0#56"/Users/metallicatony/My_Programs/iPhone/Nav/Movies.plist8603025184#393"    cd /Users/metallicatony/My_Programs/iPhone/Nav    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 Movies.plist --outdir /Users/metallicatony/My_Programs/iPhone/Nav/build/Debug-iphonesimulator/Nav.app0#
+
+CCpResource "build/Debug-iphonesimulator/Nav.app/Batsman Silhoutte 512x512.png" "../../../Desktop/Cricfacts/Batsman Silhoutte 512x512.png"
+s322347317.986554
+e322347318.415023
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Nav.app/Batsman Silhoutte 512x512.png
+x../../../Desktop/Cricfacts/Batsman Silhoutte 512x512.png
+lSLF07#2@61"Copy ../../../Desktop/Cricfacts/Batsman Silhoutte 512x512.png322347317#322347318#0(0"0(0#0#100"/Users/metallicatony/My_Programs/iPhone/Nav/../../../Desktop/Cricfacts/Batsman Silhoutte 512x512.png8618136416#527"    cd /Users/metallicatony/My_Programs/iPhone/Nav    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/metallicatony/My_Programs/iPhone/Nav/../../../Desktop/Cricfacts/Batsman Silhoutte 512x512.png" /Users/metallicatony/My_Programs/iPhone/Nav/build/Debug-iphonesimulator/Nav.app0#
+
+CCpResource "build/Debug-iphonesimulator/Nav.app/Batsman Silhoutte 512x512a.png" "../../../Desktop/Cricfacts/Batsman Silhoutte 512x512a.png"
+s322347317.987544
+e322347318.414486
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Nav.app/Batsman Silhoutte 512x512a.png
+x../../../Desktop/Cricfacts/Batsman Silhoutte 512x512a.png
+lSLF07#2@62"Copy ../../../Desktop/Cricfacts/Batsman Silhoutte 512x512a.png322347317#322347318#0(0"0(0#0#101"/Users/metallicatony/My_Programs/iPhone/Nav/../../../Desktop/Cricfacts/Batsman Silhoutte 512x512a.png8616541408#528"    cd /Users/metallicatony/My_Programs/iPhone/Nav    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/metallicatony/My_Programs/iPhone/Nav/../../../Desktop/Cricfacts/Batsman Silhoutte 512x512a.png" /Users/metallicatony/My_Programs/iPhone/Nav/build/Debug-iphonesimulator/Nav.app0#
+
+CCpResource "build/Debug-iphonesimulator/Nav.app/Batsman Silhoutte 512x512b.png" "../../../Desktop/Cricfacts/Batsman Silhoutte 512x512b.png"
+s322347317.988572
+e322347318.414700
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Nav.app/Batsman Silhoutte 512x512b.png
+x../../../Desktop/Cricfacts/Batsman Silhoutte 512x512b.png
+lSLF07#2@62"Copy ../../../Desktop/Cricfacts/Batsman Silhoutte 512x512b.png322347317#322347318#0(0"0(0#0#101"/Users/metallicatony/My_Programs/iPhone/Nav/../../../Desktop/Cricfacts/Batsman Silhoutte 512x512b.png8620530336#528"    cd /Users/metallicatony/My_Programs/iPhone/Nav    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/metallicatony/My_Programs/iPhone/Nav/../../../Desktop/Cricfacts/Batsman Silhoutte 512x512b.png" /Users/metallicatony/My_Programs/iPhone/Nav/build/Debug-iphonesimulator/Nav.app0#
+
+CCpResource "build/Debug-iphonesimulator/Nav.app/Icon Background 512x512.png" "../../../Desktop/Cricfacts/Icon Background 512x512.png"
+s322347317.985618
+e322347318.414254
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Nav.app/Icon Background 512x512.png
+x../../../Desktop/Cricfacts/Icon Background 512x512.png
+lSLF07#2@59"Copy ../../../Desktop/Cricfacts/Icon Background 512x512.png322347317#322347318#0(0"0(0#0#98"/Users/metallicatony/My_Programs/iPhone/Nav/../../../Desktop/Cricfacts/Icon Background 512x512.png8614361216#525"    cd /Users/metallicatony/My_Programs/iPhone/Nav    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/metallicatony/My_Programs/iPhone/Nav/../../../Desktop/Cricfacts/Icon Background 512x512.png" /Users/metallicatony/My_Programs/iPhone/Nav/build/Debug-iphonesimulator/Nav.app0#
+
+CCpResource "build/Debug-iphonesimulator/Nav.app/Icon Background.png" "../../../Desktop/Cricfacts/Icon Background.png"
+s321637542.127880
+e321637542.133019
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Nav.app/Icon Background.png
+x../../../Desktop/Cricfacts/Icon Background.png
+lSLF07#2@51"Copy ../../../Desktop/Cricfacts/Icon Background.png321637542#321637542#0(0"0(0#0#90"/Users/metallicatony/My_Programs/iPhone/Nav/../../../Desktop/Cricfacts/Icon Background.png8606195776#503"    cd /Users/metallicatony/My_Programs/iPhone/Nav    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/metallicatony/My_Programs/iPhone/Nav/../../../Desktop/Cricfacts/Icon Background.png" /Users/metallicatony/My_Programs/iPhone/Nav/build/Debug-iphonesimulator/Nav.app0#
+
+CCpResource "build/Debug-iphonesimulator/Nav.app/Icon Background.png" "Icon Background.png"
+s321636148.634375
+e321636148.640772
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Nav.app/Icon Background.png
+xIcon Background.png
+lSLF07#2@24"Copy Icon Background.png321636148#321636148#0(0"0(0#0#63"/Users/metallicatony/My_Programs/iPhone/Nav/Icon Background.png8603240512#476"    cd /Users/metallicatony/My_Programs/iPhone/Nav    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/metallicatony/My_Programs/iPhone/Nav/Icon Background.png" /Users/metallicatony/My_Programs/iPhone/Nav/build/Debug-iphonesimulator/Nav.app0#
+
+CCpResource build/Debug-iphonesimulator/Nav.app/Background.png ../../../Desktop/Cricfacts/Background.png
+s321631576.109057
+e321631576.154962
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Nav.app/Background.png
+x../../../Desktop/Cricfacts/Background.png
+lSLF07#2@46"Copy ../../../Desktop/Cricfacts/Background.png321631576#321631576#0(0"0(0#0#85"/Users/metallicatony/My_Programs/iPhone/Nav/../../../Desktop/Cricfacts/Background.png8605492352#496"    cd /Users/metallicatony/My_Programs/iPhone/Nav    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/metallicatony/My_Programs/iPhone/Nav/../../../Desktop/Cricfacts/Background.png /Users/metallicatony/My_Programs/iPhone/Nav/build/Debug-iphonesimulator/Nav.app0#
+
+CGenerateDSYMFile /Users/metallicatony/My_Programs/iPhone/Nav/build/Debug-iphonesimulator/Nav.app.dSYM /Users/metallicatony/My_Programs/iPhone/Nav/build/Debug-iphonesimulator/Nav.app/Nav
+s322408184.541959
+e322408184.562884
+r1
+xGenerateDSYMFile
+x/Users/metallicatony/My_Programs/iPhone/Nav/build/Debug-iphonesimulator/Nav.app.dSYM
+x/Users/metallicatony/My_Programs/iPhone/Nav/build/Debug-iphonesimulator/Nav.app/Nav
+lSLF07#2@97"GenerateDSYMFile build/Debug-iphonesimulator/Nav.app.dSYM build/Debug-iphonesimulator/Nav.app/Nav322408184#322408184#0(0"0(0#0#83"/Users/metallicatony/My_Programs/iPhone/Nav/build/Debug-iphonesimulator/Nav.app/Nav8629868416#386"    cd /Users/metallicatony/My_Programs/iPhone/Nav    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/metallicatony/My_Programs/iPhone/Nav/build/Debug-iphonesimulator/Nav.app/Nav -o /Users/metallicatony/My_Programs/iPhone/Nav/build/Debug-iphonesimulator/Nav.app.dSYM0#
+
+CLd /Users/metallicatony/My_Programs/iPhone/Nav/build/Debug-iphonesimulator/Nav.app/Nav normal i386
+s322408184.514491
+e322408184.541812
+r1
+xLd
+x/Users/metallicatony/My_Programs/iPhone/Nav/build/Debug-iphonesimulator/Nav.app/Nav
+xnormal
+xi386
+lSLF07#2@88"Link /Users/metallicatony/My_Programs/iPhone/Nav/build/Debug-iphonesimulator/Nav.app/Nav322408184#322408184#0(0"0(0#0#0"8627740064#1019"    cd /Users/metallicatony/My_Programs/iPhone/Nav    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/metallicatony/My_Programs/iPhone/Nav/build/Debug-iphonesimulator -L/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/UIKit.framework -F/Users/metallicatony/My_Programs/iPhone/Nav/build/Debug-iphonesimulator -filelist /Users/metallicatony/My_Programs/iPhone/Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/Nav.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework CoreGraphics -framework Foundation -framework UIKit -o /Users/metallicatony/My_Programs/iPhone/Nav/build/Debug-iphonesimulator/Nav.app/Nav0#
+
+CProcessInfoPlistFile /Users/metallicatony/My_Programs/iPhone/Nav/build/Debug-iphonesimulator/Nav.app/Info.plist Nav-Info.plist
+s322347317.981491
+e322347317.984652
+r1
+xProcessInfoPlistFile
+x/Users/metallicatony/My_Programs/iPhone/Nav/build/Debug-iphonesimulator/Nav.app/Info.plist
+xNav-Info.plist
+lSLF07#2@22"Process Nav-Info.plist322347317#322347317#0(0"0(0#0#58"/Users/metallicatony/My_Programs/iPhone/Nav/Nav-Info.plist8620127520#482"    cd /Users/metallicatony/My_Programs/iPhone/Nav    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Nav-Info.plist -genpkginfo /Users/metallicatony/My_Programs/iPhone/Nav/build/Debug-iphonesimulator/Nav.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/metallicatony/My_Programs/iPhone/Nav/build/Debug-iphonesimulator/Nav.app/Info.plist0#
+
+CProcessPCH /var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nav_Prefix-glepsesipzfjxeboizkkkaqdvbtg/Nav_Prefix.pch.gch Nav_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s322347318.727720
+e322347319.652663
+r1
+xProcessPCH
+x/var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nav_Prefix-glepsesipzfjxeboizkkkaqdvbtg/Nav_Prefix.pch.gch
+xNav_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@25"Precompile Nav_Prefix.pch322347318#322347319#0(0"0(0#0#58"/Users/metallicatony/My_Programs/iPhone/Nav/Nav_Prefix.pch8614964160#1780"    cd /Users/metallicatony/My_Programs/iPhone/Nav    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/metallicatony/My_Programs/iPhone/Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Nav-generated-files.hmap -I/Users/metallicatony/My_Programs/iPhone/Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Nav-own-target-headers.hmap -I/Users/metallicatony/My_Programs/iPhone/Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Nav-all-target-headers.hmap -iquote /Users/metallicatony/My_Programs/iPhone/Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Nav-project-headers.hmap -F/Users/metallicatony/My_Programs/iPhone/Nav/build/Debug-iphonesimulator -I/Users/metallicatony/My_Programs/iPhone/Nav/build/Debug-iphonesimulator/include -I/Users/metallicatony/My_Programs/iPhone/Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/DerivedSources/i386 -I/Users/metallicatony/My_Programs/iPhone/Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/DerivedSources -c /Users/metallicatony/My_Programs/iPhone/Nav/Nav_Prefix.pch -o /var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nav_Prefix-glepsesipzfjxeboizkkkaqdvbtg/Nav_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nav_Prefix-glveanaflvyegvfymuysnbauxiod/Nav_Prefix.pch.gch Nav_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s321261400.634703
+e321261401.571889
+r1
+xProcessPCH
+x/var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nav_Prefix-glveanaflvyegvfymuysnbauxiod/Nav_Prefix.pch.gch
+xNav_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@25"Precompile Nav_Prefix.pch321261400#321261401#0(0"0(0#0#58"/Users/metallicatony/My_Programs/iPhone/Nav/Nav_Prefix.pch8610078016#1767"    cd /Users/metallicatony/My_Programs/iPhone/Nav    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/metallicatony/My_Programs/iPhone/Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Nav-generated-files.hmap -I/Users/metallicatony/My_Programs/iPhone/Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Nav-own-target-headers.hmap -I/Users/metallicatony/My_Programs/iPhone/Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Nav-all-target-headers.hmap -iquote /Users/metallicatony/My_Programs/iPhone/Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/Nav-project-headers.hmap -F/Users/metallicatony/My_Programs/iPhone/Nav/build/Debug-iphonesimulator -I/Users/metallicatony/My_Programs/iPhone/Nav/build/Debug-iphonesimulator/include -I/Users/metallicatony/My_Programs/iPhone/Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/DerivedSources/i386 -I/Users/metallicatony/My_Programs/iPhone/Nav/build/Nav.build/Debug-iphonesimulator/Nav.build/DerivedSources -c /Users/metallicatony/My_Programs/iPhone/Nav/Nav_Prefix.pch -o /var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nav_Prefix-glveanaflvyegvfymuysnbauxiod/Nav_Prefix.pch.gch0#
+
+CTouch /Users/metallicatony/My_Programs/iPhone/Nav/build/Debug-iphonesimulator/Nav.app
+s322408184.562973
+e322408184.565455
+r1
+xTouch
+x/Users/metallicatony/My_Programs/iPhone/Nav/build/Debug-iphonesimulator/Nav.app
+lSLF07#2@85"Touch /Users/metallicatony/My_Programs/iPhone/Nav/build/Debug-iphonesimulator/Nav.app322408184#322408184#0(0"0(0#0#0"8629731840#284"    cd /Users/metallicatony/My_Programs/iPhone/Nav    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/metallicatony/My_Programs/iPhone/Nav/build/Debug-iphonesimulator/Nav.app0#
+

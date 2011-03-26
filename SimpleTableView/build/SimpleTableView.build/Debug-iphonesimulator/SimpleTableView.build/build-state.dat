@@ -1,0 +1,295 @@
+TSimpleTableView
+v7
+r0
+t318328167.355235
+cCheck dependencies
+cProcessInfoPlistFile /Users/metallicatony/My_Programs/iPhone/SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app/Info.plist SimpleTableView-Info.plist
+cCompileXIB /Users/metallicatony/My_Programs/iPhone/SimpleTableView/MainWindow.xib
+cCompileXIB /Users/metallicatony/My_Programs/iPhone/SimpleTableView/SimpleTableViewViewController.xib
+cCpResource build/Debug-iphonesimulator/SimpleTableView.app/star.png star.png
+cCpResource build/Debug-iphonesimulator/SimpleTableView.app/star2.png star2.png
+cProcessPCH /var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleTableView_Prefix-halorkbxjlucfcglfzjcsbavwolu/SimpleTableView_Prefix.pch.gch SimpleTableView_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/Objects-normal/i386/main.o /Users/metallicatony/My_Programs/iPhone/SimpleTableView/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/Objects-normal/i386/SimpleTableViewAppDelegate.o /Users/metallicatony/My_Programs/iPhone/SimpleTableView/Classes/SimpleTableViewAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/Objects-normal/i386/SimpleTableViewViewController.o /Users/metallicatony/My_Programs/iPhone/SimpleTableView/Classes/SimpleTableViewViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/metallicatony/My_Programs/iPhone/SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app/SimpleTableView normal i386
+cGenerateDSYMFile /Users/metallicatony/My_Programs/iPhone/SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app.dSYM /Users/metallicatony/My_Programs/iPhone/SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app/SimpleTableView
+cTouch /Users/metallicatony/My_Programs/iPhone/SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C3569260000000000000132
+t1278568742
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Users/metallicatony/My_Programs/iPhone/SimpleTableView/Classes/SimpleTableViewAppDelegate.h
+c000000004D4909A40000000000000210
+t1296632228
+s528
+i<UIKit/UIKit.h>
+
+N/Users/metallicatony/My_Programs/iPhone/SimpleTableView/Classes/SimpleTableViewAppDelegate.m
+c000000004D4909A40000000000000AB4
+t1296632228
+s2740
+i"SimpleTableViewAppDelegate.h"
+i"SimpleTableViewViewController.h"
+
+N/Users/metallicatony/My_Programs/iPhone/SimpleTableView/Classes/SimpleTableViewViewController.h
+c000000004D49132D00000000000001D1
+t1296634669
+s465
+i<UIKit/UIKit.h>
+
+N/Users/metallicatony/My_Programs/iPhone/SimpleTableView/Classes/SimpleTableViewViewController.m
+c000000004D4915E60000000000000BA3
+t1296635366
+s2979
+i"SimpleTableViewViewController.h"
+
+N/Users/metallicatony/My_Programs/iPhone/SimpleTableView/MainWindow.xib
+c000000004D4909A40000000000004E89
+t1296632228
+s20105
+
+N/Users/metallicatony/My_Programs/iPhone/SimpleTableView/SimpleTableViewViewController.xib
+c000000004D49134A000000000000486F
+t1296634698
+s18543
+
+N/Users/metallicatony/My_Programs/iPhone/SimpleTableView/SimpleTableView_Prefix.pch
+c000000004D4909A400000000000000C7
+t1296632228
+s199
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/metallicatony/My_Programs/iPhone/SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app
+t1296635367
+s306
+
+N/Users/metallicatony/My_Programs/iPhone/SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app.dSYM
+t1296635367
+s102
+
+N/Users/metallicatony/My_Programs/iPhone/SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app/Info.plist
+t1296634235
+s629
+
+N/Users/metallicatony/My_Programs/iPhone/SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app/MainWindow.nib
+t1296634236
+s1139
+
+N/Users/metallicatony/My_Programs/iPhone/SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app/PkgInfo
+t1296634235
+s8
+
+N/Users/metallicatony/My_Programs/iPhone/SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app/SimpleTableView
+t1296635367
+s23628
+
+N/Users/metallicatony/My_Programs/iPhone/SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app/SimpleTableViewViewController.nib
+t1296634869
+s1211
+
+N/Users/metallicatony/My_Programs/iPhone/SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app/star.png
+t1296634235
+s3086
+
+N/Users/metallicatony/My_Programs/iPhone/SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app/star2.png
+t1296634235
+s3311
+
+N/Users/metallicatony/My_Programs/iPhone/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/Objects-normal/i386/SimpleTableView.LinkFileList
+c000000004D49117B0000000000000200
+t1296634235
+s512
+
+N/Users/metallicatony/My_Programs/iPhone/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/Objects-normal/i386/SimpleTableViewAppDelegate.o
+t1296634869
+s48300
+
+N/Users/metallicatony/My_Programs/iPhone/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/Objects-normal/i386/SimpleTableViewViewController.o
+t1296635367
+s49324
+
+N/Users/metallicatony/My_Programs/iPhone/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/Objects-normal/i386/main.o
+t1296634237
+s6336
+
+N/Users/metallicatony/My_Programs/iPhone/SimpleTableView/main.m
+c000000004D4909A40000000000000172
+t1296632228
+s370
+i<UIKit/UIKit.h>
+
+N/Users/metallicatony/My_Programs/iPhone/SimpleTableView/star.png
+c0000000049E8EFE80000000000000C0E
+t1240002536
+s3086
+
+N/Users/metallicatony/My_Programs/iPhone/SimpleTableView/star2.png
+c0000000049FEFFBE0000000000000CEF
+t1241448382
+s3311
+
+N/var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleTableView_Prefix-halorkbxjlucfcglfzjcsbavwolu/SimpleTableView_Prefix.pch.gch
+t1296634237
+s15232016
+
+NSimpleTableView-Info.plist
+c000000004D4909A4000000000000038D
+t1296632228
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies318328167#318328167#0(0"0(0#1#0"8634074720#0"0#
+
+CCompileC build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/Objects-normal/i386/SimpleTableViewAppDelegate.o /Users/metallicatony/My_Programs/iPhone/SimpleTableView/Classes/SimpleTableViewAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s318327669.346205
+e318327669.413460
+r1
+xCompileC
+xbuild/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/Objects-normal/i386/SimpleTableViewAppDelegate.o
+x/Users/metallicatony/My_Programs/iPhone/SimpleTableView/Classes/SimpleTableViewAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@100"Compile /Users/metallicatony/My_Programs/iPhone/SimpleTableView/Classes/SimpleTableViewAppDelegate.m318327669#318327669#0(0"0(0#0#92"/Users/metallicatony/My_Programs/iPhone/SimpleTableView/Classes/SimpleTableViewAppDelegate.m8643521888#2300"    cd /Users/metallicatony/My_Programs/iPhone/SimpleTableView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/metallicatony/My_Programs/iPhone/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/SimpleTableView-generated-files.hmap -I/Users/metallicatony/My_Programs/iPhone/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/SimpleTableView-own-target-headers.hmap -I/Users/metallicatony/My_Programs/iPhone/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/SimpleTableView-all-target-headers.hmap -iquote /Users/metallicatony/My_Programs/iPhone/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/SimpleTableView-project-headers.hmap -F/Users/metallicatony/My_Programs/iPhone/SimpleTableView/build/Debug-iphonesimulator -I/Users/metallicatony/My_Programs/iPhone/SimpleTableView/build/Debug-iphonesimulator/include -I/Users/metallicatony/My_Programs/iPhone/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/DerivedSources/i386 -I/Users/metallicatony/My_Programs/iPhone/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/DerivedSources -include /var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleTableView_Prefix-halorkbxjlucfcglfzjcsbavwolu/SimpleTableView_Prefix.pch -c /Users/metallicatony/My_Programs/iPhone/SimpleTableView/Classes/SimpleTableViewAppDelegate.m -o /Users/metallicatony/My_Programs/iPhone/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/Objects-normal/i386/SimpleTableViewAppDelegate.o0#
+
+CCompileC build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/Objects-normal/i386/SimpleTableViewViewController.o /Users/metallicatony/My_Programs/iPhone/SimpleTableView/Classes/SimpleTableViewViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s318328167.243234
+e318328167.316596
+r1
+xCompileC
+xbuild/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/Objects-normal/i386/SimpleTableViewViewController.o
+x/Users/metallicatony/My_Programs/iPhone/SimpleTableView/Classes/SimpleTableViewViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@103"Compile /Users/metallicatony/My_Programs/iPhone/SimpleTableView/Classes/SimpleTableViewViewController.m318328167#318328167#0(0"0(0#0#95"/Users/metallicatony/My_Programs/iPhone/SimpleTableView/Classes/SimpleTableViewViewController.m8623303904#2306"    cd /Users/metallicatony/My_Programs/iPhone/SimpleTableView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/metallicatony/My_Programs/iPhone/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/SimpleTableView-generated-files.hmap -I/Users/metallicatony/My_Programs/iPhone/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/SimpleTableView-own-target-headers.hmap -I/Users/metallicatony/My_Programs/iPhone/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/SimpleTableView-all-target-headers.hmap -iquote /Users/metallicatony/My_Programs/iPhone/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/SimpleTableView-project-headers.hmap -F/Users/metallicatony/My_Programs/iPhone/SimpleTableView/build/Debug-iphonesimulator -I/Users/metallicatony/My_Programs/iPhone/SimpleTableView/build/Debug-iphonesimulator/include -I/Users/metallicatony/My_Programs/iPhone/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/DerivedSources/i386 -I/Users/metallicatony/My_Programs/iPhone/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/DerivedSources -include /var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleTableView_Prefix-halorkbxjlucfcglfzjcsbavwolu/SimpleTableView_Prefix.pch -c /Users/metallicatony/My_Programs/iPhone/SimpleTableView/Classes/SimpleTableViewViewController.m -o /Users/metallicatony/My_Programs/iPhone/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/Objects-normal/i386/SimpleTableViewViewController.o0#
+
+CCompileC build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/Objects-normal/i386/main.o /Users/metallicatony/My_Programs/iPhone/SimpleTableView/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s318327037.482516
+e318327037.606888
+r1
+xCompileC
+xbuild/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/Objects-normal/i386/main.o
+x/Users/metallicatony/My_Programs/iPhone/SimpleTableView/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/metallicatony/My_Programs/iPhone/SimpleTableView/main.m318327037#318327037#0(0"0(0#0#62"/Users/metallicatony/My_Programs/iPhone/SimpleTableView/main.m8634650048#2248"    cd /Users/metallicatony/My_Programs/iPhone/SimpleTableView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/metallicatony/My_Programs/iPhone/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/SimpleTableView-generated-files.hmap -I/Users/metallicatony/My_Programs/iPhone/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/SimpleTableView-own-target-headers.hmap -I/Users/metallicatony/My_Programs/iPhone/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/SimpleTableView-all-target-headers.hmap -iquote /Users/metallicatony/My_Programs/iPhone/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/SimpleTableView-project-headers.hmap -F/Users/metallicatony/My_Programs/iPhone/SimpleTableView/build/Debug-iphonesimulator -I/Users/metallicatony/My_Programs/iPhone/SimpleTableView/build/Debug-iphonesimulator/include -I/Users/metallicatony/My_Programs/iPhone/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/DerivedSources/i386 -I/Users/metallicatony/My_Programs/iPhone/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/DerivedSources -include /var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleTableView_Prefix-halorkbxjlucfcglfzjcsbavwolu/SimpleTableView_Prefix.pch -c /Users/metallicatony/My_Programs/iPhone/SimpleTableView/main.m -o /Users/metallicatony/My_Programs/iPhone/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/metallicatony/My_Programs/iPhone/SimpleTableView/MainWindow.xib
+s318327035.796838
+e318327036.408995
+r1
+xCompileXIB
+x/Users/metallicatony/My_Programs/iPhone/SimpleTableView/MainWindow.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@25"CompileXIB MainWindow.xib318327035#318327036#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#70"/Users/metallicatony/My_Programs/iPhone/SimpleTableView/MainWindow.xib8628148928#629"    cd /Users/metallicatony/My_Programs/iPhone/SimpleTableView    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/metallicatony/My_Programs/iPhone/SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app/MainWindow.nib /Users/metallicatony/My_Programs/iPhone/SimpleTableView/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/metallicatony/My_Programs/iPhone/SimpleTableView/SimpleTableViewViewController.xib
+s318327668.969632
+e318327669.345869
+r1
+xCompileXIB
+x/Users/metallicatony/My_Programs/iPhone/SimpleTableView/SimpleTableViewViewController.xib
+lSLF07#2@44"CompileXIB SimpleTableViewViewController.xib318327668#318327669#0(0"0(0#0#89"/Users/metallicatony/My_Programs/iPhone/SimpleTableView/SimpleTableViewViewController.xib8101247110708945920#667"    cd /Users/metallicatony/My_Programs/iPhone/SimpleTableView    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/metallicatony/My_Programs/iPhone/SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app/SimpleTableViewViewController.nib /Users/metallicatony/My_Programs/iPhone/SimpleTableView/SimpleTableViewViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCpResource build/Debug-iphonesimulator/SimpleTableView.app/star.png star.png
+s318327035.813056
+e318327035.857610
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SimpleTableView.app/star.png
+xstar.png
+lSLF07#2@13"Copy star.png318327035#318327035#0(0"0(0#0#64"/Users/metallicatony/My_Programs/iPhone/SimpleTableView/star.png8636229024#511"    cd /Users/metallicatony/My_Programs/iPhone/SimpleTableView    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/metallicatony/My_Programs/iPhone/SimpleTableView/star.png /Users/metallicatony/My_Programs/iPhone/SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app0#
+
+CCpResource build/Debug-iphonesimulator/SimpleTableView.app/star2.png star2.png
+s318327035.813721
+e318327035.857136
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SimpleTableView.app/star2.png
+xstar2.png
+lSLF07#2@14"Copy star2.png318327035#318327035#0(0"0(0#0#65"/Users/metallicatony/My_Programs/iPhone/SimpleTableView/star2.png8634647648#512"    cd /Users/metallicatony/My_Programs/iPhone/SimpleTableView    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/metallicatony/My_Programs/iPhone/SimpleTableView/star2.png /Users/metallicatony/My_Programs/iPhone/SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app0#
+
+CGenerateDSYMFile /Users/metallicatony/My_Programs/iPhone/SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app.dSYM /Users/metallicatony/My_Programs/iPhone/SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app/SimpleTableView
+s318328167.337956
+e318328167.351760
+r1
+xGenerateDSYMFile
+x/Users/metallicatony/My_Programs/iPhone/SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app.dSYM
+x/Users/metallicatony/My_Programs/iPhone/SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app/SimpleTableView
+lSLF07#2@133"GenerateDSYMFile build/Debug-iphonesimulator/SimpleTableView.app.dSYM build/Debug-iphonesimulator/SimpleTableView.app/SimpleTableView318328167#318328167#0(0"0(0#0#119"/Users/metallicatony/My_Programs/iPhone/SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app/SimpleTableView8644166560#458"    cd /Users/metallicatony/My_Programs/iPhone/SimpleTableView    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/metallicatony/My_Programs/iPhone/SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app/SimpleTableView -o /Users/metallicatony/My_Programs/iPhone/SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app.dSYM0#
+
+CLd /Users/metallicatony/My_Programs/iPhone/SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app/SimpleTableView normal i386
+s318328167.316690
+e318328167.337860
+r1
+xLd
+x/Users/metallicatony/My_Programs/iPhone/SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app/SimpleTableView
+xnormal
+xi386
+lSLF07#2@124"Link /Users/metallicatony/My_Programs/iPhone/SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app/SimpleTableView318328167#318328167#0(0"0(0#0#0"8644278144#1025"    cd /Users/metallicatony/My_Programs/iPhone/SimpleTableView    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/metallicatony/My_Programs/iPhone/SimpleTableView/build/Debug-iphonesimulator -F/Users/metallicatony/My_Programs/iPhone/SimpleTableView/build/Debug-iphonesimulator -filelist /Users/metallicatony/My_Programs/iPhone/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/Objects-normal/i386/SimpleTableView.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/metallicatony/My_Programs/iPhone/SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app/SimpleTableView0#
+
+CProcessInfoPlistFile /Users/metallicatony/My_Programs/iPhone/SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app/Info.plist SimpleTableView-Info.plist
+s318327035.771330
+e318327035.796715
+r1
+xProcessInfoPlistFile
+x/Users/metallicatony/My_Programs/iPhone/SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app/Info.plist
+xSimpleTableView-Info.plist
+lSLF07#2@34"Process SimpleTableView-Info.plist318327035#318327035#0(0"0(0#0#82"/Users/metallicatony/My_Programs/iPhone/SimpleTableView/SimpleTableView-Info.plist28429436510666848#554"    cd /Users/metallicatony/My_Programs/iPhone/SimpleTableView    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility SimpleTableView-Info.plist -genpkginfo /Users/metallicatony/My_Programs/iPhone/SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/metallicatony/My_Programs/iPhone/SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app/Info.plist0#
+
+CProcessPCH /var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleTableView_Prefix-halorkbxjlucfcglfzjcsbavwolu/SimpleTableView_Prefix.pch.gch SimpleTableView_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s318327036.409189
+e318327037.482227
+r1
+xProcessPCH
+x/var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleTableView_Prefix-halorkbxjlucfcglfzjcsbavwolu/SimpleTableView_Prefix.pch.gch
+xSimpleTableView_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@37"Precompile SimpleTableView_Prefix.pch318327036#318327037#0(0"0(0#0#82"/Users/metallicatony/My_Programs/iPhone/SimpleTableView/SimpleTableView_Prefix.pch8627088288#2115"    cd /Users/metallicatony/My_Programs/iPhone/SimpleTableView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/metallicatony/My_Programs/iPhone/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/SimpleTableView-generated-files.hmap -I/Users/metallicatony/My_Programs/iPhone/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/SimpleTableView-own-target-headers.hmap -I/Users/metallicatony/My_Programs/iPhone/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/SimpleTableView-all-target-headers.hmap -iquote /Users/metallicatony/My_Programs/iPhone/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/SimpleTableView-project-headers.hmap -F/Users/metallicatony/My_Programs/iPhone/SimpleTableView/build/Debug-iphonesimulator -I/Users/metallicatony/My_Programs/iPhone/SimpleTableView/build/Debug-iphonesimulator/include -I/Users/metallicatony/My_Programs/iPhone/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/DerivedSources/i386 -I/Users/metallicatony/My_Programs/iPhone/SimpleTableView/build/SimpleTableView.build/Debug-iphonesimulator/SimpleTableView.build/DerivedSources -c /Users/metallicatony/My_Programs/iPhone/SimpleTableView/SimpleTableView_Prefix.pch -o /var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleTableView_Prefix-halorkbxjlucfcglfzjcsbavwolu/SimpleTableView_Prefix.pch.gch0#
+
+CTouch /Users/metallicatony/My_Programs/iPhone/SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app
+s318328167.351879
+e318328167.355161
+r1
+xTouch
+x/Users/metallicatony/My_Programs/iPhone/SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app
+lSLF07#2@109"Touch /Users/metallicatony/My_Programs/iPhone/SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app318328167#318328167#0(0"0(0#0#0"8643588608#320"    cd /Users/metallicatony/My_Programs/iPhone/SimpleTableView    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/metallicatony/My_Programs/iPhone/SimpleTableView/build/Debug-iphonesimulator/SimpleTableView.app0#
+

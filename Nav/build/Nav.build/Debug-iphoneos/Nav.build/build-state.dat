@@ -1,0 +1,378 @@
+TNav
+v7
+r1
+cCheck dependencies
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk
+c000000004C05C1B10000000000000110
+t1275445681
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+c000000004BF4B7F900000000000001E5
+t1274329081
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFE06FA000000000034A850
+t1274939130
+s3450960
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFE07D200000000003E1EB0
+t1274939346
+s4071088
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFE07B10000000000001466
+t1274939313
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C04711400000000000009CD
+t1275359508
+s2509
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471FC0000000002D563E0
+t1275359740
+s47539168
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk
+c000000004D5F25270000000000000110
+t1298081063
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+c000000004D4F6A4700000000000001E5
+t1297050183
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54D1DD0000000000001466
+t1297404381
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5A28AB0000000000000AA1
+t1297754283
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5A292A0000000000CA2AE0
+t1297754410
+s13249248
+
+N/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CD5C66A0000000000B3E910
+t1289078378
+s11790608
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/../../../Desktop/Cricfacts/Batsman Silhoutte 512x512.png
+c000000004D7DF61F000000000003B96B
+t1300100639
+s244075
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/../../../Desktop/Cricfacts/Batsman Silhoutte 512x512a.png
+c000000004D7DF924000000000003BC07
+t1300101412
+s244743
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/../../../Desktop/Cricfacts/Batsman Silhoutte 512x512b.png
+c000000004D7DFACE0000000000034ED8
+t1300101838
+s216792
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/../../../Desktop/Cricfacts/Icon Background 512x512.png
+c000000004D7B971C000000000003C68F
+t1299945244
+s247439
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/Classes/MovieDetailController.h
+c000000004D8557B60000000000000170
+t1300584374
+s368
+i<UIKit/UIKit.h>
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/Classes/MovieDetailController.m
+c000000004D85E7D00000000000000900
+t1300621264
+s2304
+i"MovieDetailController.h"
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/Classes/MovieListController.h
+c000000004D85548000000000000002D0
+t1300583552
+s720
+i<UIKit/UIKit.h>
+i"MovieDetailController.h"
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/Classes/MovieListController.m
+c000000004D85EBA30000000000001142
+t1300622243
+s4418
+i"MovieListController.h"
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/Classes/NavAppDelegate.h
+c000000004D75D7A800000000000001B2
+t1299568552
+s434
+i<UIKit/UIKit.h>
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/Classes/NavAppDelegate.m
+c000000004D75ED490000000000000A0D
+t1299574089
+s2573
+i"NavAppDelegate.h"
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/Classes/RootViewController.h
+c000000004D853CFB000000000000023E
+t1300577531
+s574
+i<Foundation/Foundation.h>
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/Classes/RootViewController.m
+c000000004D8550240000000000000F81
+t1300582436
+s3969
+i"RootViewController.h"
+i"MovieListController.h"
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/MainWindow.xib
+c000000004D85E1780000000000006395
+t1300619640
+s25493
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/Movies.plist
+c000000004D75EFA90000000000000956
+t1299574697
+s2390
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/Nav_Prefix.pch
+c000000004D75D72900000000000000AF
+t1299568425
+s175
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/build/Debug-iphoneos/Nav.app
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/build/Debug-iphoneos/Nav.app.dSYM
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/build/Debug-iphoneos/Nav.app/Batsman Silhoutte 512x512.png
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/build/Debug-iphoneos/Nav.app/Batsman Silhoutte 512x512a.png
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/build/Debug-iphoneos/Nav.app/Batsman Silhoutte 512x512b.png
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/build/Debug-iphoneos/Nav.app/Icon Background 512x512.png
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/build/Debug-iphoneos/Nav.app/Info.plist
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/build/Debug-iphoneos/Nav.app/MainWindow.nib
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/build/Debug-iphoneos/Nav.app/Movies.plist
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/build/Debug-iphoneos/Nav.app/Nav
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/build/Debug-iphoneos/Nav.app/PkgInfo
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/build/Debug-iphoneos/Nav.app/ResourceRules.plist
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/build/Nav.build/Debug-iphoneos/Nav.build/Objects-normal/armv6/MovieDetailController.o
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/build/Nav.build/Debug-iphoneos/Nav.build/Objects-normal/armv6/MovieListController.o
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/build/Nav.build/Debug-iphoneos/Nav.build/Objects-normal/armv6/Nav
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/build/Nav.build/Debug-iphoneos/Nav.build/Objects-normal/armv6/Nav.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/build/Nav.build/Debug-iphoneos/Nav.build/Objects-normal/armv6/NavAppDelegate.o
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/build/Nav.build/Debug-iphoneos/Nav.build/Objects-normal/armv6/RootViewController.o
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/build/Nav.build/Debug-iphoneos/Nav.build/Objects-normal/armv6/main.o
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/build/Nav.build/Debug-iphoneos/Nav.build/Objects-normal/armv7/MovieDetailController.o
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/build/Nav.build/Debug-iphoneos/Nav.build/Objects-normal/armv7/MovieListController.o
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/build/Nav.build/Debug-iphoneos/Nav.build/Objects-normal/armv7/Nav
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/build/Nav.build/Debug-iphoneos/Nav.build/Objects-normal/armv7/Nav.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/build/Nav.build/Debug-iphoneos/Nav.build/Objects-normal/armv7/NavAppDelegate.o
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/build/Nav.build/Debug-iphoneos/Nav.build/Objects-normal/armv7/RootViewController.o
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/build/Nav.build/Debug-iphoneos/Nav.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/Nav/main.m
+c000000004D75D7290000000000000166
+t1299568425
+s358
+i<UIKit/UIKit.h>
+
+N/var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nav_Prefix-akpylzdckplfnjdrvpdaxmqfkchu/Nav_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nav_Prefix-dbhnnapzdykaylhdifunsidiayid/Nav_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nav_Prefix-fpigtbsvcemglcezaulcawhbgtvz/Nav_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nav_Prefix-gfpuogvoiqjplqcmagjudkwfkqgw/Nav_Prefix.pch.gch
+t2
+s0
+
+NNav-Info.plist
+c000000004D7DF8A500000000000003AB
+t1300101285
+s939
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies322347303#322347303#0(133"[BEROR]Code Sign error: The identity 'iPhone Developer' doesn't match any valid certificate/private key pair in the default keychain1(4@125"Code Sign error: The identity 'iPhone Developer' doesn't match any valid certificate/private key pair in the default keychain322347303#18446744073709551615#0#0(1@0"0(0#1#0"8620487872#0"0#
+
+CCompileC build/Nav.build/Debug-iphoneos/Nav.build/Objects-normal/armv6/MovieDetailController.o /Users/metallicatony/My_Programs/iPhone/Nav/Classes/MovieDetailController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Nav.build/Debug-iphoneos/Nav.build/Objects-normal/armv6/MovieListController.o /Users/metallicatony/My_Programs/iPhone/Nav/Classes/MovieListController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Nav.build/Debug-iphoneos/Nav.build/Objects-normal/armv6/NavAppDelegate.o /Users/metallicatony/My_Programs/iPhone/Nav/Classes/NavAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Nav.build/Debug-iphoneos/Nav.build/Objects-normal/armv6/RootViewController.o /Users/metallicatony/My_Programs/iPhone/Nav/Classes/RootViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Nav.build/Debug-iphoneos/Nav.build/Objects-normal/armv6/main.o /Users/metallicatony/My_Programs/iPhone/Nav/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Nav.build/Debug-iphoneos/Nav.build/Objects-normal/armv7/MovieDetailController.o /Users/metallicatony/My_Programs/iPhone/Nav/Classes/MovieDetailController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Nav.build/Debug-iphoneos/Nav.build/Objects-normal/armv7/MovieListController.o /Users/metallicatony/My_Programs/iPhone/Nav/Classes/MovieListController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Nav.build/Debug-iphoneos/Nav.build/Objects-normal/armv7/NavAppDelegate.o /Users/metallicatony/My_Programs/iPhone/Nav/Classes/NavAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Nav.build/Debug-iphoneos/Nav.build/Objects-normal/armv7/RootViewController.o /Users/metallicatony/My_Programs/iPhone/Nav/Classes/RootViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Nav.build/Debug-iphoneos/Nav.build/Objects-normal/armv7/main.o /Users/metallicatony/My_Programs/iPhone/Nav/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB /Users/metallicatony/My_Programs/iPhone/Nav/MainWindow.xib
+r0
+
+CCopyPNGFile "/Users/metallicatony/My_Programs/iPhone/Nav/build/Debug-iphoneos/Nav.app/Batsman Silhoutte 512x512.png" "../../../Desktop/Cricfacts/Batsman Silhoutte 512x512.png"
+r0
+
+CCopyPNGFile "/Users/metallicatony/My_Programs/iPhone/Nav/build/Debug-iphoneos/Nav.app/Batsman Silhoutte 512x512a.png" "../../../Desktop/Cricfacts/Batsman Silhoutte 512x512a.png"
+r0
+
+CCopyPNGFile "/Users/metallicatony/My_Programs/iPhone/Nav/build/Debug-iphoneos/Nav.app/Batsman Silhoutte 512x512b.png" "../../../Desktop/Cricfacts/Batsman Silhoutte 512x512b.png"
+r0
+
+CCopyPNGFile "/Users/metallicatony/My_Programs/iPhone/Nav/build/Debug-iphoneos/Nav.app/Icon Background 512x512.png" "../../../Desktop/Cricfacts/Icon Background 512x512.png"
+r0
+
+CCopyPlistFile /Users/metallicatony/My_Programs/iPhone/Nav/build/Debug-iphoneos/Nav.app/Movies.plist Movies.plist
+r0
+
+CCpResource build/Debug-iphoneos/Nav.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+r0
+
+CCpResource build/Debug-iphoneos/Nav.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+r0
+
+CCreateUniversalBinary /Users/metallicatony/My_Programs/iPhone/Nav/build/Debug-iphoneos/Nav.app/Nav normal "armv6 armv7"
+r0
+
+CGenerateDSYMFile /Users/metallicatony/My_Programs/iPhone/Nav/build/Debug-iphoneos/Nav.app.dSYM /Users/metallicatony/My_Programs/iPhone/Nav/build/Debug-iphoneos/Nav.app/Nav
+r0
+
+CLd /Users/metallicatony/My_Programs/iPhone/Nav/build/Nav.build/Debug-iphoneos/Nav.build/Objects-normal/armv6/Nav normal armv6
+r0
+
+CLd /Users/metallicatony/My_Programs/iPhone/Nav/build/Nav.build/Debug-iphoneos/Nav.build/Objects-normal/armv7/Nav normal armv7
+r0
+
+CProcessInfoPlistFile /Users/metallicatony/My_Programs/iPhone/Nav/build/Debug-iphoneos/Nav.app/Info.plist Nav-Info.plist
+r0
+
+CProcessPCH /var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nav_Prefix-akpylzdckplfnjdrvpdaxmqfkchu/Nav_Prefix.pch.gch Nav_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nav_Prefix-dbhnnapzdykaylhdifunsidiayid/Nav_Prefix.pch.gch Nav_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nav_Prefix-fpigtbsvcemglcezaulcawhbgtvz/Nav_Prefix.pch.gch Nav_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nav_Prefix-gfpuogvoiqjplqcmagjudkwfkqgw/Nav_Prefix.pch.gch Nav_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch /Users/metallicatony/My_Programs/iPhone/Nav/build/Debug-iphoneos/Nav.app
+r0
+

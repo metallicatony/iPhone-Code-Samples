@@ -1,0 +1,287 @@
+TSection
+v7
+r0
+t319709363.557817
+cCheck dependencies
+cProcessInfoPlistFile /Users/metallicatony/My_Programs/iPhone/Section/build/Debug-iphonesimulator/Section.app/Info.plist Section-Info.plist
+cCompileXIB /Users/metallicatony/My_Programs/iPhone/Section/MainWindow.xib
+cCompileXIB /Users/metallicatony/My_Programs/iPhone/Section/SectionViewController.xib
+cCopyPlistFile /Users/metallicatony/My_Programs/iPhone/Section/build/Debug-iphonesimulator/Section.app/sortednames.plist sortednames.plist
+cProcessPCH /var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Section_Prefix-hdpgmgaeblrqigeeoudyxcsjqlrx/Section_Prefix.pch.gch Section_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Section.build/Debug-iphonesimulator/Section.build/Objects-normal/i386/main.o /Users/metallicatony/My_Programs/iPhone/Section/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Section.build/Debug-iphonesimulator/Section.build/Objects-normal/i386/SectionAppDelegate.o /Users/metallicatony/My_Programs/iPhone/Section/Classes/SectionAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Section.build/Debug-iphonesimulator/Section.build/Objects-normal/i386/SectionViewController.o /Users/metallicatony/My_Programs/iPhone/Section/Classes/SectionViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/metallicatony/My_Programs/iPhone/Section/build/Debug-iphonesimulator/Section.app/Section normal i386
+cGenerateDSYMFile /Users/metallicatony/My_Programs/iPhone/Section/build/Debug-iphonesimulator/Section.app.dSYM /Users/metallicatony/My_Programs/iPhone/Section/build/Debug-iphonesimulator/Section.app/Section
+cTouch /Users/metallicatony/My_Programs/iPhone/Section/build/Debug-iphonesimulator/Section.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C3569260000000000000132
+t1278568742
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Users/metallicatony/My_Programs/iPhone/Section/Classes/SectionAppDelegate.h
+c000000004D5E151900000000000001E1
+t1298011417
+s481
+i<UIKit/UIKit.h>
+
+N/Users/metallicatony/My_Programs/iPhone/Section/Classes/SectionAppDelegate.m
+c000000004D5E15190000000000000A8D
+t1298011417
+s2701
+i"SectionAppDelegate.h"
+i"SectionViewController.h"
+
+N/Users/metallicatony/My_Programs/iPhone/Section/Classes/SectionViewController.h
+c000000004D5E25580000000000000209
+t1298015576
+s521
+i<UIKit/UIKit.h>
+
+N/Users/metallicatony/My_Programs/iPhone/Section/Classes/SectionViewController.m
+c000000004D5E27C60000000000000DE0
+t1298016198
+s3552
+i"SectionViewController.h"
+
+N/Users/metallicatony/My_Programs/iPhone/Section/MainWindow.xib
+c000000004D5E15190000000000004E29
+t1298011417
+s20009
+
+N/Users/metallicatony/My_Programs/iPhone/Section/SectionViewController.xib
+c000000004D5E25780000000000004851
+t1298015608
+s18513
+
+N/Users/metallicatony/My_Programs/iPhone/Section/Section_Prefix.pch
+c000000004D5E151900000000000000B7
+t1298011417
+s183
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/metallicatony/My_Programs/iPhone/Section/Sections-Info.plist
+c000000004CFF7534000000000000038D
+t1291810100
+s909
+
+N/Users/metallicatony/My_Programs/iPhone/Section/build/Debug-iphonesimulator/Section.app
+t1298016563
+s272
+
+N/Users/metallicatony/My_Programs/iPhone/Section/build/Debug-iphonesimulator/Section.app.dSYM
+t1298016563
+s102
+
+N/Users/metallicatony/My_Programs/iPhone/Section/build/Debug-iphonesimulator/Section.app/Info.plist
+t1298014189
+s591
+
+N/Users/metallicatony/My_Programs/iPhone/Section/build/Debug-iphonesimulator/Section.app/MainWindow.nib
+t1298014190
+s1123
+
+N/Users/metallicatony/My_Programs/iPhone/Section/build/Debug-iphonesimulator/Section.app/PkgInfo
+t1298014189
+s8
+
+N/Users/metallicatony/My_Programs/iPhone/Section/build/Debug-iphonesimulator/Section.app/Section
+t1298016563
+s23740
+
+N/Users/metallicatony/My_Programs/iPhone/Section/build/Debug-iphonesimulator/Section.app/SectionViewController.nib
+t1298015639
+s1213
+
+N/Users/metallicatony/My_Programs/iPhone/Section/build/Debug-iphonesimulator/Section.app/Sections-Info.plist
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/Section/build/Debug-iphonesimulator/Section.app/sortednames.plist
+t1298014190
+s21713
+
+N/Users/metallicatony/My_Programs/iPhone/Section/build/Section.build/Debug-iphonesimulator/Section.build/Objects-normal/i386/Section.LinkFileList
+c000000004D5E1FED00000000000001A8
+t1298014189
+s424
+
+N/Users/metallicatony/My_Programs/iPhone/Section/build/Section.build/Debug-iphonesimulator/Section.build/Objects-normal/i386/SectionAppDelegate.o
+t1298015639
+s47840
+
+N/Users/metallicatony/My_Programs/iPhone/Section/build/Section.build/Debug-iphonesimulator/Section.build/Objects-normal/i386/SectionViewController.o
+t1298016563
+s51092
+
+N/Users/metallicatony/My_Programs/iPhone/Section/build/Section.build/Debug-iphonesimulator/Section.build/Objects-normal/i386/main.o
+t1298014191
+s6320
+
+N/Users/metallicatony/My_Programs/iPhone/Section/main.m
+c000000004D5E1519000000000000016B
+t1298011417
+s363
+i<UIKit/UIKit.h>
+
+N/Users/metallicatony/My_Programs/iPhone/Section/sortednames.plist
+c0000000049E9076E000000000000CEBD
+t1240008558
+s52925
+
+N/var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Section_Prefix-hdpgmgaeblrqigeeoudyxcsjqlrx/Section_Prefix.pch.gch
+t1298014191
+s15232016
+
+NSection-Info.plist
+c000000004D5E1519000000000000038D
+t1298011417
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies319709363#319709363#0(0"0(0#1#0"8651560672#0"0#
+
+CCompileC build/Section.build/Debug-iphonesimulator/Section.build/Objects-normal/i386/SectionAppDelegate.o /Users/metallicatony/My_Programs/iPhone/Section/Classes/SectionAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s319708439.421199
+e319708439.491310
+r1
+xCompileC
+xbuild/Section.build/Debug-iphonesimulator/Section.build/Objects-normal/i386/SectionAppDelegate.o
+x/Users/metallicatony/My_Programs/iPhone/Section/Classes/SectionAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/metallicatony/My_Programs/iPhone/Section/Classes/SectionAppDelegate.m319708439#319708439#0(0"0(0#0#76"/Users/metallicatony/My_Programs/iPhone/Section/Classes/SectionAppDelegate.m8647739488#2036"    cd /Users/metallicatony/My_Programs/iPhone/Section    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/metallicatony/My_Programs/iPhone/Section/build/Section.build/Debug-iphonesimulator/Section.build/Section-generated-files.hmap -I/Users/metallicatony/My_Programs/iPhone/Section/build/Section.build/Debug-iphonesimulator/Section.build/Section-own-target-headers.hmap -I/Users/metallicatony/My_Programs/iPhone/Section/build/Section.build/Debug-iphonesimulator/Section.build/Section-all-target-headers.hmap -iquote /Users/metallicatony/My_Programs/iPhone/Section/build/Section.build/Debug-iphonesimulator/Section.build/Section-project-headers.hmap -F/Users/metallicatony/My_Programs/iPhone/Section/build/Debug-iphonesimulator -I/Users/metallicatony/My_Programs/iPhone/Section/build/Debug-iphonesimulator/include -I/Users/metallicatony/My_Programs/iPhone/Section/build/Section.build/Debug-iphonesimulator/Section.build/DerivedSources/i386 -I/Users/metallicatony/My_Programs/iPhone/Section/build/Section.build/Debug-iphonesimulator/Section.build/DerivedSources -include /var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Section_Prefix-hdpgmgaeblrqigeeoudyxcsjqlrx/Section_Prefix.pch -c /Users/metallicatony/My_Programs/iPhone/Section/Classes/SectionAppDelegate.m -o /Users/metallicatony/My_Programs/iPhone/Section/build/Section.build/Debug-iphonesimulator/Section.build/Objects-normal/i386/SectionAppDelegate.o0#
+
+CCompileC build/Section.build/Debug-iphonesimulator/Section.build/Objects-normal/i386/SectionViewController.o /Users/metallicatony/My_Programs/iPhone/Section/Classes/SectionViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s319709363.450074
+e319709363.519063
+r1
+xCompileC
+xbuild/Section.build/Debug-iphonesimulator/Section.build/Objects-normal/i386/SectionViewController.o
+x/Users/metallicatony/My_Programs/iPhone/Section/Classes/SectionViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/metallicatony/My_Programs/iPhone/Section/Classes/SectionViewController.m319709363#319709363#0(0"0(0#0#79"/Users/metallicatony/My_Programs/iPhone/Section/Classes/SectionViewController.m8643907968#2042"    cd /Users/metallicatony/My_Programs/iPhone/Section    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/metallicatony/My_Programs/iPhone/Section/build/Section.build/Debug-iphonesimulator/Section.build/Section-generated-files.hmap -I/Users/metallicatony/My_Programs/iPhone/Section/build/Section.build/Debug-iphonesimulator/Section.build/Section-own-target-headers.hmap -I/Users/metallicatony/My_Programs/iPhone/Section/build/Section.build/Debug-iphonesimulator/Section.build/Section-all-target-headers.hmap -iquote /Users/metallicatony/My_Programs/iPhone/Section/build/Section.build/Debug-iphonesimulator/Section.build/Section-project-headers.hmap -F/Users/metallicatony/My_Programs/iPhone/Section/build/Debug-iphonesimulator -I/Users/metallicatony/My_Programs/iPhone/Section/build/Debug-iphonesimulator/include -I/Users/metallicatony/My_Programs/iPhone/Section/build/Section.build/Debug-iphonesimulator/Section.build/DerivedSources/i386 -I/Users/metallicatony/My_Programs/iPhone/Section/build/Section.build/Debug-iphonesimulator/Section.build/DerivedSources -include /var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Section_Prefix-hdpgmgaeblrqigeeoudyxcsjqlrx/Section_Prefix.pch -c /Users/metallicatony/My_Programs/iPhone/Section/Classes/SectionViewController.m -o /Users/metallicatony/My_Programs/iPhone/Section/build/Section.build/Debug-iphonesimulator/Section.build/Objects-normal/i386/SectionViewController.o0#
+
+CCompileC build/Section.build/Debug-iphonesimulator/Section.build/Objects-normal/i386/main.o /Users/metallicatony/My_Programs/iPhone/Section/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s319706991.624923
+e319706991.716367
+r1
+xCompileC
+xbuild/Section.build/Debug-iphonesimulator/Section.build/Objects-normal/i386/main.o
+x/Users/metallicatony/My_Programs/iPhone/Section/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/metallicatony/My_Programs/iPhone/Section/main.m319706991#319706991#0(0"0(0#0#54"/Users/metallicatony/My_Programs/iPhone/Section/main.m8652124928#2000"    cd /Users/metallicatony/My_Programs/iPhone/Section    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/metallicatony/My_Programs/iPhone/Section/build/Section.build/Debug-iphonesimulator/Section.build/Section-generated-files.hmap -I/Users/metallicatony/My_Programs/iPhone/Section/build/Section.build/Debug-iphonesimulator/Section.build/Section-own-target-headers.hmap -I/Users/metallicatony/My_Programs/iPhone/Section/build/Section.build/Debug-iphonesimulator/Section.build/Section-all-target-headers.hmap -iquote /Users/metallicatony/My_Programs/iPhone/Section/build/Section.build/Debug-iphonesimulator/Section.build/Section-project-headers.hmap -F/Users/metallicatony/My_Programs/iPhone/Section/build/Debug-iphonesimulator -I/Users/metallicatony/My_Programs/iPhone/Section/build/Debug-iphonesimulator/include -I/Users/metallicatony/My_Programs/iPhone/Section/build/Section.build/Debug-iphonesimulator/Section.build/DerivedSources/i386 -I/Users/metallicatony/My_Programs/iPhone/Section/build/Section.build/Debug-iphonesimulator/Section.build/DerivedSources -include /var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Section_Prefix-hdpgmgaeblrqigeeoudyxcsjqlrx/Section_Prefix.pch -c /Users/metallicatony/My_Programs/iPhone/Section/main.m -o /Users/metallicatony/My_Programs/iPhone/Section/build/Section.build/Debug-iphonesimulator/Section.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/metallicatony/My_Programs/iPhone/Section/MainWindow.xib
+s319706989.846699
+e319706990.310404
+r1
+xCompileXIB
+x/Users/metallicatony/My_Programs/iPhone/Section/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib319706989#319706990#0(0"0(0#0#62"/Users/metallicatony/My_Programs/iPhone/Section/MainWindow.xib8644310464#597"    cd /Users/metallicatony/My_Programs/iPhone/Section    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/metallicatony/My_Programs/iPhone/Section/build/Debug-iphonesimulator/Section.app/MainWindow.nib /Users/metallicatony/My_Programs/iPhone/Section/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/metallicatony/My_Programs/iPhone/Section/SectionViewController.xib
+s319708439.049072
+e319708439.420768
+r1
+xCompileXIB
+x/Users/metallicatony/My_Programs/iPhone/Section/SectionViewController.xib
+lSLF07#2@36"CompileXIB SectionViewController.xib319708439#319708439#0(0"0(0#0#73"/Users/metallicatony/My_Programs/iPhone/Section/SectionViewController.xib8631533824#619"    cd /Users/metallicatony/My_Programs/iPhone/Section    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/metallicatony/My_Programs/iPhone/Section/build/Debug-iphonesimulator/Section.app/SectionViewController.nib /Users/metallicatony/My_Programs/iPhone/Section/SectionViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCopyPlistFile /Users/metallicatony/My_Programs/iPhone/Section/build/Debug-iphonesimulator/Section.app/Sections-Info.plist Sections-Info.plist
+r0
+
+CCopyPlistFile /Users/metallicatony/My_Programs/iPhone/Section/build/Debug-iphonesimulator/Section.app/sortednames.plist sortednames.plist
+s319706989.865396
+e319706990.098791
+r1
+xCopyPlistFile
+x/Users/metallicatony/My_Programs/iPhone/Section/build/Debug-iphonesimulator/Section.app/sortednames.plist
+xsortednames.plist
+lSLF07#2@22"Copy sortednames.plist319706989#319706990#0(0"0(0#0#65"/Users/metallicatony/My_Programs/iPhone/Section/sortednames.plist8644002560#410"    cd /Users/metallicatony/My_Programs/iPhone/Section    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 sortednames.plist --outdir /Users/metallicatony/My_Programs/iPhone/Section/build/Debug-iphonesimulator/Section.app0#
+
+CGenerateDSYMFile /Users/metallicatony/My_Programs/iPhone/Section/build/Debug-iphonesimulator/Section.app.dSYM /Users/metallicatony/My_Programs/iPhone/Section/build/Debug-iphonesimulator/Section.app/Section
+s319709363.540243
+e319709363.554539
+r1
+xGenerateDSYMFile
+x/Users/metallicatony/My_Programs/iPhone/Section/build/Debug-iphonesimulator/Section.app.dSYM
+x/Users/metallicatony/My_Programs/iPhone/Section/build/Debug-iphonesimulator/Section.app/Section
+lSLF07#2@109"GenerateDSYMFile build/Debug-iphonesimulator/Section.app.dSYM build/Debug-iphonesimulator/Section.app/Section319709363#319709363#0(0"0(0#0#95"/Users/metallicatony/My_Programs/iPhone/Section/build/Debug-iphonesimulator/Section.app/Section8642599264#410"    cd /Users/metallicatony/My_Programs/iPhone/Section    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/metallicatony/My_Programs/iPhone/Section/build/Debug-iphonesimulator/Section.app/Section -o /Users/metallicatony/My_Programs/iPhone/Section/build/Debug-iphonesimulator/Section.app.dSYM0#
+
+CLd /Users/metallicatony/My_Programs/iPhone/Section/build/Debug-iphonesimulator/Section.app/Section normal i386
+s319709363.519160
+e319709363.540141
+r1
+xLd
+x/Users/metallicatony/My_Programs/iPhone/Section/build/Debug-iphonesimulator/Section.app/Section
+xnormal
+xi386
+lSLF07#2@100"Link /Users/metallicatony/My_Programs/iPhone/Section/build/Debug-iphonesimulator/Section.app/Section319709363#319709363#0(0"0(0#0#0"8643176608#945"    cd /Users/metallicatony/My_Programs/iPhone/Section    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/metallicatony/My_Programs/iPhone/Section/build/Debug-iphonesimulator -F/Users/metallicatony/My_Programs/iPhone/Section/build/Debug-iphonesimulator -filelist /Users/metallicatony/My_Programs/iPhone/Section/build/Section.build/Debug-iphonesimulator/Section.build/Objects-normal/i386/Section.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/metallicatony/My_Programs/iPhone/Section/build/Debug-iphonesimulator/Section.app/Section0#
+
+CProcessInfoPlistFile /Users/metallicatony/My_Programs/iPhone/Section/build/Debug-iphonesimulator/Section.app/Info.plist Section-Info.plist
+s319706989.820704
+e319706989.846585
+r1
+xProcessInfoPlistFile
+x/Users/metallicatony/My_Programs/iPhone/Section/build/Debug-iphonesimulator/Section.app/Info.plist
+xSection-Info.plist
+lSLF07#2@26"Process Section-Info.plist319706989#319706989#0(0"0(0#0#66"/Users/metallicatony/My_Programs/iPhone/Section/Section-Info.plist29273878621126700#506"    cd /Users/metallicatony/My_Programs/iPhone/Section    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Section-Info.plist -genpkginfo /Users/metallicatony/My_Programs/iPhone/Section/build/Debug-iphonesimulator/Section.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/metallicatony/My_Programs/iPhone/Section/build/Debug-iphonesimulator/Section.app/Info.plist0#
+
+CProcessPCH /var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Section_Prefix-hdpgmgaeblrqigeeoudyxcsjqlrx/Section_Prefix.pch.gch Section_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s319706990.316614
+e319706991.624611
+r1
+xProcessPCH
+x/var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Section_Prefix-hdpgmgaeblrqigeeoudyxcsjqlrx/Section_Prefix.pch.gch
+xSection_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile Section_Prefix.pch319706990#319706991#0(0"0(0#0#66"/Users/metallicatony/My_Programs/iPhone/Section/Section_Prefix.pch8647696800#1883"    cd /Users/metallicatony/My_Programs/iPhone/Section    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/metallicatony/My_Programs/iPhone/Section/build/Section.build/Debug-iphonesimulator/Section.build/Section-generated-files.hmap -I/Users/metallicatony/My_Programs/iPhone/Section/build/Section.build/Debug-iphonesimulator/Section.build/Section-own-target-headers.hmap -I/Users/metallicatony/My_Programs/iPhone/Section/build/Section.build/Debug-iphonesimulator/Section.build/Section-all-target-headers.hmap -iquote /Users/metallicatony/My_Programs/iPhone/Section/build/Section.build/Debug-iphonesimulator/Section.build/Section-project-headers.hmap -F/Users/metallicatony/My_Programs/iPhone/Section/build/Debug-iphonesimulator -I/Users/metallicatony/My_Programs/iPhone/Section/build/Debug-iphonesimulator/include -I/Users/metallicatony/My_Programs/iPhone/Section/build/Section.build/Debug-iphonesimulator/Section.build/DerivedSources/i386 -I/Users/metallicatony/My_Programs/iPhone/Section/build/Section.build/Debug-iphonesimulator/Section.build/DerivedSources -c /Users/metallicatony/My_Programs/iPhone/Section/Section_Prefix.pch -o /var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Section_Prefix-hdpgmgaeblrqigeeoudyxcsjqlrx/Section_Prefix.pch.gch0#
+
+CTouch /Users/metallicatony/My_Programs/iPhone/Section/build/Debug-iphonesimulator/Section.app
+s319709363.554625
+e319709363.557772
+r1
+xTouch
+x/Users/metallicatony/My_Programs/iPhone/Section/build/Debug-iphonesimulator/Section.app
+lSLF07#2@93"Touch /Users/metallicatony/My_Programs/iPhone/Section/build/Debug-iphonesimulator/Section.app319709363#319709363#0(0"0(0#0#0"8642153856#296"    cd /Users/metallicatony/My_Programs/iPhone/Section    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/metallicatony/My_Programs/iPhone/Section/build/Debug-iphonesimulator/Section.app0#
+
