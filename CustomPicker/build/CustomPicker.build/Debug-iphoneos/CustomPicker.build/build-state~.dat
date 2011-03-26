@@ -1,0 +1,314 @@
+TCustomPicker
+v7
+r1
+cCheck dependencies
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk
+c000000004D5F25270000000000000110
+t1298081063
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+c000000004D4F6A4700000000000001E5
+t1297050183
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54D18C00000000003532A0
+t1297404300
+s3486368
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54D1F500000000003E22F0
+t1297404405
+s4072176
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54D1DD0000000000001466
+t1297404381
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5A28AB0000000000000AA1
+t1297754283
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5A292A0000000000CA2AE0
+t1297754410
+s13249248
+
+N/Users/metallicatony/My_Programs/iPhone/CustomPicker/../../../Desktop/Cricfacts/Batsman Silhoutte 512x512b.png
+c000000004D7DFACE0000000000034ED8
+t1300101838
+s216792
+
+N/Users/metallicatony/My_Programs/iPhone/CustomPicker/Classes/CustomPickerAppDelegate.h
+c000000004D4681A400000000000001FF
+t1296466340
+s511
+i<UIKit/UIKit.h>
+
+N/Users/metallicatony/My_Programs/iPhone/CustomPicker/Classes/CustomPickerAppDelegate.m
+c000000004D4681A40000000000000AA6
+t1296466340
+s2726
+i"CustomPickerAppDelegate.h"
+i"CustomPickerViewController.h"
+
+N/Users/metallicatony/My_Programs/iPhone/CustomPicker/Classes/CustomPickerViewController.h
+c000000004D46888B0000000000000276
+t1296468107
+s630
+i<UIKit/UIKit.h>
+
+N/Users/metallicatony/My_Programs/iPhone/CustomPicker/Classes/CustomPickerViewController.m
+c000000004D4696830000000000001119
+t1296471683
+s4377
+i"CustomPickerViewController.h"
+
+N/Users/metallicatony/My_Programs/iPhone/CustomPicker/CustomPickerViewController.xib
+c000000004D4688840000000000005C43
+t1296468100
+s23619
+
+N/Users/metallicatony/My_Programs/iPhone/CustomPicker/CustomPicker_Prefix.pch
+c000000004D4681A400000000000000C1
+t1296466340
+s193
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/metallicatony/My_Programs/iPhone/CustomPicker/MainWindow.xib
+c000000004D4681A40000000000004E65
+t1296466340
+s20069
+
+N/Users/metallicatony/My_Programs/iPhone/CustomPicker/apple.png
+c0000000049D34EF0000000000000024E
+t1238585072
+s590
+
+N/Users/metallicatony/My_Programs/iPhone/CustomPicker/bar.png
+c0000000049D34EF00000000000000409
+t1238585072
+s1033
+
+N/Users/metallicatony/My_Programs/iPhone/CustomPicker/build/CustomPicker.build/Debug-iphoneos/CustomPicker.build/Objects-normal/armv6/CustomPicker
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/CustomPicker/build/CustomPicker.build/Debug-iphoneos/CustomPicker.build/Objects-normal/armv6/CustomPicker.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/CustomPicker/build/CustomPicker.build/Debug-iphoneos/CustomPicker.build/Objects-normal/armv6/CustomPickerAppDelegate.o
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/CustomPicker/build/CustomPicker.build/Debug-iphoneos/CustomPicker.build/Objects-normal/armv6/CustomPickerViewController.o
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/CustomPicker/build/CustomPicker.build/Debug-iphoneos/CustomPicker.build/Objects-normal/armv6/main.o
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/CustomPicker/build/CustomPicker.build/Debug-iphoneos/CustomPicker.build/Objects-normal/armv7/CustomPicker
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/CustomPicker/build/CustomPicker.build/Debug-iphoneos/CustomPicker.build/Objects-normal/armv7/CustomPicker.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/CustomPicker/build/CustomPicker.build/Debug-iphoneos/CustomPicker.build/Objects-normal/armv7/CustomPickerAppDelegate.o
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/CustomPicker/build/CustomPicker.build/Debug-iphoneos/CustomPicker.build/Objects-normal/armv7/CustomPickerViewController.o
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/CustomPicker/build/CustomPicker.build/Debug-iphoneos/CustomPicker.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug-iphoneos/CustomPicker.app
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug-iphoneos/CustomPicker.app.dSYM
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug-iphoneos/CustomPicker.app/Batsman Silhoutte 512x512b.png
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug-iphoneos/CustomPicker.app/CustomPicker
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug-iphoneos/CustomPicker.app/CustomPickerViewController.nib
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug-iphoneos/CustomPicker.app/Info.plist
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug-iphoneos/CustomPicker.app/MainWindow.nib
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug-iphoneos/CustomPicker.app/PkgInfo
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug-iphoneos/CustomPicker.app/ResourceRules.plist
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug-iphoneos/CustomPicker.app/apple.png
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug-iphoneos/CustomPicker.app/bar.png
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug-iphoneos/CustomPicker.app/cherry.png
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug-iphoneos/CustomPicker.app/crown.png
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug-iphoneos/CustomPicker.app/lemon.png
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug-iphoneos/CustomPicker.app/seven.png
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/CustomPicker/cherry.png
+c0000000049D34EF000000000000001C4
+t1238585072
+s452
+
+N/Users/metallicatony/My_Programs/iPhone/CustomPicker/crown.png
+c0000000049D34EF000000000000003CC
+t1238585072
+s972
+
+N/Users/metallicatony/My_Programs/iPhone/CustomPicker/lemon.png
+c0000000049D34EF0000000000000039A
+t1238585072
+s922
+
+N/Users/metallicatony/My_Programs/iPhone/CustomPicker/main.m
+c000000004D4681A40000000000000170
+t1296466340
+s368
+i<UIKit/UIKit.h>
+
+N/Users/metallicatony/My_Programs/iPhone/CustomPicker/seven.png
+c0000000049D34EF00000000000000227
+t1238585072
+s551
+
+N/var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomPicker_Prefix-cmrinskcyglpfjgqtypcwppkpmhf/CustomPicker_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomPicker_Prefix-frgnjyqphjtmxlbhvvmazpsyhidz/CustomPicker_Prefix.pch.gch
+t2
+s0
+
+NCustomPicker-Info.plist
+c000000004D7DFB4100000000000003AB
+t1300101953
+s939
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies322473108#322473108#0(133"[BEROR]Code Sign error: The identity 'iPhone Developer' doesn't match any valid certificate/private key pair in the default keychain1(4@125"Code Sign error: The identity 'iPhone Developer' doesn't match any valid certificate/private key pair in the default keychain322473108#18446744073709551615#0#0(1@0"0(0#1#0"8631186368#0"0#
+
+CCompileC build/CustomPicker.build/Debug-iphoneos/CustomPicker.build/Objects-normal/armv6/CustomPickerAppDelegate.o /Users/metallicatony/My_Programs/iPhone/CustomPicker/Classes/CustomPickerAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/CustomPicker.build/Debug-iphoneos/CustomPicker.build/Objects-normal/armv6/CustomPickerViewController.o /Users/metallicatony/My_Programs/iPhone/CustomPicker/Classes/CustomPickerViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/CustomPicker.build/Debug-iphoneos/CustomPicker.build/Objects-normal/armv6/main.o /Users/metallicatony/My_Programs/iPhone/CustomPicker/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/CustomPicker.build/Debug-iphoneos/CustomPicker.build/Objects-normal/armv7/CustomPickerAppDelegate.o /Users/metallicatony/My_Programs/iPhone/CustomPicker/Classes/CustomPickerAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/CustomPicker.build/Debug-iphoneos/CustomPicker.build/Objects-normal/armv7/CustomPickerViewController.o /Users/metallicatony/My_Programs/iPhone/CustomPicker/Classes/CustomPickerViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/CustomPicker.build/Debug-iphoneos/CustomPicker.build/Objects-normal/armv7/main.o /Users/metallicatony/My_Programs/iPhone/CustomPicker/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB /Users/metallicatony/My_Programs/iPhone/CustomPicker/CustomPickerViewController.xib
+r0
+
+CCompileXIB /Users/metallicatony/My_Programs/iPhone/CustomPicker/MainWindow.xib
+r0
+
+CCopyPNGFile "/Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug-iphoneos/CustomPicker.app/Batsman Silhoutte 512x512b.png" "../../../Desktop/Cricfacts/Batsman Silhoutte 512x512b.png"
+r0
+
+CCopyPNGFile /Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug-iphoneos/CustomPicker.app/apple.png apple.png
+r0
+
+CCopyPNGFile /Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug-iphoneos/CustomPicker.app/bar.png bar.png
+r0
+
+CCopyPNGFile /Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug-iphoneos/CustomPicker.app/cherry.png cherry.png
+r0
+
+CCopyPNGFile /Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug-iphoneos/CustomPicker.app/crown.png crown.png
+r0
+
+CCopyPNGFile /Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug-iphoneos/CustomPicker.app/lemon.png lemon.png
+r0
+
+CCopyPNGFile /Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug-iphoneos/CustomPicker.app/seven.png seven.png
+r0
+
+CCpResource build/Debug-iphoneos/CustomPicker.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+r0
+
+CCreateUniversalBinary /Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug-iphoneos/CustomPicker.app/CustomPicker normal "armv6 armv7"
+r0
+
+CGenerateDSYMFile /Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug-iphoneos/CustomPicker.app.dSYM /Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug-iphoneos/CustomPicker.app/CustomPicker
+r0
+
+CLd /Users/metallicatony/My_Programs/iPhone/CustomPicker/build/CustomPicker.build/Debug-iphoneos/CustomPicker.build/Objects-normal/armv6/CustomPicker normal armv6
+r0
+
+CLd /Users/metallicatony/My_Programs/iPhone/CustomPicker/build/CustomPicker.build/Debug-iphoneos/CustomPicker.build/Objects-normal/armv7/CustomPicker normal armv7
+r0
+
+CProcessInfoPlistFile /Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug-iphoneos/CustomPicker.app/Info.plist CustomPicker-Info.plist
+r0
+
+CProcessPCH /var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomPicker_Prefix-cmrinskcyglpfjgqtypcwppkpmhf/CustomPicker_Prefix.pch.gch CustomPicker_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomPicker_Prefix-frgnjyqphjtmxlbhvvmazpsyhidz/CustomPicker_Prefix.pch.gch CustomPicker_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch /Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug-iphoneos/CustomPicker.app
+r0
+

@@ -1,0 +1,209 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* CustomPickerAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {976, 446}}";
+			sepNavSelRange = "{197, 0}";
+			sepNavVisRange = "{0, 511}";
+		};
+	};
+	1D3623250D0F684500981E51 /* CustomPickerAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1066}}";
+			sepNavSelRange = "{724, 0}";
+			sepNavVisRange = "{194, 1469}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* CustomPicker */ = {
+		activeExec = 0;
+		executables = (
+			291A7F6912F6B9240080503C /* CustomPicker */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* CustomPickerViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {976, 465}}";
+			sepNavSelRange = "{335, 0}";
+			sepNavVisRange = "{0, 630}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* CustomPickerViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {976, 2158}}";
+			sepNavSelRange = "{200, 0}";
+			sepNavVisRange = "{0, 727}";
+		};
+	};
+	291A7F6912F6B9240080503C /* CustomPicker */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = CustomPicker;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	291A7F7B12F6B9470080503C /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	291A7F7C12F6B9470080503C /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	291A7F8912F6BF350080503C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* CustomPickerAppDelegate.h */;
+		name = "CustomPickerAppDelegate.h: 18";
+		rLen = 0;
+		rLoc = 392;
+		rType = 0;
+		vrLen = 511;
+		vrLoc = 0;
+	};
+	2957877113388D2F00C684CB /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* CustomPicker-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/metallicatony/My_Programs/iPhone/CustomPicker/CustomPicker-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	2957877213388D2F00C684CB /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 29B5BC12132E32BF00FA288F /* Batsman Silhoutte 512x512b.png */;
+	};
+	295788111338916F00C684CB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* CustomPickerAppDelegate.h */;
+		name = "CustomPickerAppDelegate.h: 11";
+		rLen = 0;
+		rLoc = 197;
+		rType = 0;
+		vrLen = 511;
+		vrLoc = 0;
+	};
+	29A11D5512F94FF600468ECD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* CustomPickerViewController.h */;
+		name = "CustomPickerViewController.h: 14";
+		rLen = 0;
+		rLoc = 335;
+		rType = 0;
+		vrLen = 630;
+		vrLoc = 0;
+	};
+	29B5BC0C132E32B800FA288F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* CustomPickerViewController.m */;
+		name = "CustomPickerViewController.m: 10";
+		rLen = 0;
+		rLoc = 200;
+		rType = 0;
+		vrLen = 727;
+		vrLoc = 0;
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 291A7F6912F6B9240080503C /* CustomPicker */;
+		activeSDKPreference = iphonesimulator4.3;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* CustomPicker */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* CustomPicker */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = 291A7F7C12F6B9470080503C /* Code sense */;
+		executables = (
+			291A7F6912F6B9240080503C /* CustomPicker */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					798,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 322473026;
+			PBXWorkspaceStateSaveDate = 322473026;
+		};
+		perUserProjectItems = {
+			291A7F8912F6BF350080503C /* PBXTextBookmark */ = 291A7F8912F6BF350080503C /* PBXTextBookmark */;
+			2957877113388D2F00C684CB /* PlistBookmark */ = 2957877113388D2F00C684CB /* PlistBookmark */;
+			2957877213388D2F00C684CB /* PBXBookmark */ = 2957877213388D2F00C684CB /* PBXBookmark */;
+			295788111338916F00C684CB /* PBXTextBookmark */ = 295788111338916F00C684CB /* PBXTextBookmark */;
+			29A11D5512F94FF600468ECD /* PBXTextBookmark */ = 29A11D5512F94FF600468ECD /* PBXTextBookmark */;
+			29B5BC0C132E32B800FA288F /* PBXTextBookmark */ = 29B5BC0C132E32B800FA288F /* PBXTextBookmark */;
+			29D7FE3312F6C18E00615CE9 /* PBXBookmark */ = 29D7FE3312F6C18E00615CE9 /* PBXBookmark */;
+			29D7FE3412F6C18E00615CE9 /* PBXBookmark */ = 29D7FE3412F6C18E00615CE9 /* PBXBookmark */;
+			29D7FE3512F6C18E00615CE9 /* PBXTextBookmark */ = 29D7FE3512F6C18E00615CE9 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 291A7F7B12F6B9470080503C /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29D7FE3312F6C18E00615CE9 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 29D7FE2812F6C06100615CE9 /* bar.png */;
+	};
+	29D7FE3412F6C18E00615CE9 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 29D7FE2912F6C06100615CE9 /* cherry.png */;
+	};
+	29D7FE3512F6C18E00615CE9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* CustomPickerAppDelegate.m */;
+		name = "CustomPickerAppDelegate.m: 31";
+		rLen = 0;
+		rLoc = 724;
+		rType = 0;
+		vrLen = 1469;
+		vrLoc = 194;
+	};
+}

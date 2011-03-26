@@ -1,0 +1,441 @@
+TCustomPicker
+v7
+r0
+t322473277.272495
+cCheck dependencies
+cProcessInfoPlistFile /Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug-iphonesimulator/CustomPicker.app/Info.plist CustomPicker-Info.plist
+cCompileXIB /Users/metallicatony/My_Programs/iPhone/CustomPicker/MainWindow.xib
+cCompileXIB /Users/metallicatony/My_Programs/iPhone/CustomPicker/CustomPickerViewController.xib
+cCpResource build/Debug-iphonesimulator/CustomPicker.app/apple.png apple.png
+cCpResource build/Debug-iphonesimulator/CustomPicker.app/bar.png bar.png
+cCpResource build/Debug-iphonesimulator/CustomPicker.app/cherry.png cherry.png
+cCpResource build/Debug-iphonesimulator/CustomPicker.app/crown.png crown.png
+cCpResource build/Debug-iphonesimulator/CustomPicker.app/lemon.png lemon.png
+cCpResource build/Debug-iphonesimulator/CustomPicker.app/seven.png seven.png
+cCpResource "build/Debug-iphonesimulator/CustomPicker.app/Batsman Silhoutte 512x512b.png" "../../../Desktop/Cricfacts/Batsman Silhoutte 512x512b.png"
+cProcessPCH /var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomPicker_Prefix-hebiuiirdqvlhbbjdrrgwkrdqmox/CustomPicker_Prefix.pch.gch CustomPicker_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CustomPicker.build/Debug-iphonesimulator/CustomPicker.build/Objects-normal/i386/main.o /Users/metallicatony/My_Programs/iPhone/CustomPicker/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CustomPicker.build/Debug-iphonesimulator/CustomPicker.build/Objects-normal/i386/CustomPickerAppDelegate.o /Users/metallicatony/My_Programs/iPhone/CustomPicker/Classes/CustomPickerAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CustomPicker.build/Debug-iphonesimulator/CustomPicker.build/Objects-normal/i386/CustomPickerViewController.o /Users/metallicatony/My_Programs/iPhone/CustomPicker/Classes/CustomPickerViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug-iphonesimulator/CustomPicker.app/CustomPicker normal i386
+cGenerateDSYMFile /Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug-iphonesimulator/CustomPicker.app.dSYM /Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug-iphonesimulator/CustomPicker.app/CustomPicker
+cTouch /Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug-iphonesimulator/CustomPicker.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C3569260000000000000132
+t1278568742
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c000000004D54CECB000000000023EB70
+t1297403595
+s2354032
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Users/metallicatony/My_Programs/iPhone/CustomPicker/../../../Desktop/Cricfacts/Batsman Silhoutte 512x512b.png
+c000000004D7DFACE0000000000034ED8
+t1300101838
+s216792
+
+N/Users/metallicatony/My_Programs/iPhone/CustomPicker/Classes/CustomPickerAppDelegate.h
+c000000004D4681A400000000000001FF
+t1296466340
+s511
+i<UIKit/UIKit.h>
+
+N/Users/metallicatony/My_Programs/iPhone/CustomPicker/Classes/CustomPickerAppDelegate.m
+c000000004D4681A40000000000000AA6
+t1296466340
+s2726
+i"CustomPickerAppDelegate.h"
+i"CustomPickerViewController.h"
+
+N/Users/metallicatony/My_Programs/iPhone/CustomPicker/Classes/CustomPickerViewController.h
+c000000004D46888B0000000000000276
+t1296468107
+s630
+i<UIKit/UIKit.h>
+
+N/Users/metallicatony/My_Programs/iPhone/CustomPicker/Classes/CustomPickerViewController.m
+c000000004D4696830000000000001119
+t1296471683
+s4377
+i"CustomPickerViewController.h"
+
+N/Users/metallicatony/My_Programs/iPhone/CustomPicker/CustomPickerViewController.xib
+c000000004D4688840000000000005C43
+t1296468100
+s23619
+
+N/Users/metallicatony/My_Programs/iPhone/CustomPicker/CustomPicker_Prefix.pch
+c000000004D4681A400000000000000C1
+t1296466340
+s193
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/metallicatony/My_Programs/iPhone/CustomPicker/MainWindow.xib
+c000000004D4681A40000000000004E65
+t1296466340
+s20069
+
+N/Users/metallicatony/My_Programs/iPhone/CustomPicker/apple.png
+c0000000049D34EF0000000000000024E
+t1238585072
+s590
+
+N/Users/metallicatony/My_Programs/iPhone/CustomPicker/bar.png
+c0000000049D34EF00000000000000409
+t1238585072
+s1033
+
+N/Users/metallicatony/My_Programs/iPhone/CustomPicker/build/CustomPicker.build/Debug-iphonesimulator/CustomPicker.build/Objects-normal/i386/CustomPicker.LinkFileList
+c000000004D468E4900000000000001DF
+t1296469577
+s479
+
+N/Users/metallicatony/My_Programs/iPhone/CustomPicker/build/CustomPicker.build/Debug-iphonesimulator/CustomPicker.build/Objects-normal/i386/CustomPickerAppDelegate.o
+t1300780462
+s52552
+
+N/Users/metallicatony/My_Programs/iPhone/CustomPicker/build/CustomPicker.build/Debug-iphonesimulator/CustomPicker.build/Objects-normal/i386/CustomPickerViewController.o
+t1300780462
+s57888
+
+N/Users/metallicatony/My_Programs/iPhone/CustomPicker/build/CustomPicker.build/Debug-iphonesimulator/CustomPicker.build/Objects-normal/i386/main.o
+t1300780462
+s6340
+
+N/Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug-iphonesimulator/CustomPicker.app
+t1300780462
+s476
+
+N/Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug-iphonesimulator/CustomPicker.app.dSYM
+t1300780462
+s102
+
+N/Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug-iphonesimulator/CustomPicker.app/Batsman Silhoutte 512x512b.png
+t1300780460
+s216792
+
+N/Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug-iphonesimulator/CustomPicker.app/CustomPicker
+t1300780462
+s25676
+
+N/Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug-iphonesimulator/CustomPicker.app/CustomPickerViewController.nib
+t1300780461
+s3909
+
+N/Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug-iphonesimulator/CustomPicker.app/Info.plist
+t1300780460
+s669
+
+N/Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug-iphonesimulator/CustomPicker.app/MainWindow.nib
+t1300780461
+s1691
+
+N/Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug-iphonesimulator/CustomPicker.app/PkgInfo
+t1300780460
+s8
+
+N/Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug-iphonesimulator/CustomPicker.app/apple.png
+t1300780460
+s590
+
+N/Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug-iphonesimulator/CustomPicker.app/bar.png
+t1300780460
+s1033
+
+N/Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug-iphonesimulator/CustomPicker.app/cherry.png
+t1300780460
+s452
+
+N/Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug-iphonesimulator/CustomPicker.app/crown.png
+t1300780460
+s972
+
+N/Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug-iphonesimulator/CustomPicker.app/lemon.png
+t1300780460
+s922
+
+N/Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug-iphonesimulator/CustomPicker.app/seven.png
+t1300780460
+s551
+
+N/Users/metallicatony/My_Programs/iPhone/CustomPicker/cherry.png
+c0000000049D34EF000000000000001C4
+t1238585072
+s452
+
+N/Users/metallicatony/My_Programs/iPhone/CustomPicker/crown.png
+c0000000049D34EF000000000000003CC
+t1238585072
+s972
+
+N/Users/metallicatony/My_Programs/iPhone/CustomPicker/lemon.png
+c0000000049D34EF0000000000000039A
+t1238585072
+s922
+
+N/Users/metallicatony/My_Programs/iPhone/CustomPicker/main.m
+c000000004D4681A40000000000000170
+t1296466340
+s368
+i<UIKit/UIKit.h>
+
+N/Users/metallicatony/My_Programs/iPhone/CustomPicker/seven.png
+c0000000049D34EF00000000000000227
+t1238585072
+s551
+
+N/var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomPicker_Prefix-bjumgcqcxzcilebydjycriyvmzdl/CustomPicker_Prefix.pch.gch
+t1296469578
+s15232016
+
+N/var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomPicker_Prefix-hebiuiirdqvlhbbjdrrgwkrdqmox/CustomPicker_Prefix.pch.gch
+t1300780462
+s15814064
+
+NCustomPicker-Info.plist
+c000000004D7DFB4100000000000003AB
+t1300101953
+s939
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies322473277#322473277#0(0"0(0#1#0"8632113888#0"0#
+
+CCompileC build/CustomPicker.build/Debug-iphonesimulator/CustomPicker.build/Objects-normal/i386/CustomPickerAppDelegate.o /Users/metallicatony/My_Programs/iPhone/CustomPicker/Classes/CustomPickerAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322473262.403073
+e322473262.530369
+r1
+xCompileC
+xbuild/CustomPicker.build/Debug-iphonesimulator/CustomPicker.build/Objects-normal/i386/CustomPickerAppDelegate.o
+x/Users/metallicatony/My_Programs/iPhone/CustomPicker/Classes/CustomPickerAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/metallicatony/My_Programs/iPhone/CustomPicker/Classes/CustomPickerAppDelegate.m322473262#322473262#0(0"0(0#0#86"/Users/metallicatony/My_Programs/iPhone/CustomPicker/Classes/CustomPickerAppDelegate.m8631874432#2214"    cd /Users/metallicatony/My_Programs/iPhone/CustomPicker    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/metallicatony/My_Programs/iPhone/CustomPicker/build/CustomPicker.build/Debug-iphonesimulator/CustomPicker.build/CustomPicker-generated-files.hmap -I/Users/metallicatony/My_Programs/iPhone/CustomPicker/build/CustomPicker.build/Debug-iphonesimulator/CustomPicker.build/CustomPicker-own-target-headers.hmap -I/Users/metallicatony/My_Programs/iPhone/CustomPicker/build/CustomPicker.build/Debug-iphonesimulator/CustomPicker.build/CustomPicker-all-target-headers.hmap -iquote /Users/metallicatony/My_Programs/iPhone/CustomPicker/build/CustomPicker.build/Debug-iphonesimulator/CustomPicker.build/CustomPicker-project-headers.hmap -F/Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug-iphonesimulator -I/Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug-iphonesimulator/include -I/Users/metallicatony/My_Programs/iPhone/CustomPicker/build/CustomPicker.build/Debug-iphonesimulator/CustomPicker.build/DerivedSources/i386 -I/Users/metallicatony/My_Programs/iPhone/CustomPicker/build/CustomPicker.build/Debug-iphonesimulator/CustomPicker.build/DerivedSources -include /var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomPicker_Prefix-hebiuiirdqvlhbbjdrrgwkrdqmox/CustomPicker_Prefix.pch -c /Users/metallicatony/My_Programs/iPhone/CustomPicker/Classes/CustomPickerAppDelegate.m -o /Users/metallicatony/My_Programs/iPhone/CustomPicker/build/CustomPicker.build/Debug-iphonesimulator/CustomPicker.build/Objects-normal/i386/CustomPickerAppDelegate.o0#
+
+CCompileC build/CustomPicker.build/Debug-iphonesimulator/CustomPicker.build/Objects-normal/i386/CustomPickerViewController.o /Users/metallicatony/My_Programs/iPhone/CustomPicker/Classes/CustomPickerViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322473262.404461
+e322473262.600900
+r1
+xCompileC
+xbuild/CustomPicker.build/Debug-iphonesimulator/CustomPicker.build/Objects-normal/i386/CustomPickerViewController.o
+x/Users/metallicatony/My_Programs/iPhone/CustomPicker/Classes/CustomPickerViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /Users/metallicatony/My_Programs/iPhone/CustomPicker/Classes/CustomPickerViewController.m322473262#322473262#0(0"0(0#0#89"/Users/metallicatony/My_Programs/iPhone/CustomPicker/Classes/CustomPickerViewController.m8631436576#2220"    cd /Users/metallicatony/My_Programs/iPhone/CustomPicker    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/metallicatony/My_Programs/iPhone/CustomPicker/build/CustomPicker.build/Debug-iphonesimulator/CustomPicker.build/CustomPicker-generated-files.hmap -I/Users/metallicatony/My_Programs/iPhone/CustomPicker/build/CustomPicker.build/Debug-iphonesimulator/CustomPicker.build/CustomPicker-own-target-headers.hmap -I/Users/metallicatony/My_Programs/iPhone/CustomPicker/build/CustomPicker.build/Debug-iphonesimulator/CustomPicker.build/CustomPicker-all-target-headers.hmap -iquote /Users/metallicatony/My_Programs/iPhone/CustomPicker/build/CustomPicker.build/Debug-iphonesimulator/CustomPicker.build/CustomPicker-project-headers.hmap -F/Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug-iphonesimulator -I/Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug-iphonesimulator/include -I/Users/metallicatony/My_Programs/iPhone/CustomPicker/build/CustomPicker.build/Debug-iphonesimulator/CustomPicker.build/DerivedSources/i386 -I/Users/metallicatony/My_Programs/iPhone/CustomPicker/build/CustomPicker.build/Debug-iphonesimulator/CustomPicker.build/DerivedSources -include /var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomPicker_Prefix-hebiuiirdqvlhbbjdrrgwkrdqmox/CustomPicker_Prefix.pch -c /Users/metallicatony/My_Programs/iPhone/CustomPicker/Classes/CustomPickerViewController.m -o /Users/metallicatony/My_Programs/iPhone/CustomPicker/build/CustomPicker.build/Debug-iphonesimulator/CustomPicker.build/Objects-normal/i386/CustomPickerViewController.o0#
+
+CCompileC build/CustomPicker.build/Debug-iphonesimulator/CustomPicker.build/Objects-normal/i386/main.o /Users/metallicatony/My_Programs/iPhone/CustomPicker/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322473262.401729
+e322473262.530034
+r1
+xCompileC
+xbuild/CustomPicker.build/Debug-iphonesimulator/CustomPicker.build/Objects-normal/i386/main.o
+x/Users/metallicatony/My_Programs/iPhone/CustomPicker/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/metallicatony/My_Programs/iPhone/CustomPicker/main.m322473262#322473262#0(0"0(0#0#59"/Users/metallicatony/My_Programs/iPhone/CustomPicker/main.m8632683520#2168"    cd /Users/metallicatony/My_Programs/iPhone/CustomPicker    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/metallicatony/My_Programs/iPhone/CustomPicker/build/CustomPicker.build/Debug-iphonesimulator/CustomPicker.build/CustomPicker-generated-files.hmap -I/Users/metallicatony/My_Programs/iPhone/CustomPicker/build/CustomPicker.build/Debug-iphonesimulator/CustomPicker.build/CustomPicker-own-target-headers.hmap -I/Users/metallicatony/My_Programs/iPhone/CustomPicker/build/CustomPicker.build/Debug-iphonesimulator/CustomPicker.build/CustomPicker-all-target-headers.hmap -iquote /Users/metallicatony/My_Programs/iPhone/CustomPicker/build/CustomPicker.build/Debug-iphonesimulator/CustomPicker.build/CustomPicker-project-headers.hmap -F/Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug-iphonesimulator -I/Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug-iphonesimulator/include -I/Users/metallicatony/My_Programs/iPhone/CustomPicker/build/CustomPicker.build/Debug-iphonesimulator/CustomPicker.build/DerivedSources/i386 -I/Users/metallicatony/My_Programs/iPhone/CustomPicker/build/CustomPicker.build/Debug-iphonesimulator/CustomPicker.build/DerivedSources -include /var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomPicker_Prefix-hebiuiirdqvlhbbjdrrgwkrdqmox/CustomPicker_Prefix.pch -c /Users/metallicatony/My_Programs/iPhone/CustomPicker/main.m -o /Users/metallicatony/My_Programs/iPhone/CustomPicker/build/CustomPicker.build/Debug-iphonesimulator/CustomPicker.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/metallicatony/My_Programs/iPhone/CustomPicker/CustomPickerViewController.xib
+s322473260.557585
+e322473261.040110
+r1
+xCompileXIB
+x/Users/metallicatony/My_Programs/iPhone/CustomPicker/CustomPickerViewController.xib
+lSLF07#2@41"CompileXIB CustomPickerViewController.xib322473260#322473261#0(0"0(0#0#83"/Users/metallicatony/My_Programs/iPhone/CustomPicker/CustomPickerViewController.xib8599025312#649"    cd /Users/metallicatony/My_Programs/iPhone/CustomPicker    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug-iphonesimulator/CustomPicker.app/CustomPickerViewController.nib /Users/metallicatony/My_Programs/iPhone/CustomPicker/CustomPickerViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/metallicatony/My_Programs/iPhone/CustomPicker/MainWindow.xib
+s322473260.556900
+e322473261.067988
+r1
+xCompileXIB
+x/Users/metallicatony/My_Programs/iPhone/CustomPicker/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib322473260#322473261#0(0"0(0#0#67"/Users/metallicatony/My_Programs/iPhone/CustomPicker/MainWindow.xib8618738496#617"    cd /Users/metallicatony/My_Programs/iPhone/CustomPicker    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug-iphonesimulator/CustomPicker.app/MainWindow.nib /Users/metallicatony/My_Programs/iPhone/CustomPicker/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCpResource "build/Debug-iphonesimulator/CustomPicker.app/Batsman Silhoutte 512x512b.png" "../../../Desktop/Cricfacts/Batsman Silhoutte 512x512b.png"
+s322473260.583543
+e322473260.645414
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CustomPicker.app/Batsman Silhoutte 512x512b.png
+x../../../Desktop/Cricfacts/Batsman Silhoutte 512x512b.png
+lSLF07#2@62"Copy ../../../Desktop/Cricfacts/Batsman Silhoutte 512x512b.png322473260#322473260#0(0"0(0#0#110"/Users/metallicatony/My_Programs/iPhone/CustomPicker/../../../Desktop/Cricfacts/Batsman Silhoutte 512x512b.png8627099040#564"    cd /Users/metallicatony/My_Programs/iPhone/CustomPicker    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/metallicatony/My_Programs/iPhone/CustomPicker/../../../Desktop/Cricfacts/Batsman Silhoutte 512x512b.png" /Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug-iphonesimulator/CustomPicker.app0#
+
+CCpResource build/Debug-iphonesimulator/CustomPicker.app/apple.png apple.png
+s322473260.577365
+e322473260.642876
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CustomPicker.app/apple.png
+xapple.png
+lSLF07#2@14"Copy apple.png322473260#322473260#0(0"0(0#0#62"/Users/metallicatony/My_Programs/iPhone/CustomPicker/apple.png8627586528#514"    cd /Users/metallicatony/My_Programs/iPhone/CustomPicker    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/metallicatony/My_Programs/iPhone/CustomPicker/apple.png /Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug-iphonesimulator/CustomPicker.app0#
+
+CCpResource build/Debug-iphonesimulator/CustomPicker.app/bar.png bar.png
+s322473260.578440
+e322473260.642186
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CustomPicker.app/bar.png
+xbar.png
+lSLF07#2@12"Copy bar.png322473260#322473260#0(0"0(0#0#60"/Users/metallicatony/My_Programs/iPhone/CustomPicker/bar.png8630977152#512"    cd /Users/metallicatony/My_Programs/iPhone/CustomPicker    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/metallicatony/My_Programs/iPhone/CustomPicker/bar.png /Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug-iphonesimulator/CustomPicker.app0#
+
+CCpResource build/Debug-iphonesimulator/CustomPicker.app/cherry.png cherry.png
+s322473260.579329
+e322473260.642484
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CustomPicker.app/cherry.png
+xcherry.png
+lSLF07#2@15"Copy cherry.png322473260#322473260#0(0"0(0#0#63"/Users/metallicatony/My_Programs/iPhone/CustomPicker/cherry.png8630548864#515"    cd /Users/metallicatony/My_Programs/iPhone/CustomPicker    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/metallicatony/My_Programs/iPhone/CustomPicker/cherry.png /Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug-iphonesimulator/CustomPicker.app0#
+
+CCpResource build/Debug-iphonesimulator/CustomPicker.app/crown.png crown.png
+s322473260.580197
+e322473260.643855
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CustomPicker.app/crown.png
+xcrown.png
+lSLF07#2@14"Copy crown.png322473260#322473260#0(0"0(0#0#62"/Users/metallicatony/My_Programs/iPhone/CustomPicker/crown.png8630385056#514"    cd /Users/metallicatony/My_Programs/iPhone/CustomPicker    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/metallicatony/My_Programs/iPhone/CustomPicker/crown.png /Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug-iphonesimulator/CustomPicker.app0#
+
+CCpResource build/Debug-iphonesimulator/CustomPicker.app/lemon.png lemon.png
+s322473260.581041
+e322473260.643033
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CustomPicker.app/lemon.png
+xlemon.png
+lSLF07#2@14"Copy lemon.png322473260#322473260#0(0"0(0#0#62"/Users/metallicatony/My_Programs/iPhone/CustomPicker/lemon.png8629149472#514"    cd /Users/metallicatony/My_Programs/iPhone/CustomPicker    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/metallicatony/My_Programs/iPhone/CustomPicker/lemon.png /Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug-iphonesimulator/CustomPicker.app0#
+
+CCpResource build/Debug-iphonesimulator/CustomPicker.app/seven.png seven.png
+s322473260.582165
+e322473260.642653
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CustomPicker.app/seven.png
+xseven.png
+lSLF07#2@14"Copy seven.png322473260#322473260#0(0"0(0#0#62"/Users/metallicatony/My_Programs/iPhone/CustomPicker/seven.png8628310080#514"    cd /Users/metallicatony/My_Programs/iPhone/CustomPicker    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/metallicatony/My_Programs/iPhone/CustomPicker/seven.png /Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug-iphonesimulator/CustomPicker.app0#
+
+CGenerateDSYMFile /Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug-iphonesimulator/CustomPicker.app.dSYM /Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug-iphonesimulator/CustomPicker.app/CustomPicker
+s322473262.768731
+e322473262.805050
+r1
+xGenerateDSYMFile
+x/Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug-iphonesimulator/CustomPicker.app.dSYM
+x/Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug-iphonesimulator/CustomPicker.app/CustomPicker
+lSLF07#2@124"GenerateDSYMFile build/Debug-iphonesimulator/CustomPicker.app.dSYM build/Debug-iphonesimulator/CustomPicker.app/CustomPicker322473262#322473262#0(0"0(0#0#110"/Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug-iphonesimulator/CustomPicker.app/CustomPicker8629976704#440"    cd /Users/metallicatony/My_Programs/iPhone/CustomPicker    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug-iphonesimulator/CustomPicker.app/CustomPicker -o /Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug-iphonesimulator/CustomPicker.app.dSYM0#
+
+CLd /Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug-iphonesimulator/CustomPicker.app/CustomPicker normal i386
+s322473262.600991
+e322473262.768628
+r1
+xLd
+x/Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug-iphonesimulator/CustomPicker.app/CustomPicker
+xnormal
+xi386
+lSLF07#2@115"Link /Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug-iphonesimulator/CustomPicker.app/CustomPicker322473262#322473262#0(0"0(0#0#0"8630631136#1021"    cd /Users/metallicatony/My_Programs/iPhone/CustomPicker    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug-iphonesimulator -F/Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug-iphonesimulator -filelist /Users/metallicatony/My_Programs/iPhone/CustomPicker/build/CustomPicker.build/Debug-iphonesimulator/CustomPicker.build/Objects-normal/i386/CustomPicker.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework CoreFoundation -framework Foundation -framework CoreGraphics -framework UIKit -o /Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug-iphonesimulator/CustomPicker.app/CustomPicker0#
+
+CProcessInfoPlistFile /Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug-iphonesimulator/CustomPicker.app/Info.plist CustomPicker-Info.plist
+s322473260.553262
+e322473260.556825
+r1
+xProcessInfoPlistFile
+x/Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug-iphonesimulator/CustomPicker.app/Info.plist
+xCustomPicker-Info.plist
+lSLF07#2@31"Process CustomPicker-Info.plist322473260#322473260#0(0"0(0#0#76"/Users/metallicatony/My_Programs/iPhone/CustomPicker/CustomPicker-Info.plist8628226176#536"    cd /Users/metallicatony/My_Programs/iPhone/CustomPicker    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility CustomPicker-Info.plist -genpkginfo /Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug-iphonesimulator/CustomPicker.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug-iphonesimulator/CustomPicker.app/Info.plist0#
+
+CProcessPCH /var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomPicker_Prefix-bjumgcqcxzcilebydjycriyvmzdl/CustomPicker_Prefix.pch.gch CustomPicker_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s318162377.986203
+e318162379.064799
+r1
+xProcessPCH
+x/var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomPicker_Prefix-bjumgcqcxzcilebydjycriyvmzdl/CustomPicker_Prefix.pch.gch
+xCustomPicker_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile CustomPicker_Prefix.pch318162377#318162379#0(0"0(0#0#76"/Users/metallicatony/My_Programs/iPhone/CustomPicker/CustomPicker_Prefix.pch8653158656#2028"    cd /Users/metallicatony/My_Programs/iPhone/CustomPicker    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/metallicatony/My_Programs/iPhone/CustomPicker/build/CustomPicker.build/Debug-iphonesimulator/CustomPicker.build/CustomPicker-generated-files.hmap -I/Users/metallicatony/My_Programs/iPhone/CustomPicker/build/CustomPicker.build/Debug-iphonesimulator/CustomPicker.build/CustomPicker-own-target-headers.hmap -I/Users/metallicatony/My_Programs/iPhone/CustomPicker/build/CustomPicker.build/Debug-iphonesimulator/CustomPicker.build/CustomPicker-all-target-headers.hmap -iquote /Users/metallicatony/My_Programs/iPhone/CustomPicker/build/CustomPicker.build/Debug-iphonesimulator/CustomPicker.build/CustomPicker-project-headers.hmap -F/Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug-iphonesimulator -I/Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug-iphonesimulator/include -I/Users/metallicatony/My_Programs/iPhone/CustomPicker/build/CustomPicker.build/Debug-iphonesimulator/CustomPicker.build/DerivedSources/i386 -I/Users/metallicatony/My_Programs/iPhone/CustomPicker/build/CustomPicker.build/Debug-iphonesimulator/CustomPicker.build/DerivedSources -c /Users/metallicatony/My_Programs/iPhone/CustomPicker/CustomPicker_Prefix.pch -o /var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomPicker_Prefix-bjumgcqcxzcilebydjycriyvmzdl/CustomPicker_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomPicker_Prefix-hebiuiirdqvlhbbjdrrgwkrdqmox/CustomPicker_Prefix.pch.gch CustomPicker_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s322473261.068224
+e322473262.401565
+r1
+xProcessPCH
+x/var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomPicker_Prefix-hebiuiirdqvlhbbjdrrgwkrdqmox/CustomPicker_Prefix.pch.gch
+xCustomPicker_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile CustomPicker_Prefix.pch322473261#322473262#0(0"0(0#0#76"/Users/metallicatony/My_Programs/iPhone/CustomPicker/CustomPicker_Prefix.pch8627664416#2041"    cd /Users/metallicatony/My_Programs/iPhone/CustomPicker    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/metallicatony/My_Programs/iPhone/CustomPicker/build/CustomPicker.build/Debug-iphonesimulator/CustomPicker.build/CustomPicker-generated-files.hmap -I/Users/metallicatony/My_Programs/iPhone/CustomPicker/build/CustomPicker.build/Debug-iphonesimulator/CustomPicker.build/CustomPicker-own-target-headers.hmap -I/Users/metallicatony/My_Programs/iPhone/CustomPicker/build/CustomPicker.build/Debug-iphonesimulator/CustomPicker.build/CustomPicker-all-target-headers.hmap -iquote /Users/metallicatony/My_Programs/iPhone/CustomPicker/build/CustomPicker.build/Debug-iphonesimulator/CustomPicker.build/CustomPicker-project-headers.hmap -F/Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug-iphonesimulator -I/Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug-iphonesimulator/include -I/Users/metallicatony/My_Programs/iPhone/CustomPicker/build/CustomPicker.build/Debug-iphonesimulator/CustomPicker.build/DerivedSources/i386 -I/Users/metallicatony/My_Programs/iPhone/CustomPicker/build/CustomPicker.build/Debug-iphonesimulator/CustomPicker.build/DerivedSources -c /Users/metallicatony/My_Programs/iPhone/CustomPicker/CustomPicker_Prefix.pch -o /var/folders/Rn/RnzlxLqeFfOlt1u2BLXKO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomPicker_Prefix-hebiuiirdqvlhbbjdrrgwkrdqmox/CustomPicker_Prefix.pch.gch0#
+
+CTouch /Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug-iphonesimulator/CustomPicker.app
+s322473262.805134
+e322473262.815686
+r1
+xTouch
+x/Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug-iphonesimulator/CustomPicker.app
+lSLF07#2@103"Touch /Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug-iphonesimulator/CustomPicker.app322473262#322473262#0(0"0(0#0#0"8629511968#311"    cd /Users/metallicatony/My_Programs/iPhone/CustomPicker    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug-iphonesimulator/CustomPicker.app0#
+

@@ -1,0 +1,140 @@
+TCustomPicker
+v7
+r1
+cCheck dependencies
+
+N/Users/metallicatony/My_Programs/iPhone/CustomPicker/../../../Desktop/Cricfacts/Batsman Silhoutte 512x512b.png
+c000000004D7DFACE0000000000034ED8
+t1300101838
+s216792
+
+N/Users/metallicatony/My_Programs/iPhone/CustomPicker/CustomPickerViewController.xib
+c000000004D4688840000000000005C43
+t1296468100
+s23619
+
+N/Users/metallicatony/My_Programs/iPhone/CustomPicker/MainWindow.xib
+c000000004D4681A40000000000004E65
+t1296466340
+s20069
+
+N/Users/metallicatony/My_Programs/iPhone/CustomPicker/apple.png
+c0000000049D34EF0000000000000024E
+t1238585072
+s590
+
+N/Users/metallicatony/My_Programs/iPhone/CustomPicker/bar.png
+c0000000049D34EF00000000000000409
+t1238585072
+s1033
+
+N/Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug/CustomPicker.app
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug/CustomPicker.app/Contents/Info.plist
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug/CustomPicker.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug/CustomPicker.app/Contents/Resources/Batsman Silhoutte 512x512b.png
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug/CustomPicker.app/Contents/Resources/CustomPickerViewController.nib
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug/CustomPicker.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug/CustomPicker.app/Contents/Resources/apple.png
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug/CustomPicker.app/Contents/Resources/bar.png
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug/CustomPicker.app/Contents/Resources/cherry.png
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug/CustomPicker.app/Contents/Resources/crown.png
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug/CustomPicker.app/Contents/Resources/lemon.png
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug/CustomPicker.app/Contents/Resources/seven.png
+t2
+s0
+
+N/Users/metallicatony/My_Programs/iPhone/CustomPicker/cherry.png
+c0000000049D34EF000000000000001C4
+t1238585072
+s452
+
+N/Users/metallicatony/My_Programs/iPhone/CustomPicker/crown.png
+c0000000049D34EF000000000000003CC
+t1238585072
+s972
+
+N/Users/metallicatony/My_Programs/iPhone/CustomPicker/lemon.png
+c0000000049D34EF0000000000000039A
+t1238585072
+s922
+
+N/Users/metallicatony/My_Programs/iPhone/CustomPicker/seven.png
+c0000000049D34EF00000000000000227
+t1238585072
+s551
+
+NCustomPicker-Info.plist
+c000000004D7DFB4100000000000003AB
+t1300101953
+s939
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies322473031#322473031#0(66"[BEROR]error: There is no SDK with the name or path 'iphoneos4.0'1(4@58"error: There is no SDK with the name or path 'iphoneos4.0'322473031#18446744073709551615#0#0(1@0"0(0#1#0"8630979840#0"0#
+
+CCompileXIB /Users/metallicatony/My_Programs/iPhone/CustomPicker/CustomPickerViewController.xib
+r0
+
+CCompileXIB /Users/metallicatony/My_Programs/iPhone/CustomPicker/MainWindow.xib
+r0
+
+CCpResource "build/Debug/CustomPicker.app/Contents/Resources/Batsman Silhoutte 512x512b.png" "../../../Desktop/Cricfacts/Batsman Silhoutte 512x512b.png"
+r0
+
+CCpResource build/Debug/CustomPicker.app/Contents/Resources/apple.png apple.png
+r0
+
+CCpResource build/Debug/CustomPicker.app/Contents/Resources/bar.png bar.png
+r0
+
+CCpResource build/Debug/CustomPicker.app/Contents/Resources/cherry.png cherry.png
+r0
+
+CCpResource build/Debug/CustomPicker.app/Contents/Resources/crown.png crown.png
+r0
+
+CCpResource build/Debug/CustomPicker.app/Contents/Resources/lemon.png lemon.png
+r0
+
+CCpResource build/Debug/CustomPicker.app/Contents/Resources/seven.png seven.png
+r0
+
+CProcessInfoPlistFile /Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug/CustomPicker.app/Contents/Info.plist CustomPicker-Info.plist
+r0
+
+CTouch /Users/metallicatony/My_Programs/iPhone/CustomPicker/build/Debug/CustomPicker.app
+r0
+
